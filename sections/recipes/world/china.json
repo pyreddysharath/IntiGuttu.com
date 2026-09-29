@@ -1,0 +1,115 @@
+{
+  "label": "China",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Kung Pao Chicken",
+      "details": [
+        "Key ingredients: chicken, peanuts, dried chilies, sichuan peppercorns, soy sauce",
+        "Marinate diced chicken briefly in soy sauce and cornstarch.",
+        "Stir-fry dried chilies and sichuan peppercorns in hot oil until fragrant.",
+        "Add chicken and stir-fry until cooked through.",
+        "Toss in peanuts and a savory-sweet sauce to finish."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Fried Rice",
+      "details": [
+        "Key ingredients: cooked rice, eggs, spring onion, soy sauce, mixed vegetables",
+        "Scramble eggs lightly in a hot wok and set aside.",
+        "Stir-fry day-old rice with vegetables until heated through.",
+        "Fold the scrambled eggs back in with soy sauce and spring onion.",
+        "Toss everything together over high heat for a minute more."
+      ],
+      "veg": false,
+      "type": "Rice"
+    },
+    {
+      "heading": "Dumplings (Jiaozi)",
+      "details": [
+        "Key ingredients: flour, minced pork, cabbage, ginger, garlic, soy sauce",
+        "Mix minced pork with finely chopped cabbage, ginger, garlic and soy sauce.",
+        "Fill small dough wrappers with the mixture and pleat closed.",
+        "Boil, steam or pan-fry the dumplings until cooked through.",
+        "Serve with a dipping sauce of soy sauce, vinegar and chili oil."
+      ],
+      "veg": false,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Peking Duck",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Mapo Tofu",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": true
+    },
+    {
+      "heading": "Xiaolongbao",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Hot Pot",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Char Siu",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Chow Mein",
+      "details": [
+        "Ingredients: noodles/pasta, vegetables or protein, aromatics, sauce and oil.",
+        "Boil noodles until just tender.",
+        "Stir-fry or simmer the sauce ingredients, add noodles and toss until evenly coated."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Dan Dan Noodles",
+      "details": [
+        "Ingredients: noodles/pasta, vegetables or protein, aromatics, sauce and oil.",
+        "Boil noodles until just tender.",
+        "Stir-fry or simmer the sauce ingredients, add noodles and toss until evenly coated."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mooncakes",
+      "details": [
+        "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
+        "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
+      ],
+      "type": "Sweet"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "label": "Indonesia",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Nasi Goreng",
+      "details": [
+        "Key ingredients: cooked rice, sweet soy sauce, shallots, garlic, chili, egg",
+        "Stir-fry shallots, garlic and chili paste until fragrant.",
+        "Add day-old rice and toss well with sweet soy sauce.",
+        "Push rice aside and scramble an egg directly in the pan.",
+        "Mix through and serve topped with a fried egg and crackers."
+      ],
+      "veg": false,
+      "type": "Rice"
+    },
+    {
+      "heading": "Chicken Satay",
+      "details": [
+        "Key ingredients: chicken, turmeric, coriander, peanut sauce, skewers",
+        "Marinate chicken pieces in a turmeric and coriander spice paste.",
+        "Thread onto skewers and grill over hot coals until charred.",
+        "Prepare a rich peanut sauce with chili and a touch of sweetness.",
+        "Serve the skewers with the peanut sauce and rice cakes."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "Beef Rendang",
+      "details": [
+        "Key ingredients: beef, coconut milk, lemongrass, galangal, dried chilies, kaffir lime",
+        "Blend a spice paste from chilies, lemongrass, galangal and shallots.",
+        "Fry the paste until fragrant, then add beef chunks.",
+        "Pour in coconut milk and simmer slowly for hours, stirring occasionally.",
+        "Cook until the liquid reduces into a thick, dark, richly spiced coating."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Rendang",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Satay",
+      "details": [
+        "Ingredients: meat or vegetables, yogurt/oil, garlic, spices, salt and lemon.",
+        "Marinate the main ingredient, thread or shape, then grill or broil until cooked and lightly charred."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Gado-Gado",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Soto",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Nasi Padang",
+      "details": [
+        "Ingredients: rice, vegetables or protein, onion/garlic, oil, seasoning and water/stock.",
+        "Cook the rice by absorption or steaming.",
+        "Sauté the other ingredients separately, combine and season to taste."
+      ],
+      "type": "Rice"
+    },
+    {
+      "heading": "Bakso",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Gudeg",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Beef Rawon",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Martabak",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

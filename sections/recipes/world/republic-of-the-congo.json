@@ -1,0 +1,30 @@
+{
+  "label": "Republic of the Congo",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Saka Saka",
+      "details": [
+        "Key ingredients: cassava leaves, palm oil, peanut paste, smoked fish",
+        "Pound or finely chop cassava leaves.",
+        "Simmer the leaves for a long time until tender.",
+        "Stir in palm oil, peanut paste and flaked smoked fish.",
+        "Continue cooking until the sauce is thick and serve with rice or fufu."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Poisson Braise",
+      "details": [
+        "Key ingredients: whole fish, chili, onion, lemon",
+        "Score and season a whole fish with chili, onion and lemon.",
+        "Marinate briefly to let the flavors penetrate.",
+        "Grill over charcoal, turning once, until charred and cooked through.",
+        "Serve hot with a spicy onion relish."
+      ],
+      "veg": false,
+      "type": "Other"
+    }
+  ]
+}

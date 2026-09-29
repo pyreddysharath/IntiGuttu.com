@@ -1,0 +1,56 @@
+{
+  "label": "Environmental Conservation",
+  "icon": "tree",
+  "items": [
+    {
+      "heading": "Sacred groves",
+      "icon": "tree",
+      "details": [
+        "Religious protection of certain forest patches has long helped preserve biodiversity and natural vegetation."
+      ]
+    },
+    {
+      "heading": "Sacred-tree traditions",
+      "icon": "tree",
+      "details": [
+        "Cultural restrictions around specific trees have helped protect many mature, long-lived trees."
+      ]
+    },
+    {
+      "heading": "Snake-worship traditions",
+      "icon": "shield",
+      "details": [
+        "Cultural reverence for snakes can discourage killing them, supporting a natural pest-control species."
+      ]
+    },
+    {
+      "heading": "Traditional protection of ponds and water bodies",
+      "icon": "drop",
+      "details": [
+        "Community restrictions around water bodies can help preserve them for everyone's long-term use."
+      ]
+    },
+    {
+      "heading": "Sacred plant cultivation",
+      "icon": "leaf",
+      "details": [
+        "Encourages the ongoing preservation and propagation of culturally important plant species."
+      ]
+    },
+    {
+      "heading": "Worshipping nature (rivers, trees, animals)",
+      "icon": "leaf",
+      "details": [
+        "Treating rivers like the Ganga, mountains, cows, and trees as sacred encouraged communities to protect and conserve them.",
+        "This reverence functioned as an early, community-enforced form of ecological conservation."
+      ]
+    },
+    {
+      "heading": "Traditional community grazing management",
+      "icon": "sprout",
+      "details": [
+        "Regulated, shared grazing practices can prevent excessive pressure on common pastureland."
+      ]
+    }
+  ]
+}

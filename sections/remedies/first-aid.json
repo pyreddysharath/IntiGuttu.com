@@ -1,0 +1,139 @@
+{
+  "label": "First Aid",
+  "icon": "firstaid",
+  "items": [
+    {
+      "heading": "Minor cuts and small wounds",
+      "details": [
+        "Rinse the wound gently under clean running water to remove dirt.",
+        "Apply light pressure with a clean cloth to stop any bleeding.",
+        "Apply a pinch of turmeric powder directly on the wound - it has natural antiseptic properties.",
+        "Cover with a clean bandage and keep the area dry.",
+        "See a doctor if bleeding does not stop within 10 minutes, the cut is deep, or it shows signs of infection such as redness, swelling, or pus."
+      ]
+    },
+    {
+      "heading": "Minor kitchen burns",
+      "details": [
+        "Hold the burnt area under cool, not ice-cold, running water for 10-15 minutes.",
+        "Do not apply ice, butter, or toothpaste - these can worsen the burn.",
+        "Cover loosely with a clean, non-stick cloth or bandage once cooled.",
+        "Take a mild pain reliever if needed for discomfort.",
+        "Seek medical help for burns larger than a palm, on the face, hands, or joints, or if blisters break or look infected."
+      ]
+    },
+    {
+      "heading": "Bruises",
+      "details": [
+        "Apply a cold compress or ice pack wrapped in cloth for 15-20 minutes to reduce swelling.",
+        "Elevate the bruised area if possible.",
+        "After 48 hours, switch to a warm compress to improve blood flow and speed healing.",
+        "See a doctor if the bruise is very large, unusually painful, or from a significant injury."
+      ]
+    },
+    {
+      "heading": "Insect bite or bee sting",
+      "details": [
+        "If a stinger is visible, scrape it out sideways with a card edge rather than squeezing it, which can release more venom.",
+        "Wash the area with soap and water.",
+        "Apply a cold compress to reduce swelling and itching.",
+        "A paste of baking soda and water can help soothe itching.",
+        "Seek emergency help immediately if there is difficulty breathing, swelling of the face or throat, or dizziness - signs of a severe allergic reaction."
+      ]
+    },
+    {
+      "heading": "Nosebleed",
+      "details": [
+        "Sit upright and lean slightly forward, not backward, to avoid swallowing blood.",
+        "Pinch the soft part of the nose firmly for 10 minutes without releasing to check.",
+        "Apply a cold compress to the bridge of the nose.",
+        "See a doctor if bleeding does not stop after 20 minutes, or if it was caused by an injury."
+      ]
+    },
+    {
+      "heading": "Minor sprain - the RICE method",
+      "details": [
+        "Rest the injured area and avoid putting weight on it.",
+        "Ice it with a cloth-wrapped ice pack for 15-20 minutes every few hours for the first 48 hours.",
+        "Compress gently with an elastic bandage, not too tight.",
+        "Elevate the injured limb above heart level when possible.",
+        "See a doctor if there is severe pain, inability to move the joint, or a visible deformity."
+      ]
+    },
+    {
+      "heading": "Sunburn",
+      "details": [
+        "Take a cool, not cold, shower or apply a cool damp cloth to the affected area.",
+        "Apply pure aloe vera gel to soothe and hydrate the skin.",
+        "Drink extra water to stay hydrated, and avoid further sun exposure.",
+        "Do not pop any blisters that form; keep them covered loosely.",
+        "See a doctor for widespread blistering, fever, or signs of heat illness."
+      ]
+    },
+    {
+      "heading": "Choking in an adult - the Heimlich maneuver",
+      "details": [
+        "Ask \"Are you choking?\" - if they cannot speak, cough, or breathe, act immediately.",
+        "Stand behind the person, wrap your arms around their waist, and tip them forward slightly.",
+        "Make a fist and place it thumb-side just above the navel, well below the breastbone.",
+        "Grasp your fist with the other hand and give quick, firm upward thrusts into the abdomen.",
+        "Repeat until the object is dislodged or the person can breathe, cough, or speak.",
+        "Call emergency services immediately if the person becomes unconscious, and begin CPR if you are trained."
+      ],
+      "emergency": true
+    },
+    {
+      "heading": "CPR for an adult (cardiopulmonary resuscitation)",
+      "details": [
+        "Check that the scene is safe, then check for responsiveness by tapping the shoulders and shouting.",
+        "Call emergency services immediately, or have someone else call, while you start CPR.",
+        "Lay the person flat on their back on a firm surface.",
+        "Place the heel of one hand on the center of the chest, the other hand on top, fingers interlaced.",
+        "Push hard and fast, straight down about 5-6 cm, at a rate of 100-120 compressions per minute, letting the chest fully recoil between compressions.",
+        "If trained in rescue breaths, give 2 breaths after every 30 compressions; if untrained, continue hands-only compressions.",
+        "Continue until emergency help arrives or the person shows signs of life.",
+        "This is an awareness guide only - hands-on CPR training and certification is strongly recommended."
+      ],
+      "emergency": true
+    },
+    {
+      "heading": "Mild allergic reaction (skin rash, itching)",
+      "details": [
+        "Wash the affected area with mild soap and cool water.",
+        "Apply a cold compress to reduce itching and swelling.",
+        "Avoid scratching, and keep the area clean and dry.",
+        "Seek emergency help immediately for facial swelling, difficulty breathing, or dizziness - these indicate a severe reaction."
+      ],
+      "emergency": true
+    },
+    {
+      "heading": "Eye irritation or a foreign particle in the eye",
+      "details": [
+        "Do not rub the eye.",
+        "Rinse gently with clean water or saline solution - blinking underwater in a bowl of clean water can help.",
+        "Blink repeatedly to encourage natural tearing, which helps flush the particle out.",
+        "See a doctor immediately if the particle does not flush out, vision is affected, or there has been chemical exposure."
+      ]
+    },
+    {
+      "heading": "Splinter removal",
+      "details": [
+        "Clean the area, and a pair of tweezers, with soap and water or rubbing alcohol.",
+        "Pull the splinter out at the same angle it entered, using the sterilized tweezers.",
+        "Wash the area again after removal and apply a dab of turmeric or antiseptic.",
+        "See a doctor if the splinter is deep, breaks apart, or the area becomes infected."
+      ]
+    },
+    {
+      "heading": "Minor electric shock",
+      "details": [
+        "Do not touch the person until the power source is switched off or they are clear of it.",
+        "Switch off the mains, or unplug the appliance using a dry wooden stick or other non-conductive object if you cannot reach the switch safely.",
+        "Check if the person is breathing and responsive once they are safely separated from the source.",
+        "Call emergency services immediately for any loss of consciousness, burns, or irregular heartbeat.",
+        "For minor shocks with no serious symptoms, still consult a doctor, as internal effects are not always visible immediately."
+      ],
+      "emergency": true
+    }
+  ]
+}

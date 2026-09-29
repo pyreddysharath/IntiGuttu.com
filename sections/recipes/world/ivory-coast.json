@@ -1,0 +1,30 @@
+{
+  "label": "Ivory Coast",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Attieke with Grilled Fish",
+      "details": [
+        "Key ingredients: cassava couscous, fish, tomato, onion",
+        "Steam grated fermented cassava (attieke) until light and fluffy.",
+        "Season and grill a whole fish until charred and cooked through.",
+        "Prepare a simple tomato and onion relish.",
+        "Serve the attieke with the grilled fish and relish."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "Kedjenou",
+      "details": [
+        "Key ingredients: chicken, tomato, eggplant, ginger",
+        "Combine chicken with tomato, eggplant, ginger and spices in a sealed pot.",
+        "Cook over low heat without opening the lid, shaking occasionally.",
+        "Steam-braise slowly until the chicken is tender and the vegetables have melded.",
+        "Serve with attieke or rice."
+      ],
+      "veg": false,
+      "type": "Other"
+    }
+  ]
+}

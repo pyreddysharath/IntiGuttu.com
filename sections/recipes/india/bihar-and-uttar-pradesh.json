@@ -1,0 +1,42 @@
+{
+  "label": "Bihar and Uttar Pradesh",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Bihari Mutton Curry",
+      "details": [
+        "Key ingredients: mutton, onion, garlic, mustard oil, whole spices",
+        "Brown mutton pieces in hot mustard oil with whole spices.",
+        "Add a generous amount of browned onion and garlic paste.",
+        "Simmer slowly, adding water gradually, until the mutton is tender.",
+        "Cook until the gravy is thick and richly flavored with mustard oil."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Tunday Kebab",
+      "details": [
+        "Key ingredients: minced mutton, raw papaya, spices, ghee",
+        "Marinate finely minced mutton with a paste of raw papaya and ground spices to tenderize.",
+        "Shape into small flat patties.",
+        "Shallow-fry in ghee on a griddle until browned on both sides.",
+        "Serve hot with thin rumali roti."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "Kachori with Aloo Sabzi",
+      "details": [
+        "Key ingredients: flour, moong dal or urad dal filling, potato, spices",
+        "Stuff a spiced lentil filling into small dough balls and roll out gently.",
+        "Deep-fry until puffed and golden.",
+        "Prepare a lightly spiced potato curry as an accompaniment.",
+        "Serve the hot kachoris with the potato sabzi."
+      ],
+      "veg": true,
+      "type": "Tiffin/Snack"
+    }
+  ]
+}

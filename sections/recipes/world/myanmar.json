@@ -1,0 +1,111 @@
+{
+  "label": "Myanmar",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Mohinga",
+      "details": [
+        "Key ingredients: rice noodles, fish, banana stem, lemongrass",
+        "Simmer catfish with lemongrass and aromatics into a fragrant broth.",
+        "Thicken the broth with a little rice flour or chickpea flour.",
+        "Add sliced banana stem for texture.",
+        "Ladle the hot broth over rice noodles and top with crispy fritters."
+      ],
+      "veg": false,
+      "type": "Rice"
+    },
+    {
+      "heading": "Lahpet Thoke",
+      "details": [
+        "Key ingredients: fermented tea leaves, peanuts, cabbage, tomato",
+        "Toss fermented tea leaves with a little oil.",
+        "Add fried peanuts, beans and sesame seeds.",
+        "Mix in shredded cabbage and diced tomato.",
+        "Toss everything with lime juice and a splash of fish sauce before serving."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Laphet Thoke",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Shan Noodles",
+      "details": [
+        "Ingredients: noodles/pasta, vegetables or protein, aromatics, sauce and oil.",
+        "Boil noodles until just tender.",
+        "Stir-fry or simmer the sauce ingredients, add noodles and toss until evenly coated."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Ohn No Khao Swe",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Burmese Curry",
+      "details": [
+        "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
+        "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Mont Lin Ma Yar",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Samosa",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Fry"
+    },
+    {
+      "heading": "Nan Gyi Thoke",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Tea Leaf Salad",
+      "details": [
+        "Ingredients: fresh vegetables/herbs, dressing, salt and optional grains/legumes.",
+        "Chop ingredients finely, whisk the dressing, combine just before serving and adjust acidity and salt."
+      ],
+      "type": "Other",
+      "veg": true
+    },
+    {
+      "heading": "Shan Tofu",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": true
+    }
+  ]
+}

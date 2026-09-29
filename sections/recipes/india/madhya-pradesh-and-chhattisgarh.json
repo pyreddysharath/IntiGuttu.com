@@ -1,0 +1,30 @@
+{
+  "label": "Madhya Pradesh and Chhattisgarh",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Faraa",
+      "details": [
+        "Key ingredients: rice flour, mustard oil, cumin, garlic",
+        "Knead rice flour with hot water into a soft dough.",
+        "Shape into small dumplings and steam until translucent.",
+        "Temper mustard oil with cumin and garlic.",
+        "Toss the steamed dumplings in the tempering before serving."
+      ],
+      "veg": true,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Chhattisgarhi Chicken Curry",
+      "details": [
+        "Key ingredients: chicken, onion, garlic, mustard oil, local spices",
+        "Saute onion and garlic in mustard oil until golden.",
+        "Add chicken pieces and cook until sealed on all sides.",
+        "Add a simple blend of everyday spices and a little water.",
+        "Simmer until the chicken is tender and the gravy is well combined."
+      ],
+      "veg": false,
+      "type": "Curry"
+    }
+  ]
+}

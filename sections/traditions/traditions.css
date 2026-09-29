@@ -1,0 +1,38 @@
+/* Traditions section - mustard yellow accent palette, tab-theme
+   overrides, and the per-item relevance icon shown in card titles. */
+
+:root{
+    --tradition:#D9B23C;
+    --tradition-deep:#8A6A10;
+    --tradition-soft:#FBF0D2;
+    --tradition-alt:color-mix(in srgb, var(--tradition) 52%, white);
+  }
+
+.tabs button[data-tab="traditions"]{background:var(--tradition);}
+
+.tabs button[data-tab="traditions"].active{border-color:transparent;box-shadow:none;}
+
+main[data-tab-theme="traditions"] .cathead{border-bottom-color:var(--tradition-deep);}
+
+main[data-tab-theme="traditions"] .cathead h2{color:var(--tradition-deep);}
+
+main[data-tab-theme="traditions"] .cathead .cat-chev{color:var(--tradition-deep);}
+
+main[data-tab-theme="traditions"] .cathead .icon-badge{
+    background:var(--tradition-soft);
+    border:1px solid color-mix(in srgb, var(--tradition-deep) 35%, var(--paper-line));
+    color:var(--tradition-deep);
+  }
+
+main[data-tab-theme="traditions"] details.card summary .chev{color:var(--tradition-deep);}
+
+main[data-tab-theme="traditions"] .diagram-wrap{background:var(--tradition-soft);}
+
+main[data-tab-theme="traditions"] .steps .num{background:var(--tradition-soft);color:var(--tradition-deep);}
+
+/* Per-item relevance icon shown inline in a card's title row. Generic
+   enough for any section to use, but currently only Traditions items
+   carry an "icon" value. */
+.item-icon{flex:none;width:19px;height:19px;color:#000000;opacity:.72;}
+
+.item-icon svg{width:100%;height:100%;display:block;}

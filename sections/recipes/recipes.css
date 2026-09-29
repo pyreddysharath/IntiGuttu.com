@@ -1,0 +1,82 @@
+/* Recipes section - olive accent palette, tab-theme overrides,
+   and the veg/non-veg + dish-type filter controls. */
+
+:root{
+    --recipe:#6FA05A;
+    --recipe-deep:#35592A;
+    --recipe-soft:#E3EFDD;
+    --recipe-alt:color-mix(in srgb, var(--recipe) 52%, white);
+  }
+
+.tabs button[data-tab="recipes"]{background:var(--recipe);}
+
+.tabs button[data-tab="recipes"].active{border-color:transparent;box-shadow:none;}
+
+.diet-row{display:flex;flex-direction:column;gap:8px;width:100%;max-width:480px;margin-top:2px;align-self:flex-start;}
+
+.veg-btn{
+    flex:1;display:flex;align-items:center;justify-content:center;gap:5px;
+    border:1.5px solid transparent;background:var(--recipe-soft);color:var(--recipe-deep);cursor:pointer;
+    padding:6px 8px;border-radius:20px;font-family:var(--font-mono);font-size:10.5px;font-weight:700;
+    letter-spacing:.03em;text-transform:uppercase;opacity:.75;
+    transition:background .15s ease, opacity .15s ease, box-shadow .15s ease;
+  }
+
+.veg-btn.active{
+    background:var(--recipe);color:#000000;opacity:1;
+  }
+
+.veg-dot{width:10px;height:10px;border-radius:2px;flex:none;box-sizing:border-box;}
+
+.veg-dot.veg{border:1.5px solid #1F7A34;background:#FFFFFF;position:relative;}
+
+.veg-dot.veg::after{content:"";position:absolute;inset:2px;border-radius:50%;background:#1F7A34;}
+
+.veg-dot.nonveg{border:1.5px solid #8B2E1E;background:#FFFFFF;position:relative;}
+
+.veg-dot.nonveg::after{content:"";position:absolute;inset:2px;border-radius:50%;background:#8B2E1E;}
+
+.veg-dot{display:inline-block;}
+
+.type-chips{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px;-webkit-overflow-scrolling:touch;}
+
+.type-chips::-webkit-scrollbar{display:none;}
+
+.chip{
+    flex:none;border:1.5px solid transparent;background:var(--recipe-soft);color:var(--recipe-deep);cursor:pointer;
+    padding:6px 12px;border-radius:20px;font-family:var(--font-mono);font-size:10.5px;font-weight:700;
+    letter-spacing:.03em;text-transform:uppercase;white-space:nowrap;opacity:.75;
+    transition:background .15s ease, opacity .15s ease, box-shadow .15s ease;
+  }
+
+.chip.active{
+    background:var(--recipe);color:#000000;opacity:1;
+  }
+
+.item-veg{display:inline-flex;flex:none;margin-right:1px;}
+
+.item-veg .veg-dot{width:11px;height:11px;}
+
+main[data-tab-theme="recipes"] .cathead{border-bottom-color:var(--recipe-deep);}
+
+main[data-tab-theme="recipes"] .cathead h2{color:var(--recipe-deep);}
+
+main[data-tab-theme="recipes"] .cathead .cat-chev{color:var(--recipe-deep);}
+
+main[data-tab-theme="recipes"] .cathead .icon-badge{
+    background:var(--recipe-soft);
+    border:1px solid color-mix(in srgb, var(--recipe-deep) 35%, var(--paper-line));
+    color:var(--recipe-deep);
+  }
+
+main[data-tab-theme="recipes"] details.card summary .chev{color:var(--recipe-deep);}
+
+main[data-tab-theme="recipes"] .diagram-wrap{background:var(--recipe-soft);}
+
+main[data-tab-theme="recipes"] .steps .num{background:var(--recipe-soft);color:var(--recipe-deep);}
+
+main[data-tab-theme="recipes"] .scope-tab.active{background:var(--recipe);color:#000000;border-bottom-color:var(--recipe-deep);opacity:1;}
+
+@media (min-width:600px){
+    .diet-row{max-width:none;}
+  }

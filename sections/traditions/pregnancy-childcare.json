@@ -1,0 +1,71 @@
+{
+  "label": "Pregnancy & Childcare",
+  "icon": "baby",
+  "items": [
+    {
+      "heading": "Seemantham / Godh Bharai-type ceremonies",
+      "icon": "baby",
+      "details": [
+        "Bring family and community together around a pregnancy, providing meaningful social support."
+      ]
+    },
+    {
+      "heading": "Traditional postpartum family support",
+      "icon": "baby",
+      "details": [
+        "Extended family help reduces household workload for the mother during recovery."
+      ]
+    },
+    {
+      "heading": "Traditional postpartum nutritious foods",
+      "icon": "baby",
+      "details": [
+        "Specially prepared foods can provide extra energy, protein, and micronutrients during recovery."
+      ]
+    },
+    {
+      "heading": "Colostrum feeding",
+      "icon": "baby",
+      "details": [
+        "The first breast milk provides concentrated antibodies and immune factors to the newborn."
+      ]
+    },
+    {
+      "heading": "Skin-to-skin contact",
+      "icon": "baby",
+      "details": [
+        "Supports a newborn's temperature regulation, physiological stability, and early bonding."
+      ]
+    },
+    {
+      "heading": "Traditional baby massage",
+      "icon": "baby",
+      "details": [
+        "Gentle, regular massage can promote relaxation and strengthen the bond between parent and infant."
+      ]
+    },
+    {
+      "heading": "Postpartum oil massage",
+      "icon": "baby",
+      "details": [
+        "Can provide relaxation and muscle comfort for the mother during recovery."
+      ]
+    },
+    {
+      "heading": "Applying kajal on babies",
+      "icon": "eye",
+      "details": [
+        "Traditionally made from soot or herbs, kajal was believed to protect an infant's eyes from harsh sunlight and dust.",
+        "A small dot on a baby's cheek or forehead was also a folk custom believed to \"ward off the evil eye.\""
+      ]
+    },
+    {
+      "heading": "Shaving a baby's first hair (Mundan)",
+      "icon": "sun",
+      "details": [
+        "Removing the fine birth hair was traditionally believed to encourage stronger, healthier hair growth later.",
+        "Briefly exposing the scalp to gentle sunlight was thought to aid the infant's vitamin D absorption."
+      ]
+    }
+  ]
+}

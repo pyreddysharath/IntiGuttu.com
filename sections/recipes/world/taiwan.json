@@ -1,0 +1,30 @@
+{
+  "label": "Taiwan",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Beef Noodle Soup",
+      "details": [
+        "Key ingredients: beef shank, noodles, star anise, soy sauce",
+        "Simmer beef shank with star anise, soy sauce and aromatics for hours.",
+        "Cook thick wheat noodles separately until tender.",
+        "Ladle the rich braised broth and beef over the noodles.",
+        "Top with pickled greens and scallion before serving."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Oyster Omelette",
+      "details": [
+        "Key ingredients: oysters, egg, sweet potato starch, greens",
+        "Fry fresh oysters briefly on a hot griddle.",
+        "Pour a starch and egg batter over the oysters.",
+        "Add leafy greens and cook until the edges turn crisp and lacy.",
+        "Drizzle with a sweet-savory sauce before serving."
+      ],
+      "veg": false,
+      "type": "Sweet"
+    }
+  ]
+}

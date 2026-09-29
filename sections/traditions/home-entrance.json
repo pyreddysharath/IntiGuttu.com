@@ -1,0 +1,67 @@
+{
+  "label": "Home & Entrance",
+  "icon": "doorway",
+  "items": [
+    {
+      "heading": "Turmeric, lime and kumkum at the entrance",
+      "icon": "shield",
+      "details": [
+        "Turmeric is a natural antiseptic, antimicrobial, and anti-inflammatory agent, and lime is naturally alkaline - together applied at the threshold, they form a simple chemical barrier against insects and airborne bacteria.",
+        "Culturally, the combination is considered auspicious and associated with cleanliness, inviting positive energy into the home."
+      ]
+    },
+    {
+      "heading": "Neem leaves at the entrance",
+      "icon": "leaf",
+      "details": [
+        "Neem contains compounds with insect-repellent and insecticidal properties, helping keep pests away from the doorway."
+      ]
+    },
+    {
+      "heading": "Mango-leaf toran",
+      "icon": "leaf",
+      "details": [
+        "Fresh greenery hung at the entrance is traditional, and may carry minor plant-related ecological or insect-deterrent effects."
+      ]
+    },
+    {
+      "heading": "Rice-flour Kolam / Muggu / Rangoli",
+      "icon": "spiral",
+      "details": [
+        "Drawing the intricate geometric pattern each morning encourages concentration, fine-motor coordination, and spatial processing.",
+        "Using edible rice flour also feeds ants, birds, and small creatures right at the doorstep, keeping them occupied outside rather than indoors."
+      ]
+    },
+    {
+      "heading": "Cow-dung coated traditional floors",
+      "icon": "drop",
+      "details": [
+        "Dried, properly prepared cow-dung mixtures can harden earthen floors and reduce dust.",
+        "Scientific analysis has shown cow dung to have disinfectant and antibacterial properties, useful in traditional mud-and-thatch homes."
+      ]
+    },
+    {
+      "heading": "Raised traditional entrance / plinth",
+      "icon": "doorway",
+      "details": [
+        "A raised entrance or plinth helps reduce the entry of rainwater, mud, and surface moisture into the home."
+      ]
+    },
+    {
+      "heading": "Lighting oil lamps (Diya) and incense (Agarbatti)",
+      "icon": "flame",
+      "details": [
+        "The warm glow and gentle flicker of a flame uplift mood and create a calm, serene atmosphere for prayer.",
+        "Traditionally, the oils and ghee used as fuel are believed to purify the air and repel insects, and incense smoke masks household odors."
+      ]
+    },
+    {
+      "heading": "Hanging a pumpkin, lemon, and chillies (Drishti Bommai)",
+      "icon": "shield",
+      "details": [
+        "In folk tradition, this wards off the \"evil eye\" or negative energy from jealousy and heavy foot traffic.",
+        "The sour, pungent smell of hanging lemons and chillies genuinely repels many pests, and once the produce spoils it is simply discarded."
+      ]
+    }
+  ]
+}

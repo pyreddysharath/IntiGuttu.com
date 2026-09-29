@@ -1,0 +1,42 @@
+{
+  "label": "Hygiene",
+  "icon": "cleaning",
+  "items": [
+    {
+      "heading": "Removing footwear before entering the house",
+      "icon": "footprint",
+      "details": [
+        "Reduces soil, dust, and outdoor contaminants from being tracked into living areas."
+      ]
+    },
+    {
+      "heading": "Washing feet before entering the house or puja area",
+      "icon": "footprint",
+      "details": [
+        "Feet collect dust, pollen, pollution, and countless microbes while outside.",
+        "Washing them before entering prevents tracking outside dirt and germs onto clean indoor surfaces."
+      ]
+    },
+    {
+      "heading": "Bathing before entering a temple",
+      "icon": "drop",
+      "details": [
+        "Removes sweat, dirt, and some contaminants before entering a shared place of worship."
+      ]
+    },
+    {
+      "heading": "Separate footwear for toilet / bathroom areas",
+      "icon": "shield",
+      "details": [
+        "Helps prevent the transfer of contaminants from wet, high-germ areas to the rest of the home."
+      ]
+    },
+    {
+      "heading": "Sun-drying bedding and mattresses",
+      "icon": "sun",
+      "details": [
+        "Reduces moisture in bedding and can reduce some microorganisms through heat and UV exposure."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "label": "Bhutan",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Ema Datshi",
+      "details": [
+        "Key ingredients: green chilies, cheese, tomato, onion",
+        "Slice a generous amount of green chilies lengthwise.",
+        "Simmer the chilies with tomato and onion in a little water.",
+        "Add cheese and stir until melted into a thick sauce.",
+        "Serve hot over steamed red rice."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Phaksha Paa",
+      "details": [
+        "Key ingredients: pork, radish, dried chilies, ginger",
+        "Simmer pork belly slices with sliced radish and ginger.",
+        "Add dried whole chilies for a smoky heat.",
+        "Cook until the pork is tender and the radish has softened.",
+        "Serve hot with steamed rice."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Jasha Maru",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Hoentay",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Momos",
+      "details": [
+        "Ingredients: flour, water, salt, filling of vegetables or meat, aromatics and dipping sauce.",
+        "Make a pliable dough, roll thin, fill and seal.",
+        "Steam or boil until cooked; serve with a seasoned sauce."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Red Rice",
+      "details": [
+        "Ingredients: rice, vegetables or protein, onion/garlic, oil, seasoning and water/stock.",
+        "Cook the rice by absorption or steaming.",
+        "Sauté the other ingredients separately, combine and season to taste."
+      ],
+      "type": "Rice"
+    },
+    {
+      "heading": "Kewa Datshi",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Shakam Paa",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Ara",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Zow Shungo",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

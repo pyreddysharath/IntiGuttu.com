@@ -1,0 +1,37 @@
+{
+  "key": "tips",
+  "label": "Tips & Remedies",
+  "icon": "firstaid",
+  "categories": [
+    {
+      "slug": "cooking-fixes",
+      "label": "Cooking Fixes",
+      "icon": "cook",
+      "file": "cooking-fixes.json"
+    },
+    {
+      "slug": "kitchen-storage",
+      "label": "Kitchen Storage",
+      "icon": "storage",
+      "file": "kitchen-storage.json"
+    },
+    {
+      "slug": "kitchen-hacks",
+      "label": "Kitchen Hacks",
+      "icon": "cook",
+      "file": "kitchen-hacks.json"
+    },
+    {
+      "slug": "first-aid",
+      "label": "First Aid",
+      "icon": "firstaid",
+      "file": "first-aid.json"
+    },
+    {
+      "slug": "home-remedies",
+      "label": "Home Remedies",
+      "icon": "cook",
+      "file": "home-remedies.json"
+    }
+  ]
+}

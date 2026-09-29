@@ -1,0 +1,35 @@
+/* DIY Fixes section - brown accent palette, tab-theme overrides,
+   and the "Precautions first" callout box. */
+
+:root{
+    --brown:#C9A06B;
+    --brown-deep:#7A5423;
+    --brown-soft:#F5E9D6;
+    --brown-alt:color-mix(in srgb, var(--brown) 52%, white);
+  }
+
+.tabs button[data-tab="diy"]{background:var(--brown);}
+
+.tabs button[data-tab="diy"].active{border-color:transparent;box-shadow:none;}
+
+main[data-tab-theme="diy"] .cathead{border-bottom-color:var(--brown-deep);}
+
+main[data-tab-theme="diy"] .cathead h2{color:var(--brown-deep);}
+
+main[data-tab-theme="diy"] .cathead .cat-chev{color:var(--brown-deep);}
+
+main[data-tab-theme="diy"] .cathead .icon-badge{
+    background:var(--brown-soft);
+    border:1px solid color-mix(in srgb, var(--brown-deep) 35%, var(--paper-line));
+    color:var(--brown-deep);
+  }
+
+main[data-tab-theme="diy"] details.card summary .chev{color:var(--brown-deep);}
+
+main[data-tab-theme="diy"] .diagram-wrap{background:var(--brown-soft);}
+
+.box.precaution{background:var(--rust-soft);color:var(--ink);}
+
+.box.precaution h4{color:var(--rust);}
+
+main[data-tab-theme="diy"] .steps .num{background:var(--brown-soft);color:var(--brown-deep);}

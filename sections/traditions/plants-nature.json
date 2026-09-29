@@ -1,0 +1,35 @@
+{
+  "label": "Plants & Nature",
+  "icon": "leaf",
+  "items": [
+    {
+      "heading": "Tulsi plant near the house",
+      "icon": "leaf",
+      "details": [
+        "Tulsi (holy basil) is a natural air purifier that releases oxygen for long hours and repels mosquitoes.",
+        "Its leaves carry well-documented medicinal and immunity-boosting properties, used in home remedies for coughs and colds."
+      ]
+    },
+    {
+      "heading": "Neem tree near the house",
+      "icon": "tree",
+      "details": [
+        "Provides shade and biodiversity, and contains compounds useful for natural insect control around the home."
+      ]
+    },
+    {
+      "heading": "Tulsi Kota / Brindavan",
+      "icon": "leaf",
+      "details": [
+        "A dedicated household plant-growing space that encourages cultivation of Tulsi and other useful plants."
+      ]
+    },
+    {
+      "heading": "Traditional kitchen gardens",
+      "icon": "sprout",
+      "details": [
+        "Provide fresh herbs and vegetables at hand and help preserve local plant varieties across generations."
+      ]
+    }
+  ]
+}

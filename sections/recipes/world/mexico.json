@@ -1,0 +1,123 @@
+{
+  "label": "Mexico",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Tacos al Pastor",
+      "details": [
+        "Key ingredients: pork, achiote paste, pineapple, dried chilies, corn tortillas",
+        "Marinate thin pork slices in achiote paste, dried chilies and pineapple juice.",
+        "Cook the pork on a hot griddle or spit until charred at the edges.",
+        "Warm small corn tortillas and fill with chopped pork.",
+        "Top with diced pineapple, onion and cilantro."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "Guacamole",
+      "details": [
+        "Key ingredients: ripe avocado, lime juice, onion, tomato, cilantro, chili",
+        "Mash ripe avocado with lime juice to the desired texture.",
+        "Fold in finely chopped onion, tomato, cilantro and chili.",
+        "Season with salt to taste.",
+        "Serve fresh with tortilla chips to prevent browning."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Chicken Enchiladas",
+      "details": [
+        "Key ingredients: shredded chicken, corn tortillas, red or green enchilada sauce, cheese",
+        "Fill soft corn tortillas with shredded chicken and roll them up.",
+        "Arrange in a baking dish and cover with enchilada sauce.",
+        "Top generously with shredded cheese.",
+        "Bake until bubbling and lightly browned on top."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Tacos",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mole Poblano",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Tamales",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Enchiladas",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Pozole",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Chiles Rellenos",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Quesadillas",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Cochinita Pibil",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Churros",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Sweet"
+    }
+  ]
+}

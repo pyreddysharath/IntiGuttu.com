@@ -1,0 +1,114 @@
+{
+  "label": "Nepal",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Momos",
+      "details": [
+        "Key ingredients: flour, minced meat or vegetables, ginger, garlic, onion",
+        "Fill small dough wrappers with a seasoned minced meat or vegetable mixture.",
+        "Pleat and seal each dumpling by hand.",
+        "Steam in a stacked steamer until cooked through.",
+        "Serve hot with a spicy tomato-sesame dipping sauce."
+      ],
+      "veg": false,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Dal Bhat",
+      "details": [
+        "Key ingredients: lentils, rice, seasonal vegetable curry, pickle",
+        "Cook a pot of yellow lentils seasoned with turmeric, garlic and cumin.",
+        "Steam rice separately until fluffy.",
+        "Prepare a simple seasonal vegetable curry as a side.",
+        "Serve the lentils, rice, vegetable curry and pickle together as a full plate."
+      ],
+      "veg": true,
+      "type": "Rice"
+    },
+    {
+      "heading": "Sel Roti",
+      "details": [
+        "Key ingredients: rice flour, sugar, milk, cardamom, ghee",
+        "Blend soaked rice into a thick batter with sugar, milk and cardamom.",
+        "Rest the batter for a few hours.",
+        "Pipe rings of batter directly into hot oil.",
+        "Fry until golden brown and crisp, then drain and cool."
+      ],
+      "veg": true,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Momo",
+      "details": [
+        "Ingredients: flour, water, salt, filling of vegetables or meat, aromatics and dipping sauce.",
+        "Make a pliable dough, roll thin, fill and seal.",
+        "Steam or boil until cooked; serve with a seasoned sauce."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Thukpa",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Newari Khaja Set",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Chatamari",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Yomari",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Gundruk",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Thenthuk",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Aloo Tama",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}
