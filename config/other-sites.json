@@ -12,6 +12,11 @@
       "name": "AyuBase6.com",
       "url": "https://ayubase6.com",
       "desc": "A personal health companion covering exercises, yoga routines, food and nutrition, reminders, and vital health checks - all in one place."
+    },
+    {
+      "site": "DataEkam.com",
+      "url": "https://dataekam.com",
+      "information": "A single-page tool that formats, validates, and converts data across formats like JSON, YAML, XML, CSV, and more, plus a text comparison tab. Its name nods to 'Ekam' (Sanskrit for 'one') — one tool for handling many formats in one place."
     }
   ]
 }
