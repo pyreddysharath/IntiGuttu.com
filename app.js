@@ -67,53 +67,65 @@
     });
   }
 
-  function loadSection(section) {
+  // Loading is split into two phases so the page can render the first
+  // tab as soon as possible instead of waiting on every section:
+  //   1. fetchManifest() - just the small manifest.json per section
+  //      (label, icon, and the list of category files - no item data).
+  //      Cheap enough to fetch for all sections up front, so every tab
+  //      button can appear immediately.
+  //   2. loadTabCategories() - the actual category/item JSON files for
+  //      one section. This is the expensive part (recipes alone is 200+
+  //      files), so it's only run for the active tab first; the other
+  //      tabs are loaded afterwards, in the background, without
+  //      blocking the initial render.
+  function fetchManifest(section) {
     return fetchJSON(section.folder + "/manifest.json").then(function (manifest) {
-      var catPromises = manifest.categories.map(function (cat) {
-        if (cat.subcategories && cat.subcategories.length) {
-          var subPromises = cat.subcategories.map(function (sub) {
-            return loadCategoryFile(section.folder, sub.file, section.key).then(function (loaded) {
-              return {
-                slug: sub.slug,
-                label: loaded.label || sub.label,
-                icon: loaded.icon || sub.icon,
-                items: loaded.items
-              };
-            });
-          });
-          return Promise.all(subPromises).then(function (subcategories) {
-            return { slug: cat.slug, label: cat.label, icon: cat.icon, items: [], subcategories: subcategories };
-          });
-        }
-        return loadCategoryFile(section.folder, cat.file, section.key).then(function (loaded) {
-          return {
-            slug: cat.slug,
-            label: loaded.label || cat.label,
-            icon: loaded.icon || cat.icon,
-            items: loaded.items,
-            region: cat.region || null
-          };
-        });
-      });
-      return Promise.all(catPromises).then(function (categories) {
-        return {
-          key: manifest.key,
-          folder: section.folder,
-          label: manifest.label,
-          icon: manifest.icon,
-          categories: categories
-        };
-      });
+      return { key: manifest.key, folder: section.folder, label: manifest.label, icon: manifest.icon, manifest: manifest };
     });
   }
 
-  function loadAllData() {
-    var tabsPromise = Promise.all(SECTIONS.map(loadSection));
-    var iconsPromise = fetchJSON("assets/icons.json");
-    var diagramsPromise = fetchJSON("assets/diagrams.json");
-    return Promise.all([tabsPromise, iconsPromise, diagramsPromise]).then(function (results) {
-      return { tabs: results[0], icons: results[1], diagrams: results[2] };
+  function loadTabCategories(meta) {
+    var manifest = meta.manifest;
+    var catPromises = manifest.categories.map(function (cat) {
+      if (cat.subcategories && cat.subcategories.length) {
+        var subPromises = cat.subcategories.map(function (sub) {
+          return loadCategoryFile(meta.folder, sub.file, meta.key).then(function (loaded) {
+            return {
+              slug: sub.slug,
+              label: loaded.label || sub.label,
+              icon: loaded.icon || sub.icon,
+              items: loaded.items
+            };
+          });
+        });
+        return Promise.all(subPromises).then(function (subcategories) {
+          return { slug: cat.slug, label: cat.label, icon: cat.icon, items: [], subcategories: subcategories };
+        });
+      }
+      return loadCategoryFile(meta.folder, cat.file, meta.key).then(function (loaded) {
+        return {
+          slug: cat.slug,
+          label: loaded.label || cat.label,
+          icon: loaded.icon || cat.icon,
+          items: loaded.items,
+          region: cat.region || null
+        };
+      });
     });
+    return Promise.all(catPromises).then(function (categories) {
+      return {
+        key: meta.key,
+        folder: meta.folder,
+        label: meta.label,
+        icon: meta.icon,
+        categories: categories,
+        loaded: true
+      };
+    });
+  }
+
+  function placeholderTab(meta) {
+    return { key: meta.key, folder: meta.folder, label: meta.label, icon: meta.icon, categories: [], loaded: false };
   }
 
   // ============================================================
@@ -187,6 +199,33 @@
   var state = { tabKey: null, query: "", searchTags: [], expandedAll: {}, vegFilter: "all", typeFilter: "", recipeScope: "india" };
   var built = {};
   var tabByKey = {};
+  var tabMetaByKey = {};
+  var tabLoadPromises = {};
+
+  // Fetches (or reuses an in-flight fetch of) one tab's full category/item
+  // data. Called both by the background loader after the first tab
+  // renders, and by showTab() when the person switches to a tab that
+  // hasn't loaded yet - so clicking ahead jumps that tab to the front
+  // instead of waiting behind the background queue.
+  function ensureTabLoaded(key) {
+    if (tabLoadPromises[key]) return tabLoadPromises[key];
+    var meta = tabMetaByKey[key];
+    if (!meta) return Promise.resolve();
+    var promise = loadTabCategories(meta).then(function (loadedTab) {
+      tabByKey[loadedTab.key] = loadedTab;
+      var i = DATA.tabs.findIndex(function (t) { return t.key === loadedTab.key; });
+      if (i !== -1) DATA.tabs[i] = loadedTab;
+      delete built[loadedTab.key];
+      if (state.tabKey === loadedTab.key) showTab(loadedTab.key);
+      return loadedTab;
+    }).catch(function (err) {
+      console.error("Failed to load section " + key + ":", err);
+      delete tabLoadPromises[key]; // allow a retry on the next visit to this tab
+      throw err;
+    });
+    tabLoadPromises[key] = promise;
+    return promise;
+  }
 
   function icon(key) { return DATA.icons[key] || ""; }
   function compositeId(tabKey, catSlug, itemSlug) { return tabKey + "__" + catSlug + "__" + itemSlug; }
@@ -486,15 +525,33 @@
       btn.setAttribute("aria-selected", isActive ? "true" : "false");
     });
 
+    dietRow.hidden = tabKey !== "recipes";
+    recipeScopeTabs.hidden = tabKey !== "recipes";
+    updateMastheadColor(tabKey);
+    updateToggleAllUI(tabKey);
+
+    if (!tab.loaded) {
+      // Data for this tab hasn't arrived yet. Jump it to the front of
+      // the loading queue (ensureTabLoaded reuses any fetch already in
+      // flight) and show a lightweight loading state instead of an
+      // empty/"no matches" screen; ensureTabLoaded re-calls showTab()
+      // for whichever tab is active once its data lands.
+      ensureTabLoaded(tabKey);
+      contentEl.innerHTML = "";
+      emptyEl.hidden = true;
+      resultCount.textContent = "";
+      if (loadingEl) {
+        loadingEl.hidden = false;
+        loadingEl.textContent = "Loading...";
+      }
+      return;
+    }
+    if (loadingEl) loadingEl.hidden = true;
+
     if (!built[tabKey]) built[tabKey] = buildTab(tab);
     contentEl.innerHTML = "";
     contentEl.appendChild(built[tabKey]);
 
-    dietRow.hidden = tabKey !== "recipes";
-    recipeScopeTabs.hidden = tabKey !== "recipes";
-
-    updateMastheadColor(tabKey);
-    updateToggleAllUI(tabKey);
     applyFilters();
     requestAnimationFrame(function () { fallLikeLeaves(built[tabKey]); });
   }
@@ -979,17 +1036,59 @@
   });
 
   // ============================================================
-  // BOOTSTRAP: fetch all section JSON, then render.
+  // BOOTSTRAP: fetch every section's manifest (cheap) plus icons and
+  // diagrams up front so all tab buttons appear right away, then load
+  // only the first tab's full category/item data before rendering.
+  // The remaining tabs load afterwards, one at a time in the
+  // background, so a heavy section (Recipes has 200+ category files)
+  // never delays the first screen the person sees.
   // ============================================================
-  loadAllData().then(function (data) {
-    DATA = data;
+  var manifestsPromise = Promise.all(SECTIONS.map(fetchManifest));
+  var iconsPromise = fetchJSON("assets/icons.json");
+  var diagramsPromise = fetchJSON("assets/diagrams.json");
+
+  Promise.all([manifestsPromise, iconsPromise, diagramsPromise]).then(function (results) {
+    var metas = results[0];
+    DATA.icons = results[1];
+    DATA.diagrams = results[2];
+    DATA.tabs = metas.map(placeholderTab);
     DATA.tabs.forEach(function (tab) {
       tabByKey[tab.key] = tab;
       state.expandedAll[tab.key] = false;
     });
-    if (loadingEl) loadingEl.hidden = true;
+    metas.forEach(function (meta) { tabMetaByKey[meta.key] = meta; });
     buildTabButtons();
-    if (DATA.tabs.length) showTab(DATA.tabs[0].key);
+
+    if (!metas.length) {
+      if (loadingEl) loadingEl.hidden = true;
+      return;
+    }
+
+    var firstKey = metas[0].key;
+    ensureTabLoaded(firstKey).then(function () {
+      showTab(firstKey);
+
+      // Load the rest of the tabs in the background, one at a time, so
+      // Recipes' large file count doesn't compete for bandwidth with
+      // whichever section the person switches to next. If the person
+      // clicks ahead to one of these tabs first, ensureTabLoaded()
+      // (called from showTab) starts it immediately and this loop just
+      // reuses that same in-flight fetch instead of starting a second one.
+      var rest = metas.slice(1);
+      rest.reduce(function (chain, meta) {
+        return chain.then(function () {
+          return ensureTabLoaded(meta.key).catch(function () { /* already logged */ });
+        });
+      }, Promise.resolve());
+    }).catch(function (err) {
+      console.error("Failed to load first tab data:", err);
+      if (loadingEl) {
+        loadingEl.hidden = false;
+        loadingEl.textContent = "Could not load app data. If you opened this file directly (file://), " +
+          "serve this folder over HTTP instead - e.g. run \"python3 -m http.server\" here and open " +
+          "http://localhost:8000/.";
+      }
+    });
   }).catch(function (err) {
     console.error("Failed to load app data:", err);
     if (loadingEl) {
