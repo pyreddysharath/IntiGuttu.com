@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Inti Guttu</title>
+<link rel="icon" href="favicon/favicon.ico">
+<link rel="icon" type="image/svg+xml" href="favicon/favicon.svg">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon/icon-16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon/icon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="favicon/icon-48.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon/icon-96.png">
+<link rel="icon" type="image/png" sizes="192x192" href="favicon/icon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon-180.png">
+<link rel="apple-touch-icon" sizes="512x512" href="favicon/apple-touch-icon-512.png">
+<meta name="description" content="Inti Guttu - a searchable home reference for kitchen tips, remedies, DIY fixes and recipes.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Newsreader:ital,wght@0,400;0,500;0,600;1,400;1,500&family=IBM+Plex+Mono:wght@500;600;700&family=Noto+Serif+Telugu:wght@500;600;700&family=Noto+Sans+Telugu:wght@500;600;700&family=Ramana:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="sections/remedies/remedies.css">
+<link rel="stylesheet" href="sections/diy/diy.css">
+<link rel="stylesheet" href="sections/recipes/recipes.css">
+<link rel="stylesheet" href="sections/traditions/traditions.css">
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <marker id="arrowTipTips" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" style="fill:var(--green-dark)"></path>
+    </marker>
+    <marker id="arrowTipDiy" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" style="fill:var(--brown-deep)"></path>
+    </marker>
+  </defs>
+</svg>
+
+<header class="top">
+  <div class="wrap">
+    <div class="masthead">
+      <div class="masthead-row">
+        <span class="masthead-logo" id="mastheadLogo" aria-hidden="true">
+          <svg viewBox="0 0 24 24">
+            <path d="M3 12L12 4l9 8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M5 11v9h14v-9" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <circle cx="12" cy="15" r="1.3" fill="currentColor" stroke="none"></circle>
+          </svg>
+        </span>
+        <h1 id="mastheadTitle"><span class="brand-te" id="brandTe"><span class="te-w1">&#3079;&#3074;&#3103;&#3135;</span><span class="te-w2">&#3095;&#3137;&#3103;&#3149;&#3103;&#3137;</span></span><span class="brand-en" id="brandEn"><span class="en-w1">Home</span> <span class="en-w2">Secrets</span></span></h1>
+      </div>
+    </div>
+    <div class="tabs" id="tabs" role="tablist" aria-label="Sections"></div>
+    <div class="searchrow">
+      <div class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.6" y2="16.6"></line></svg>
+        <input id="search" type="search" placeholder="Search" autocomplete="off">
+      </div>
+      <button type="button" class="toggle-all" id="toggleAllBtn" aria-label="Expand all sections" title="Expand all sections">
+        <svg class="ta-icon ta-expand" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 9 12 3 20 9"></polyline><polyline points="4 15 12 21 20 15"></polyline></svg>
+        <svg class="ta-icon ta-collapse" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 3 12 9 20 3"></polyline><polyline points="4 21 12 15 20 21"></polyline></svg>
+      </button>
+      <span class="resultcount" id="resultcount"></span>
+    </div>
+    <div class="diet-row" id="dietRow" hidden>
+      <div class="veg-toggle" id="vegToggle" role="group" aria-label="Filter by diet">
+        <button type="button" class="veg-btn active" data-veg="all">All</button>
+        <button type="button" class="veg-btn" data-veg="veg"><span class="veg-dot veg" aria-hidden="true"></span>Veg</button>
+        <button type="button" class="veg-btn" data-veg="nonveg"><span class="veg-dot nonveg" aria-hidden="true"></span>Non-Veg</button>
+      </div>
+      <div class="type-chips" id="typeChips">
+        <button type="button" class="chip active" data-type="">All</button>
+        <button type="button" class="chip" data-type="Curry">Curry</button>
+        <button type="button" class="chip" data-type="Fry">Fry</button>
+        <button type="button" class="chip" data-type="Rice">Rice</button>
+        <button type="button" class="chip" data-type="Sweet">Sweet</button>
+        <button type="button" class="chip" data-type="Tiffin/Snack">Tiffin/Snack</button>
+        <button type="button" class="chip" data-type="Other">Other</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="recipe-scope-tabs" id="recipeScopeTabs" role="tablist" aria-label="Recipe region" hidden>
+    <button type="button" class="scope-tab active" data-scope="india" role="tab" aria-selected="true">India</button>
+    <button type="button" class="scope-tab" data-scope="global" role="tab" aria-selected="false">Global</button>
+  </div>
+  <div id="loadingState" class="loading-state">Loading...</div>
+  <div id="content"></div>
+  <div class="empty" id="emptyState" hidden>
+    <strong>No matches found</strong>
+    Try a different search term, or clear the filters above.
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <details class="contribute-section">
+      <summary class="contribute-title">Contribute</summary>
+      <p class="contribute-note">Know a good kitchen trick, home remedy, DIY fix, or recipe that is missing? Share it below.</p>
+      <form id="contributeForm" class="contribute-form">
+        <input type="hidden" name="Website" value="IntiGuttu.com">
+        <input type="hidden" name="Status" value="Open">
+        <input type="text" id="contribName" name="Name" placeholder="Your name" required maxlength="80">
+        <select id="contribSection" name="Section" required>
+          <option value="" disabled selected>Select a section</option>
+          <option value="Tips & Remedies">Tips & Remedies</option>
+          <option value="DIY Fixes">DIY Fixes</option>
+          <option value="Recipes">Recipes</option>
+        </select>
+        <textarea id="contribText" name="Contribution" placeholder="Describe your tip, remedy, fix, or recipe..." required maxlength="2000" rows="4"></textarea>
+        <div class="contribute-actions">
+          <button type="submit" class="contribute-btn">Submit Contribution</button>
+          <span id="contribStatus" class="contribute-status"></span>
+        </div>
+      </form>
+    </details>
+
+    <div class="footer-row">
+      <span class="footer-copyright">&copy; <span id="footerYear"></span> IntiGuttu.com</span>
+      <div class="footer-icons-row">
+        <a href="#" id="disclaimerLink" class="footer-icon" title="Disclaimer" aria-label="Disclaimer" aria-expanded="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5 21.5 20h-19L12 3.5Z"></path><line x1="12" y1="9.5" x2="12" y2="14"></line><circle cx="12" cy="17" r="0.9" fill="currentColor" stroke="none"></circle></svg>
+        </a>
+        <a href="#" id="feedbackLink" class="footer-icon" title="Feedback" aria-label="Feedback" aria-expanded="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16v11H9l-4 4v-4H4Z"></path></svg>
+        </a>
+        <a href="#" id="cookiesLink" class="footer-icon" title="Cookies" aria-label="Cookies" aria-expanded="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"></circle><circle cx="9" cy="10" r="1" fill="currentColor" stroke="none"></circle><circle cx="14" cy="9" r="1" fill="currentColor" stroke="none"></circle><circle cx="15" cy="14" r="1" fill="currentColor" stroke="none"></circle><circle cx="10" cy="15" r="1" fill="currentColor" stroke="none"></circle></svg>
+        </a>
+        <a href="#" id="otherSitesLink" class="footer-icon" title="Our Other Sites" aria-label="Our other sites" aria-expanded="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+        </a>
+      </div>
+    </div>
+    <div id="footerPanel"></div>
+  </div>
+
+  <div id="cookieNotice" class="cookie-notice-slim" role="dialog" aria-live="polite" aria-label="Cookie notice">
+    <span>This app remembers your preferences only in your browser's local storage - no tracking, no ads.</span>
+    <span class="cookie-notice-actions">
+      <a href="#" id="cookieDecline">Decline</a>
+      <button type="button" id="cookieAccept">Accept</button>
+    </span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
