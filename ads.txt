@@ -1,0 +1,10 @@
+# ads.txt — Authorized Digital Sellers
+#
+# This file must be placed at your domain root, e.g. https://yourdomain.com/ads.txt
+# (not in a subfolder) for Google AdSense to recognize it.
+#
+# Replace pub-XXXXXXXXXXXXXXXX below with your real AdSense publisher ID
+# (found in AdSense > Account > Account information), then delete the
+# leading "# " from the line below to activate it.
+
+ google.com, pub-1251018920617954, DIRECT, f08c47fec0942fa0
