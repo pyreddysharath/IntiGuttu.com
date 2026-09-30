@@ -1,9 +1,0 @@
-{
-  "title": "Privacy Policy",
-  "paragraphs": [
-    "IntiGuttu.com does not require an account and does not use tracking or advertising cookies.",
-    "The only thing stored in your browser is your cookie-notice choice, saved locally on your device using localStorage - it is never sent to us.",
-    "If you submit the Contribute or Feedback form, the name and message you enter are sent to a private Google Sheet (via a Google Apps Script Web App) so we can review contributions and feedback. This information is used only for that review and, where relevant, to publish your contribution - it is not sold or shared with third parties.",
-    "If you have questions about this policy, reach out using the Feedback option in the footer."
-  ]
-}

@@ -1,7 +1,0 @@
-/* Tips & Remedies section - styles specific to this tab
-   (e.g. the "Emergency" badge used on some first-aid items). */
-
-details.card summary .badge-em{
-    flex:none;font-family:var(--font-mono);font-size:9.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;
-    color:#2A1F06;background:var(--gold);padding:3px 7px;border-radius:6px;
-  }
