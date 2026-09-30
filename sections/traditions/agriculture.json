@@ -1,0 +1,76 @@
+{
+  "label": "Agriculture",
+  "icon": "sprout",
+  "items": [
+    {
+      "heading": "Crop rotation",
+      "icon": "sprout",
+      "details": [
+        "Improves nutrient management in the soil and disrupts pest and disease cycles between seasons."
+      ]
+    },
+    {
+      "heading": "Mixed cropping",
+      "icon": "sprout",
+      "details": [
+        "Growing several crops together increases agricultural diversity and reduces dependence on any single crop."
+      ]
+    },
+    {
+      "heading": "Cereal-pulse intercropping",
+      "icon": "sprout",
+      "details": [
+        "Different crops use soil resources differently, while legumes can contribute nitrogen back to the soil."
+      ]
+    },
+    {
+      "heading": "Traditional seed preservation",
+      "icon": "sprout",
+      "details": [
+        "Saving and exchanging seed each season preserves agricultural genetic diversity for the future."
+      ]
+    },
+    {
+      "heading": "Neem-based pest control",
+      "icon": "leaf",
+      "details": [
+        "Neem compounds can interfere with insect feeding, growth, and reproduction, offering a natural pesticide."
+      ]
+    },
+    {
+      "heading": "Farmyard manure",
+      "icon": "sprout",
+      "details": [
+        "Adds organic matter and nutrients back into the soil, improving its long-term structure and fertility."
+      ]
+    },
+    {
+      "heading": "Composting",
+      "icon": "sprout",
+      "details": [
+        "Converts organic waste into a useful, nutrient-rich soil amendment."
+      ]
+    },
+    {
+      "heading": "Mulching",
+      "icon": "sprout",
+      "details": [
+        "A covering layer over soil reduces evaporation, suppresses weeds, and protects the soil surface."
+      ]
+    },
+    {
+      "heading": "Agroforestry",
+      "icon": "tree",
+      "details": [
+        "Combining trees and crops on the same land can provide shade, biodiversity, and soil benefits together."
+      ]
+    },
+    {
+      "heading": "Traditional mixed farming with livestock",
+      "icon": "sprout",
+      "details": [
+        "Crop residues can feed livestock, while their manure returns nutrients back to the fields."
+      ]
+    }
+  ]
+}

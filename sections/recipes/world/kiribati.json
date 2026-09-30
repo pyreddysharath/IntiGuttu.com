@@ -1,0 +1,104 @@
+{
+  "label": "Kiribati",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Palusami",
+      "details": [
+        "Key ingredients: taro leaves, coconut cream, onion",
+        "Layer taro leaves with chopped onion.",
+        "Pour coconut cream over the layered leaves.",
+        "Wrap tightly in foil or more taro leaves.",
+        "Bake or steam until the leaves are tender and the cream has thickened."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Coconut Fish",
+      "details": [
+        "Key ingredients: reef fish, coconut cream, lime, onion",
+        "Dice raw fish and marinate briefly in lime juice.",
+        "Mix in coconut cream and finely diced onion.",
+        "Chill the mixture so the flavors meld.",
+        "Serve cold as a refreshing island dish."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Coconut Crab",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Tuna Sashimi",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Babai",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Fish Curry",
+      "details": [
+        "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
+        "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
+      ],
+      "type": "Curry",
+      "veg": false
+    },
+    {
+      "heading": "Breadfruit",
+      "details": [
+        "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
+        "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Taro",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Banana Poke",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Rice and Tuna",
+      "details": [
+        "Ingredients: rice, vegetables or protein, onion/garlic, oil, seasoning and water/stock.",
+        "Cook the rice by absorption or steaming.",
+        "Sauté the other ingredients separately, combine and season to taste."
+      ],
+      "type": "Rice",
+      "veg": false
+    }
+  ]
+}

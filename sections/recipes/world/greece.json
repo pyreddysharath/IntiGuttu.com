@@ -1,0 +1,105 @@
+{
+  "label": "Greece",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Moussaka",
+      "details": [
+        "Key ingredients: eggplant, potato, minced lamb, tomato, bechamel sauce, cinnamon",
+        "Fry or roast sliced eggplant and potato until golden.",
+        "Cook minced lamb with tomato, onion and a touch of cinnamon.",
+        "Layer potato, eggplant and meat sauce in a baking dish, then top with bechamel.",
+        "Bake until the top is golden and set before slicing."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Greek Salad",
+      "details": [
+        "Key ingredients: tomato, cucumber, red onion, olives, feta cheese, olive oil, oregano",
+        "Chop tomato, cucumber and onion into large chunks.",
+        "Toss with olives and a generous slab of feta on top.",
+        "Drizzle with olive oil and sprinkle with dried oregano.",
+        "Serve immediately without refrigerating for the best flavor."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Baklava",
+      "details": [
+        "Key ingredients: phyllo pastry, chopped walnuts or pistachios, butter, honey syrup",
+        "Layer buttered phyllo sheets in a tray, sprinkling nuts between layers.",
+        "Cut into diamond shapes before baking until golden and crisp.",
+        "Bake until the top layers are deep golden brown.",
+        "Pour cooled honey syrup over the hot baklava and let it soak in."
+      ],
+      "veg": true,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Souvlaki",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Tzatziki",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Spanakopita",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Dolmades",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Fasolada",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Pastitsio",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Galaktoboureko",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

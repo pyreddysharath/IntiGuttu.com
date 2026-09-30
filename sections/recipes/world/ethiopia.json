@@ -1,0 +1,114 @@
+{
+  "label": "Ethiopia",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Doro Wat",
+      "details": [
+        "Key ingredients: chicken, berbere spice blend, onion, garlic, ginger, hard-boiled eggs",
+        "Slow-cook a large quantity of chopped onion until deeply softened.",
+        "Stir in berbere spice, garlic and ginger, then add chicken pieces.",
+        "Simmer until the chicken is tender and the sauce is thick and deep red.",
+        "Add hard-boiled eggs to warm through before serving with injera."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Injera",
+      "details": [
+        "Key ingredients: teff flour, water",
+        "Mix teff flour with water and let the batter ferment for a couple of days.",
+        "Pour a thin layer of the sour batter onto a hot flat griddle.",
+        "Cover and cook until the surface is covered in small bubbles and set.",
+        "Cool and use as a spongy flatbread to scoop up stews."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Shiro Wat",
+      "details": [
+        "Key ingredients: chickpea flour, onion, garlic, berbere spice, oil",
+        "Saute onion, garlic and berbere spice in oil until fragrant.",
+        "Whisk in chickpea flour with water to avoid lumps.",
+        "Simmer, stirring often, until it thickens into a smooth stew.",
+        "Serve warm with injera."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Tibs",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Kitfo",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Shiro",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Misir Wat",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Gomen",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Firfir",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Dulet",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Beyaynetu",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

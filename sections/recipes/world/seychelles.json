@@ -1,0 +1,119 @@
+{
+  "label": "Seychelles",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Fish Curry Seychellois",
+      "details": [
+        "Key ingredients: fish, coconut milk, tomato, curry leaves",
+        "Marinate fish chunks with turmeric and lime.",
+        "Simmer coconut milk with tomato and curry leaves.",
+        "Add the fish and cook gently until just tender.",
+        "Serve the fragrant curry with rice."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Grilled Fruit Bat Curry",
+      "details": [
+        "Key ingredients: fruit bat or substitute meat, spices, coconut milk",
+        "Marinate the meat with a blend of local spices.",
+        "Brown the meat pieces well.",
+        "Simmer in coconut milk until tender.",
+        "Serve the rich curry over rice."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Fish Curry",
+      "details": [
+        "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
+        "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
+      ],
+      "type": "Curry",
+      "veg": false
+    },
+    {
+      "heading": "Ladob",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Sweet"
+    },
+    {
+      "heading": "Octopus Curry",
+      "details": [
+        "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
+        "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
+      ],
+      "type": "Curry",
+      "veg": false
+    },
+    {
+      "heading": "Satini",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Grilled Fish",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Coconut Rice",
+      "details": [
+        "Ingredients: rice, vegetables or protein, onion/garlic, oil, seasoning and water/stock.",
+        "Cook the rice by absorption or steaming.",
+        "Sauté the other ingredients separately, combine and season to taste."
+      ],
+      "type": "Rice"
+    },
+    {
+      "heading": "Fruit Bat Curry",
+      "details": [
+        "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
+        "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Breadfruit Chips",
+      "details": [
+        "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
+        "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
+      ],
+      "type": "Fry"
+    },
+    {
+      "heading": "Boulettes",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Coconut Nougat",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Sweet"
+    }
+  ]
+}

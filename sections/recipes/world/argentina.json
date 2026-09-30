@@ -1,0 +1,102 @@
+{
+  "label": "Argentina",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Asado",
+      "details": [
+        "Key ingredients: beef ribs, sausages, chimichurri, salt",
+        "Season various cuts of beef and sausage simply with coarse salt.",
+        "Grill slowly over wood or charcoal embers at a moderate distance.",
+        "Turn occasionally, cooking low and slow until deeply browned and tender.",
+        "Serve sliced with fresh chimichurri sauce on the side."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "Empanadas",
+      "details": [
+        "Key ingredients: flour dough, ground beef, onion, boiled egg, cumin",
+        "Saute ground beef with onion, cumin and paprika, then cool the filling.",
+        "Mix in chopped boiled egg and a few olives.",
+        "Fill dough rounds with the mixture and crimp the edges shut.",
+        "Bake or fry until golden and crisp."
+      ],
+      "veg": false,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Locro",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Milanesa",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Choripán",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Humita",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Provoleta",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Carbonada",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Matambre",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Alfajores",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Sweet"
+    }
+  ]
+}

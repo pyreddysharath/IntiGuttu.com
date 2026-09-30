@@ -1,0 +1,110 @@
+{
+  "label": "Fiji",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Kokoda",
+      "details": [
+        "Key ingredients: fish, coconut milk, lime juice, tomato, chili",
+        "Cure raw fish chunks in fresh lime juice until opaque.",
+        "Drain excess liquid and mix in coconut milk.",
+        "Add diced tomato, onion and chili.",
+        "Chill briefly and serve cold as a refreshing starter."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Lovo Chicken",
+      "details": [
+        "Key ingredients: chicken, coconut cream, taro leaves, banana leaf",
+        "Marinate chicken pieces in coconut cream and seasoning.",
+        "Wrap the chicken in taro and banana leaves.",
+        "Cook in an underground earth oven (lovo) over hot stones for hours.",
+        "Unwrap and serve the smoky, tender chicken."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Lovo",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Rourou",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Cassava Cake",
+      "details": [
+        "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
+        "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
+      ],
+      "type": "Sweet"
+    },
+    {
+      "heading": "Fijian Curry",
+      "details": [
+        "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
+        "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Palusami",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Fish Suruwa",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Nama",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Vakalolo",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Raita",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "label": "Tamil Nadu",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Idli",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Dosa",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Sambar Rice",
+      "details": [
+        "Ingredients: rice, vegetables or protein, onion/garlic, oil, seasoning and water/stock.",
+        "Cook the rice by absorption or steaming.",
+        "Sauté the other ingredients separately, combine and season to taste."
+      ],
+      "type": "Rice"
+    },
+    {
+      "heading": "Pongal",
+      "details": [
+        "Key ingredients: rice, moong dal, black pepper, cumin, ghee, cashews",
+        "Cook rice and moong dal together until soft and porridge-like.",
+        "Temper ghee with cumin, black pepper and cashews.",
+        "Pour the tempering over the cooked rice and dal.",
+        "Serve warm as a comforting breakfast dish."
+      ],
+      "veg": true,
+      "type": "Rice"
+    },
+    {
+      "heading": "Chettinad Chicken",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Kothu Parotta",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Parotta",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Rasam",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Murukku",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Pongal Sweet",
+      "details": [
+        "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
+        "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
+      ],
+      "type": "Sweet"
+    },
+    {
+      "heading": "Vegetable Pulao",
+      "details": [
+        "Ingredients: rice, mixed vegetables, onion, whole spices.",
+        "Rinse rice.",
+        "Fry onion and spices, add vegetables and rice, then simmer with water until fluffy."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Jeera Rice",
+      "details": [
+        "Ingredients: rice, cumin, ghee, salt.",
+        "Rinse rice.",
+        "Bloom cumin in ghee, add rice and water, then simmer until tender."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Plain Dal",
+      "details": [
+        "Ingredients: lentils, turmeric, cumin, garlic.",
+        "Boil lentils with turmeric until soft.",
+        "Fry cumin and garlic and stir into the dal."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Dal Tadka",
+      "details": [
+        "Ingredients: lentils, onion, tomato, cumin, garlic.",
+        "Cook lentils until soft.",
+        "Fry onion, tomato, cumin and garlic; combine and simmer briefly."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Gobi",
+      "details": [
+        "Ingredients: potato, cauliflower, tomato, turmeric, cumin.",
+        "Fry cumin, add potato and cauliflower with spices, cover and cook until tender."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Matar",
+      "details": [
+        "Ingredients: potato, peas, tomato, onion, ginger.",
+        "Cook onion, ginger and tomato with spices.",
+        "Add potato, peas and water; simmer until soft."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Palak Paneer",
+      "details": [
+        "Ingredients: spinach, paneer, onion, garlic, spices.",
+        "Blanch and puree spinach.",
+        "Cook onion and garlic with spices, add spinach and paneer; simmer."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Paneer Bhurji",
+      "details": [
+        "Ingredients: paneer, onion, tomato, green chilli.",
+        "Saute onion and tomato with chilli and spices; crumble in paneer and cook briefly."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Vegetable Khichdi",
+      "details": [
+        "Ingredients: rice, moong dal, vegetables, turmeric.",
+        "Wash rice and dal.",
+        "Add vegetables, turmeric and water; cook until soft."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Curd Rice",
+      "details": [
+        "Ingredients: rice, curd, mustard seeds, curry leaves.",
+        "Cool cooked rice and mix with curd.",
+        "Temper mustard and curry leaves in oil and stir in."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Chapati",
+      "details": [
+        "Ingredients: whole wheat flour, water, salt.",
+        "Knead flour with water, rest, roll thin and cook both sides on a hot griddle."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Poori",
+      "details": [
+        "Ingredients: whole wheat flour, water, oil.",
+        "Knead a firm dough, roll small discs and deep fry until puffed and golden."
+      ],
+      "type": "Fry",
+      "veg": true
+    },
+    {
+      "heading": "Paratha",
+      "details": [
+        "Ingredients: whole wheat flour, oil or ghee, water.",
+        "Knead flour and water, roll with a little fat, and cook on a griddle until browned."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Paratha",
+      "details": [
+        "Ingredients: whole wheat flour, potato, chilli, spices.",
+        "Stuff dough with spiced mashed potato; roll gently and cook with oil on a griddle."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Besan Chilla",
+      "details": [
+        "Ingredients: gram flour, onion, chilli, water.",
+        "Whisk flour with water, onion and chilli; spread on a hot pan and cook both sides."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Vegetable Upma",
+      "details": [
+        "Ingredients: semolina, onion, vegetables, mustard seeds.",
+        "Toast semolina.",
+        "Temper mustard, onion and vegetables; add water and stir in semolina until thick."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Poha",
+      "details": [
+        "Ingredients: flattened rice, onion, peanuts, turmeric.",
+        "Rinse poha.",
+        "Fry peanuts, onion and turmeric, then toss with poha until warmed through."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Vegetable Pakora",
+      "details": [
+        "Ingredients: gram flour, mixed vegetables, spices, oil.",
+        "Coat sliced vegetables in seasoned gram flour batter and fry until crisp."
+      ],
+      "type": "Fry",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Tikki",
+      "details": [
+        "Ingredients: potato, peas, cumin, chilli.",
+        "Mash cooked potatoes with peas and spices, form patties and shallow fry until crisp."
+      ],
+      "type": "Fry",
+      "veg": true
+    },
+    {
+      "heading": "Suji Halwa",
+      "details": [
+        "Ingredients: semolina, ghee, sugar, water.",
+        "Toast semolina in ghee, add hot sweetened water and stir until thick."
+      ],
+      "type": "Sweet",
+      "veg": true
+    },
+    {
+      "heading": "Sambar with Idli",
+      "details": [
+        "Key ingredients: toor dal, tamarind, sambar powder, mixed vegetables, steamed rice cakes",
+        "Cook toor dal until soft and mash lightly.",
+        "Simmer with tamarind water, sambar powder and mixed vegetables.",
+        "Temper with mustard seeds, curry leaves and dried chilies.",
+        "Serve hot alongside soft steamed idlis."
+      ],
+      "veg": true,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Chettinad Chicken Curry",
+      "details": [
+        "Key ingredients: chicken, freshly ground chettinad spice blend, coconut, curry leaves",
+        "Dry roast and grind a fragrant Chettinad spice blend.",
+        "Saute onion and the spice paste until aromatic.",
+        "Add chicken pieces and cook until the spices coat well.",
+        "Simmer until the chicken is tender and the gravy thickens."
+      ],
+      "veg": false,
+      "type": "Curry"
+    }
+  ]
+}

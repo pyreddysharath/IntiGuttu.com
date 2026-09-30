@@ -1,0 +1,1624 @@
+{
+  "key": "recipes",
+  "label": "Recipes",
+  "icon": "cook",
+  "categories": [
+    {
+      "slug": "andhra-pradesh",
+      "label": "Andhra Pradesh",
+      "icon": "cook",
+      "file": "india/andhra-pradesh.json",
+      "region": "india"
+    },
+    {
+      "slug": "arunachal-pradesh",
+      "label": "Arunachal Pradesh",
+      "icon": "cook",
+      "file": "india/arunachal-pradesh.json",
+      "region": "india"
+    },
+    {
+      "slug": "assam",
+      "label": "Assam",
+      "icon": "cook",
+      "file": "india/assam.json",
+      "region": "india"
+    },
+    {
+      "slug": "bihar",
+      "label": "Bihar",
+      "icon": "cook",
+      "file": "india/bihar.json",
+      "region": "india"
+    },
+    {
+      "slug": "chhattisgarh",
+      "label": "Chhattisgarh",
+      "icon": "cook",
+      "file": "india/chhattisgarh.json",
+      "region": "india"
+    },
+    {
+      "slug": "goa",
+      "label": "Goa",
+      "icon": "cook",
+      "file": "india/goa.json",
+      "region": "india"
+    },
+    {
+      "slug": "gujarat",
+      "label": "Gujarat",
+      "icon": "cook",
+      "file": "india/gujarat.json",
+      "region": "india"
+    },
+    {
+      "slug": "haryana",
+      "label": "Haryana",
+      "icon": "cook",
+      "file": "india/haryana.json",
+      "region": "india"
+    },
+    {
+      "slug": "himachal-pradesh",
+      "label": "Himachal Pradesh",
+      "icon": "cook",
+      "file": "india/himachal-pradesh.json",
+      "region": "india"
+    },
+    {
+      "slug": "jharkhand",
+      "label": "Jharkhand",
+      "icon": "cook",
+      "file": "india/jharkhand.json",
+      "region": "india"
+    },
+    {
+      "slug": "karnataka",
+      "label": "Karnataka",
+      "icon": "cook",
+      "file": "india/karnataka.json",
+      "region": "india"
+    },
+    {
+      "slug": "kerala",
+      "label": "Kerala",
+      "icon": "cook",
+      "file": "india/kerala.json",
+      "region": "india"
+    },
+    {
+      "slug": "madhya-pradesh",
+      "label": "Madhya Pradesh",
+      "icon": "cook",
+      "file": "india/madhya-pradesh.json",
+      "region": "india"
+    },
+    {
+      "slug": "maharashtra",
+      "label": "Maharashtra",
+      "icon": "cook",
+      "file": "india/maharashtra.json",
+      "region": "india"
+    },
+    {
+      "slug": "manipur",
+      "label": "Manipur",
+      "icon": "cook",
+      "file": "india/manipur.json",
+      "region": "india"
+    },
+    {
+      "slug": "meghalaya",
+      "label": "Meghalaya",
+      "icon": "cook",
+      "file": "india/meghalaya.json",
+      "region": "india"
+    },
+    {
+      "slug": "mizoram",
+      "label": "Mizoram",
+      "icon": "cook",
+      "file": "india/mizoram.json",
+      "region": "india"
+    },
+    {
+      "slug": "nagaland",
+      "label": "Nagaland",
+      "icon": "cook",
+      "file": "india/nagaland.json",
+      "region": "india"
+    },
+    {
+      "slug": "odisha",
+      "label": "Odisha",
+      "icon": "cook",
+      "file": "india/odisha.json",
+      "region": "india"
+    },
+    {
+      "slug": "punjab",
+      "label": "Punjab",
+      "icon": "cook",
+      "file": "india/punjab.json",
+      "region": "india"
+    },
+    {
+      "slug": "rajasthan",
+      "label": "Rajasthan",
+      "icon": "cook",
+      "file": "india/rajasthan.json",
+      "region": "india"
+    },
+    {
+      "slug": "sikkim",
+      "label": "Sikkim",
+      "icon": "cook",
+      "file": "india/sikkim.json",
+      "region": "india"
+    },
+    {
+      "slug": "tamil-nadu",
+      "label": "Tamil Nadu",
+      "icon": "cook",
+      "file": "india/tamil-nadu.json",
+      "region": "india"
+    },
+    {
+      "slug": "telangana",
+      "label": "Telangana",
+      "icon": "cook",
+      "file": "india/telangana.json",
+      "region": "india"
+    },
+    {
+      "slug": "tripura",
+      "label": "Tripura",
+      "icon": "cook",
+      "file": "india/tripura.json",
+      "region": "india"
+    },
+    {
+      "slug": "uttar-pradesh",
+      "label": "Uttar Pradesh",
+      "icon": "cook",
+      "file": "india/uttar-pradesh.json",
+      "region": "india"
+    },
+    {
+      "slug": "uttarakhand",
+      "label": "Uttarakhand",
+      "icon": "cook",
+      "file": "india/uttarakhand.json",
+      "region": "india"
+    },
+    {
+      "slug": "west-bengal",
+      "label": "West Bengal",
+      "icon": "cook",
+      "file": "india/west-bengal.json",
+      "region": "india"
+    },
+    {
+      "slug": "andaman-and-nicobar-islands",
+      "label": "Andaman and Nicobar Islands",
+      "icon": "cook",
+      "file": "india/andaman-and-nicobar-islands.json",
+      "region": "india"
+    },
+    {
+      "slug": "chandigarh",
+      "label": "Chandigarh",
+      "icon": "cook",
+      "file": "india/chandigarh.json",
+      "region": "india"
+    },
+    {
+      "slug": "dadra-and-nagar-haveli-and-daman-and-diu",
+      "label": "Dadra and Nagar Haveli and Daman and Diu",
+      "icon": "cook",
+      "file": "india/dadra-and-nagar-haveli-and-daman-and-diu.json",
+      "region": "india"
+    },
+    {
+      "slug": "delhi",
+      "label": "Delhi",
+      "icon": "cook",
+      "file": "india/delhi.json",
+      "region": "india"
+    },
+    {
+      "slug": "jammu-and-kashmir",
+      "label": "Jammu and Kashmir",
+      "icon": "cook",
+      "file": "india/jammu-and-kashmir.json",
+      "region": "india"
+    },
+    {
+      "slug": "ladakh",
+      "label": "Ladakh",
+      "icon": "cook",
+      "file": "india/ladakh.json",
+      "region": "india"
+    },
+    {
+      "slug": "lakshadweep",
+      "label": "Lakshadweep",
+      "icon": "cook",
+      "file": "india/lakshadweep.json",
+      "region": "india"
+    },
+    {
+      "slug": "puducherry",
+      "label": "Puducherry",
+      "icon": "cook",
+      "file": "india/puducherry.json",
+      "region": "india"
+    },
+    {
+      "slug": "afghanistan",
+      "label": "Afghanistan",
+      "icon": "cook",
+      "file": "world/afghanistan.json",
+      "region": "global"
+    },
+    {
+      "slug": "albania",
+      "label": "Albania",
+      "icon": "cook",
+      "file": "world/albania.json",
+      "region": "global"
+    },
+    {
+      "slug": "algeria",
+      "label": "Algeria",
+      "icon": "cook",
+      "file": "world/algeria.json",
+      "region": "global"
+    },
+    {
+      "slug": "andorra",
+      "label": "Andorra",
+      "icon": "cook",
+      "file": "world/andorra.json",
+      "region": "global"
+    },
+    {
+      "slug": "angola",
+      "label": "Angola",
+      "icon": "cook",
+      "file": "world/angola.json",
+      "region": "global"
+    },
+    {
+      "slug": "antigua-and-barbuda",
+      "label": "Antigua and Barbuda",
+      "icon": "cook",
+      "file": "world/antigua-and-barbuda.json",
+      "region": "global"
+    },
+    {
+      "slug": "argentina",
+      "label": "Argentina",
+      "icon": "cook",
+      "file": "world/argentina.json",
+      "region": "global"
+    },
+    {
+      "slug": "armenia",
+      "label": "Armenia",
+      "icon": "cook",
+      "file": "world/armenia.json",
+      "region": "global"
+    },
+    {
+      "slug": "australia",
+      "label": "Australia",
+      "icon": "cook",
+      "file": "world/australia.json",
+      "region": "global"
+    },
+    {
+      "slug": "austria",
+      "label": "Austria",
+      "icon": "cook",
+      "file": "world/austria.json",
+      "region": "global"
+    },
+    {
+      "slug": "azerbaijan",
+      "label": "Azerbaijan",
+      "icon": "cook",
+      "file": "world/azerbaijan.json",
+      "region": "global"
+    },
+    {
+      "slug": "bahamas",
+      "label": "Bahamas",
+      "icon": "cook",
+      "file": "world/bahamas.json",
+      "region": "global"
+    },
+    {
+      "slug": "bahrain",
+      "label": "Bahrain",
+      "icon": "cook",
+      "file": "world/bahrain.json",
+      "region": "global"
+    },
+    {
+      "slug": "bangladesh",
+      "label": "Bangladesh",
+      "icon": "cook",
+      "file": "world/bangladesh.json",
+      "region": "global"
+    },
+    {
+      "slug": "barbados",
+      "label": "Barbados",
+      "icon": "cook",
+      "file": "world/barbados.json",
+      "region": "global"
+    },
+    {
+      "slug": "belarus",
+      "label": "Belarus",
+      "icon": "cook",
+      "file": "world/belarus.json",
+      "region": "global"
+    },
+    {
+      "slug": "belgium",
+      "label": "Belgium",
+      "icon": "cook",
+      "file": "world/belgium.json",
+      "region": "global"
+    },
+    {
+      "slug": "belize",
+      "label": "Belize",
+      "icon": "cook",
+      "file": "world/belize.json",
+      "region": "global"
+    },
+    {
+      "slug": "benin",
+      "label": "Benin",
+      "icon": "cook",
+      "file": "world/benin.json",
+      "region": "global"
+    },
+    {
+      "slug": "bhutan",
+      "label": "Bhutan",
+      "icon": "cook",
+      "file": "world/bhutan.json",
+      "region": "global"
+    },
+    {
+      "slug": "bolivia",
+      "label": "Bolivia",
+      "icon": "cook",
+      "file": "world/bolivia.json",
+      "region": "global"
+    },
+    {
+      "slug": "bosnia-and-herzegovina",
+      "label": "Bosnia and Herzegovina",
+      "icon": "cook",
+      "file": "world/bosnia-and-herzegovina.json",
+      "region": "global"
+    },
+    {
+      "slug": "botswana",
+      "label": "Botswana",
+      "icon": "cook",
+      "file": "world/botswana.json",
+      "region": "global"
+    },
+    {
+      "slug": "brazil",
+      "label": "Brazil",
+      "icon": "cook",
+      "file": "world/brazil.json",
+      "region": "global"
+    },
+    {
+      "slug": "brunei",
+      "label": "Brunei",
+      "icon": "cook",
+      "file": "world/brunei.json",
+      "region": "global"
+    },
+    {
+      "slug": "bulgaria",
+      "label": "Bulgaria",
+      "icon": "cook",
+      "file": "world/bulgaria.json",
+      "region": "global"
+    },
+    {
+      "slug": "burkina-faso",
+      "label": "Burkina Faso",
+      "icon": "cook",
+      "file": "world/burkina-faso.json",
+      "region": "global"
+    },
+    {
+      "slug": "burundi",
+      "label": "Burundi",
+      "icon": "cook",
+      "file": "world/burundi.json",
+      "region": "global"
+    },
+    {
+      "slug": "cabo-verde",
+      "label": "Cabo Verde",
+      "icon": "cook",
+      "file": "world/cabo-verde.json",
+      "region": "global"
+    },
+    {
+      "slug": "cambodia",
+      "label": "Cambodia",
+      "icon": "cook",
+      "file": "world/cambodia.json",
+      "region": "global"
+    },
+    {
+      "slug": "cameroon",
+      "label": "Cameroon",
+      "icon": "cook",
+      "file": "world/cameroon.json",
+      "region": "global"
+    },
+    {
+      "slug": "canada",
+      "label": "Canada",
+      "icon": "cook",
+      "file": "world/canada.json",
+      "region": "global"
+    },
+    {
+      "slug": "central-african-republic",
+      "label": "Central African Republic",
+      "icon": "cook",
+      "file": "world/central-african-republic.json",
+      "region": "global"
+    },
+    {
+      "slug": "chad",
+      "label": "Chad",
+      "icon": "cook",
+      "file": "world/chad.json",
+      "region": "global"
+    },
+    {
+      "slug": "chile",
+      "label": "Chile",
+      "icon": "cook",
+      "file": "world/chile.json",
+      "region": "global"
+    },
+    {
+      "slug": "china",
+      "label": "China",
+      "icon": "cook",
+      "file": "world/china.json",
+      "region": "global"
+    },
+    {
+      "slug": "colombia",
+      "label": "Colombia",
+      "icon": "cook",
+      "file": "world/colombia.json",
+      "region": "global"
+    },
+    {
+      "slug": "comoros",
+      "label": "Comoros",
+      "icon": "cook",
+      "file": "world/comoros.json",
+      "region": "global"
+    },
+    {
+      "slug": "costa-rica",
+      "label": "Costa Rica",
+      "icon": "cook",
+      "file": "world/costa-rica.json",
+      "region": "global"
+    },
+    {
+      "slug": "croatia",
+      "label": "Croatia",
+      "icon": "cook",
+      "file": "world/croatia.json",
+      "region": "global"
+    },
+    {
+      "slug": "cuba",
+      "label": "Cuba",
+      "icon": "cook",
+      "file": "world/cuba.json",
+      "region": "global"
+    },
+    {
+      "slug": "cyprus",
+      "label": "Cyprus",
+      "icon": "cook",
+      "file": "world/cyprus.json",
+      "region": "global"
+    },
+    {
+      "slug": "czechia",
+      "label": "Czechia",
+      "icon": "cook",
+      "file": "world/czechia.json",
+      "region": "global"
+    },
+    {
+      "slug": "denmark",
+      "label": "Denmark",
+      "icon": "cook",
+      "file": "world/denmark.json",
+      "region": "global"
+    },
+    {
+      "slug": "djibouti",
+      "label": "Djibouti",
+      "icon": "cook",
+      "file": "world/djibouti.json",
+      "region": "global"
+    },
+    {
+      "slug": "dominica",
+      "label": "Dominica",
+      "icon": "cook",
+      "file": "world/dominica.json",
+      "region": "global"
+    },
+    {
+      "slug": "dominican-republic",
+      "label": "Dominican Republic",
+      "icon": "cook",
+      "file": "world/dominican-republic.json",
+      "region": "global"
+    },
+    {
+      "slug": "ecuador",
+      "label": "Ecuador",
+      "icon": "cook",
+      "file": "world/ecuador.json",
+      "region": "global"
+    },
+    {
+      "slug": "egypt",
+      "label": "Egypt",
+      "icon": "cook",
+      "file": "world/egypt.json",
+      "region": "global"
+    },
+    {
+      "slug": "el-salvador",
+      "label": "El Salvador",
+      "icon": "cook",
+      "file": "world/el-salvador.json",
+      "region": "global"
+    },
+    {
+      "slug": "equatorial-guinea",
+      "label": "Equatorial Guinea",
+      "icon": "cook",
+      "file": "world/equatorial-guinea.json",
+      "region": "global"
+    },
+    {
+      "slug": "eritrea",
+      "label": "Eritrea",
+      "icon": "cook",
+      "file": "world/eritrea.json",
+      "region": "global"
+    },
+    {
+      "slug": "estonia",
+      "label": "Estonia",
+      "icon": "cook",
+      "file": "world/estonia.json",
+      "region": "global"
+    },
+    {
+      "slug": "eswatini",
+      "label": "Eswatini",
+      "icon": "cook",
+      "file": "world/eswatini.json",
+      "region": "global"
+    },
+    {
+      "slug": "ethiopia",
+      "label": "Ethiopia",
+      "icon": "cook",
+      "file": "world/ethiopia.json",
+      "region": "global"
+    },
+    {
+      "slug": "fiji",
+      "label": "Fiji",
+      "icon": "cook",
+      "file": "world/fiji.json",
+      "region": "global"
+    },
+    {
+      "slug": "finland",
+      "label": "Finland",
+      "icon": "cook",
+      "file": "world/finland.json",
+      "region": "global"
+    },
+    {
+      "slug": "france",
+      "label": "France",
+      "icon": "cook",
+      "file": "world/france.json",
+      "region": "global"
+    },
+    {
+      "slug": "gabon",
+      "label": "Gabon",
+      "icon": "cook",
+      "file": "world/gabon.json",
+      "region": "global"
+    },
+    {
+      "slug": "gambia",
+      "label": "Gambia",
+      "icon": "cook",
+      "file": "world/gambia.json",
+      "region": "global"
+    },
+    {
+      "slug": "georgia",
+      "label": "Georgia",
+      "icon": "cook",
+      "file": "world/georgia.json",
+      "region": "global"
+    },
+    {
+      "slug": "germany",
+      "label": "Germany",
+      "icon": "cook",
+      "file": "world/germany.json",
+      "region": "global"
+    },
+    {
+      "slug": "ghana",
+      "label": "Ghana",
+      "icon": "cook",
+      "file": "world/ghana.json",
+      "region": "global"
+    },
+    {
+      "slug": "greece",
+      "label": "Greece",
+      "icon": "cook",
+      "file": "world/greece.json",
+      "region": "global"
+    },
+    {
+      "slug": "grenada",
+      "label": "Grenada",
+      "icon": "cook",
+      "file": "world/grenada.json",
+      "region": "global"
+    },
+    {
+      "slug": "guatemala",
+      "label": "Guatemala",
+      "icon": "cook",
+      "file": "world/guatemala.json",
+      "region": "global"
+    },
+    {
+      "slug": "guinea",
+      "label": "Guinea",
+      "icon": "cook",
+      "file": "world/guinea.json",
+      "region": "global"
+    },
+    {
+      "slug": "guinea-bissau",
+      "label": "Guinea-Bissau",
+      "icon": "cook",
+      "file": "world/guinea-bissau.json",
+      "region": "global"
+    },
+    {
+      "slug": "guyana",
+      "label": "Guyana",
+      "icon": "cook",
+      "file": "world/guyana.json",
+      "region": "global"
+    },
+    {
+      "slug": "haiti",
+      "label": "Haiti",
+      "icon": "cook",
+      "file": "world/haiti.json",
+      "region": "global"
+    },
+    {
+      "slug": "honduras",
+      "label": "Honduras",
+      "icon": "cook",
+      "file": "world/honduras.json",
+      "region": "global"
+    },
+    {
+      "slug": "hungary",
+      "label": "Hungary",
+      "icon": "cook",
+      "file": "world/hungary.json",
+      "region": "global"
+    },
+    {
+      "slug": "iceland",
+      "label": "Iceland",
+      "icon": "cook",
+      "file": "world/iceland.json",
+      "region": "global"
+    },
+    {
+      "slug": "indonesia",
+      "label": "Indonesia",
+      "icon": "cook",
+      "file": "world/indonesia.json",
+      "region": "global"
+    },
+    {
+      "slug": "iran",
+      "label": "Iran",
+      "icon": "cook",
+      "file": "world/iran.json",
+      "region": "global"
+    },
+    {
+      "slug": "iraq",
+      "label": "Iraq",
+      "icon": "cook",
+      "file": "world/iraq.json",
+      "region": "global"
+    },
+    {
+      "slug": "ireland",
+      "label": "Ireland",
+      "icon": "cook",
+      "file": "world/ireland.json",
+      "region": "global"
+    },
+    {
+      "slug": "israel",
+      "label": "Israel",
+      "icon": "cook",
+      "file": "world/israel.json",
+      "region": "global"
+    },
+    {
+      "slug": "italy",
+      "label": "Italy",
+      "icon": "cook",
+      "file": "world/italy.json",
+      "region": "global"
+    },
+    {
+      "slug": "jamaica",
+      "label": "Jamaica",
+      "icon": "cook",
+      "file": "world/jamaica.json",
+      "region": "global"
+    },
+    {
+      "slug": "japan",
+      "label": "Japan",
+      "icon": "cook",
+      "file": "world/japan.json",
+      "region": "global"
+    },
+    {
+      "slug": "jordan",
+      "label": "Jordan",
+      "icon": "cook",
+      "file": "world/jordan.json",
+      "region": "global"
+    },
+    {
+      "slug": "kazakhstan",
+      "label": "Kazakhstan",
+      "icon": "cook",
+      "file": "world/kazakhstan.json",
+      "region": "global"
+    },
+    {
+      "slug": "kenya",
+      "label": "Kenya",
+      "icon": "cook",
+      "file": "world/kenya.json",
+      "region": "global"
+    },
+    {
+      "slug": "kiribati",
+      "label": "Kiribati",
+      "icon": "cook",
+      "file": "world/kiribati.json",
+      "region": "global"
+    },
+    {
+      "slug": "kuwait",
+      "label": "Kuwait",
+      "icon": "cook",
+      "file": "world/kuwait.json",
+      "region": "global"
+    },
+    {
+      "slug": "kyrgyzstan",
+      "label": "Kyrgyzstan",
+      "icon": "cook",
+      "file": "world/kyrgyzstan.json",
+      "region": "global"
+    },
+    {
+      "slug": "laos",
+      "label": "Laos",
+      "icon": "cook",
+      "file": "world/laos.json",
+      "region": "global"
+    },
+    {
+      "slug": "latvia",
+      "label": "Latvia",
+      "icon": "cook",
+      "file": "world/latvia.json",
+      "region": "global"
+    },
+    {
+      "slug": "lebanon",
+      "label": "Lebanon",
+      "icon": "cook",
+      "file": "world/lebanon.json",
+      "region": "global"
+    },
+    {
+      "slug": "lesotho",
+      "label": "Lesotho",
+      "icon": "cook",
+      "file": "world/lesotho.json",
+      "region": "global"
+    },
+    {
+      "slug": "liberia",
+      "label": "Liberia",
+      "icon": "cook",
+      "file": "world/liberia.json",
+      "region": "global"
+    },
+    {
+      "slug": "libya",
+      "label": "Libya",
+      "icon": "cook",
+      "file": "world/libya.json",
+      "region": "global"
+    },
+    {
+      "slug": "liechtenstein",
+      "label": "Liechtenstein",
+      "icon": "cook",
+      "file": "world/liechtenstein.json",
+      "region": "global"
+    },
+    {
+      "slug": "lithuania",
+      "label": "Lithuania",
+      "icon": "cook",
+      "file": "world/lithuania.json",
+      "region": "global"
+    },
+    {
+      "slug": "luxembourg",
+      "label": "Luxembourg",
+      "icon": "cook",
+      "file": "world/luxembourg.json",
+      "region": "global"
+    },
+    {
+      "slug": "madagascar",
+      "label": "Madagascar",
+      "icon": "cook",
+      "file": "world/madagascar.json",
+      "region": "global"
+    },
+    {
+      "slug": "malawi",
+      "label": "Malawi",
+      "icon": "cook",
+      "file": "world/malawi.json",
+      "region": "global"
+    },
+    {
+      "slug": "malaysia",
+      "label": "Malaysia",
+      "icon": "cook",
+      "file": "world/malaysia.json",
+      "region": "global"
+    },
+    {
+      "slug": "maldives",
+      "label": "Maldives",
+      "icon": "cook",
+      "file": "world/maldives.json",
+      "region": "global"
+    },
+    {
+      "slug": "mali",
+      "label": "Mali",
+      "icon": "cook",
+      "file": "world/mali.json",
+      "region": "global"
+    },
+    {
+      "slug": "malta",
+      "label": "Malta",
+      "icon": "cook",
+      "file": "world/malta.json",
+      "region": "global"
+    },
+    {
+      "slug": "marshall-islands",
+      "label": "Marshall Islands",
+      "icon": "cook",
+      "file": "world/marshall-islands.json",
+      "region": "global"
+    },
+    {
+      "slug": "mauritania",
+      "label": "Mauritania",
+      "icon": "cook",
+      "file": "world/mauritania.json",
+      "region": "global"
+    },
+    {
+      "slug": "mauritius",
+      "label": "Mauritius",
+      "icon": "cook",
+      "file": "world/mauritius.json",
+      "region": "global"
+    },
+    {
+      "slug": "mexico",
+      "label": "Mexico",
+      "icon": "cook",
+      "file": "world/mexico.json",
+      "region": "global"
+    },
+    {
+      "slug": "micronesia",
+      "label": "Micronesia",
+      "icon": "cook",
+      "file": "world/micronesia.json",
+      "region": "global"
+    },
+    {
+      "slug": "moldova",
+      "label": "Moldova",
+      "icon": "cook",
+      "file": "world/moldova.json",
+      "region": "global"
+    },
+    {
+      "slug": "monaco",
+      "label": "Monaco",
+      "icon": "cook",
+      "file": "world/monaco.json",
+      "region": "global"
+    },
+    {
+      "slug": "mongolia",
+      "label": "Mongolia",
+      "icon": "cook",
+      "file": "world/mongolia.json",
+      "region": "global"
+    },
+    {
+      "slug": "montenegro",
+      "label": "Montenegro",
+      "icon": "cook",
+      "file": "world/montenegro.json",
+      "region": "global"
+    },
+    {
+      "slug": "morocco",
+      "label": "Morocco",
+      "icon": "cook",
+      "file": "world/morocco.json",
+      "region": "global"
+    },
+    {
+      "slug": "mozambique",
+      "label": "Mozambique",
+      "icon": "cook",
+      "file": "world/mozambique.json",
+      "region": "global"
+    },
+    {
+      "slug": "myanmar",
+      "label": "Myanmar",
+      "icon": "cook",
+      "file": "world/myanmar.json",
+      "region": "global"
+    },
+    {
+      "slug": "namibia",
+      "label": "Namibia",
+      "icon": "cook",
+      "file": "world/namibia.json",
+      "region": "global"
+    },
+    {
+      "slug": "nauru",
+      "label": "Nauru",
+      "icon": "cook",
+      "file": "world/nauru.json",
+      "region": "global"
+    },
+    {
+      "slug": "nepal",
+      "label": "Nepal",
+      "icon": "cook",
+      "file": "world/nepal.json",
+      "region": "global"
+    },
+    {
+      "slug": "netherlands",
+      "label": "Netherlands",
+      "icon": "cook",
+      "file": "world/netherlands.json",
+      "region": "global"
+    },
+    {
+      "slug": "new-zealand",
+      "label": "New Zealand",
+      "icon": "cook",
+      "file": "world/new-zealand.json",
+      "region": "global"
+    },
+    {
+      "slug": "nicaragua",
+      "label": "Nicaragua",
+      "icon": "cook",
+      "file": "world/nicaragua.json",
+      "region": "global"
+    },
+    {
+      "slug": "niger",
+      "label": "Niger",
+      "icon": "cook",
+      "file": "world/niger.json",
+      "region": "global"
+    },
+    {
+      "slug": "nigeria",
+      "label": "Nigeria",
+      "icon": "cook",
+      "file": "world/nigeria.json",
+      "region": "global"
+    },
+    {
+      "slug": "north-korea",
+      "label": "North Korea",
+      "icon": "cook",
+      "file": "world/north-korea.json",
+      "region": "global"
+    },
+    {
+      "slug": "north-macedonia",
+      "label": "North Macedonia",
+      "icon": "cook",
+      "file": "world/north-macedonia.json",
+      "region": "global"
+    },
+    {
+      "slug": "norway",
+      "label": "Norway",
+      "icon": "cook",
+      "file": "world/norway.json",
+      "region": "global"
+    },
+    {
+      "slug": "oman",
+      "label": "Oman",
+      "icon": "cook",
+      "file": "world/oman.json",
+      "region": "global"
+    },
+    {
+      "slug": "pakistan",
+      "label": "Pakistan",
+      "icon": "cook",
+      "file": "world/pakistan.json",
+      "region": "global"
+    },
+    {
+      "slug": "palau",
+      "label": "Palau",
+      "icon": "cook",
+      "file": "world/palau.json",
+      "region": "global"
+    },
+    {
+      "slug": "palestine",
+      "label": "Palestine",
+      "icon": "cook",
+      "file": "world/palestine.json",
+      "region": "global"
+    },
+    {
+      "slug": "panama",
+      "label": "Panama",
+      "icon": "cook",
+      "file": "world/panama.json",
+      "region": "global"
+    },
+    {
+      "slug": "papua-new-guinea",
+      "label": "Papua New Guinea",
+      "icon": "cook",
+      "file": "world/papua-new-guinea.json",
+      "region": "global"
+    },
+    {
+      "slug": "paraguay",
+      "label": "Paraguay",
+      "icon": "cook",
+      "file": "world/paraguay.json",
+      "region": "global"
+    },
+    {
+      "slug": "peru",
+      "label": "Peru",
+      "icon": "cook",
+      "file": "world/peru.json",
+      "region": "global"
+    },
+    {
+      "slug": "philippines",
+      "label": "Philippines",
+      "icon": "cook",
+      "file": "world/philippines.json",
+      "region": "global"
+    },
+    {
+      "slug": "poland",
+      "label": "Poland",
+      "icon": "cook",
+      "file": "world/poland.json",
+      "region": "global"
+    },
+    {
+      "slug": "portugal",
+      "label": "Portugal",
+      "icon": "cook",
+      "file": "world/portugal.json",
+      "region": "global"
+    },
+    {
+      "slug": "qatar",
+      "label": "Qatar",
+      "icon": "cook",
+      "file": "world/qatar.json",
+      "region": "global"
+    },
+    {
+      "slug": "romania",
+      "label": "Romania",
+      "icon": "cook",
+      "file": "world/romania.json",
+      "region": "global"
+    },
+    {
+      "slug": "russia",
+      "label": "Russia",
+      "icon": "cook",
+      "file": "world/russia.json",
+      "region": "global"
+    },
+    {
+      "slug": "rwanda",
+      "label": "Rwanda",
+      "icon": "cook",
+      "file": "world/rwanda.json",
+      "region": "global"
+    },
+    {
+      "slug": "saint-kitts-and-nevis",
+      "label": "Saint Kitts and Nevis",
+      "icon": "cook",
+      "file": "world/saint-kitts-and-nevis.json",
+      "region": "global"
+    },
+    {
+      "slug": "saint-lucia",
+      "label": "Saint Lucia",
+      "icon": "cook",
+      "file": "world/saint-lucia.json",
+      "region": "global"
+    },
+    {
+      "slug": "saint-vincent-and-the-grenadines",
+      "label": "Saint Vincent and the Grenadines",
+      "icon": "cook",
+      "file": "world/saint-vincent-and-the-grenadines.json",
+      "region": "global"
+    },
+    {
+      "slug": "samoa",
+      "label": "Samoa",
+      "icon": "cook",
+      "file": "world/samoa.json",
+      "region": "global"
+    },
+    {
+      "slug": "san-marino",
+      "label": "San Marino",
+      "icon": "cook",
+      "file": "world/san-marino.json",
+      "region": "global"
+    },
+    {
+      "slug": "sao-tome-and-principe",
+      "label": "Sao Tome and Principe",
+      "icon": "cook",
+      "file": "world/sao-tome-and-principe.json",
+      "region": "global"
+    },
+    {
+      "slug": "saudi-arabia",
+      "label": "Saudi Arabia",
+      "icon": "cook",
+      "file": "world/saudi-arabia.json",
+      "region": "global"
+    },
+    {
+      "slug": "senegal",
+      "label": "Senegal",
+      "icon": "cook",
+      "file": "world/senegal.json",
+      "region": "global"
+    },
+    {
+      "slug": "serbia",
+      "label": "Serbia",
+      "icon": "cook",
+      "file": "world/serbia.json",
+      "region": "global"
+    },
+    {
+      "slug": "seychelles",
+      "label": "Seychelles",
+      "icon": "cook",
+      "file": "world/seychelles.json",
+      "region": "global"
+    },
+    {
+      "slug": "sierra-leone",
+      "label": "Sierra Leone",
+      "icon": "cook",
+      "file": "world/sierra-leone.json",
+      "region": "global"
+    },
+    {
+      "slug": "singapore",
+      "label": "Singapore",
+      "icon": "cook",
+      "file": "world/singapore.json",
+      "region": "global"
+    },
+    {
+      "slug": "slovakia",
+      "label": "Slovakia",
+      "icon": "cook",
+      "file": "world/slovakia.json",
+      "region": "global"
+    },
+    {
+      "slug": "slovenia",
+      "label": "Slovenia",
+      "icon": "cook",
+      "file": "world/slovenia.json",
+      "region": "global"
+    },
+    {
+      "slug": "solomon-islands",
+      "label": "Solomon Islands",
+      "icon": "cook",
+      "file": "world/solomon-islands.json",
+      "region": "global"
+    },
+    {
+      "slug": "somalia",
+      "label": "Somalia",
+      "icon": "cook",
+      "file": "world/somalia.json",
+      "region": "global"
+    },
+    {
+      "slug": "south-africa",
+      "label": "South Africa",
+      "icon": "cook",
+      "file": "world/south-africa.json",
+      "region": "global"
+    },
+    {
+      "slug": "south-korea",
+      "label": "South Korea",
+      "icon": "cook",
+      "file": "world/south-korea.json",
+      "region": "global"
+    },
+    {
+      "slug": "south-sudan",
+      "label": "South Sudan",
+      "icon": "cook",
+      "file": "world/south-sudan.json",
+      "region": "global"
+    },
+    {
+      "slug": "spain",
+      "label": "Spain",
+      "icon": "cook",
+      "file": "world/spain.json",
+      "region": "global"
+    },
+    {
+      "slug": "sri-lanka",
+      "label": "Sri Lanka",
+      "icon": "cook",
+      "file": "world/sri-lanka.json",
+      "region": "global"
+    },
+    {
+      "slug": "sudan",
+      "label": "Sudan",
+      "icon": "cook",
+      "file": "world/sudan.json",
+      "region": "global"
+    },
+    {
+      "slug": "suriname",
+      "label": "Suriname",
+      "icon": "cook",
+      "file": "world/suriname.json",
+      "region": "global"
+    },
+    {
+      "slug": "sweden",
+      "label": "Sweden",
+      "icon": "cook",
+      "file": "world/sweden.json",
+      "region": "global"
+    },
+    {
+      "slug": "switzerland",
+      "label": "Switzerland",
+      "icon": "cook",
+      "file": "world/switzerland.json",
+      "region": "global"
+    },
+    {
+      "slug": "syria",
+      "label": "Syria",
+      "icon": "cook",
+      "file": "world/syria.json",
+      "region": "global"
+    },
+    {
+      "slug": "taiwan",
+      "label": "Taiwan",
+      "icon": "cook",
+      "file": "world/taiwan.json",
+      "region": "global"
+    },
+    {
+      "slug": "tajikistan",
+      "label": "Tajikistan",
+      "icon": "cook",
+      "file": "world/tajikistan.json",
+      "region": "global"
+    },
+    {
+      "slug": "tanzania",
+      "label": "Tanzania",
+      "icon": "cook",
+      "file": "world/tanzania.json",
+      "region": "global"
+    },
+    {
+      "slug": "thailand",
+      "label": "Thailand",
+      "icon": "cook",
+      "file": "world/thailand.json",
+      "region": "global"
+    },
+    {
+      "slug": "timor-leste",
+      "label": "Timor-Leste",
+      "icon": "cook",
+      "file": "world/timor-leste.json",
+      "region": "global"
+    },
+    {
+      "slug": "togo",
+      "label": "Togo",
+      "icon": "cook",
+      "file": "world/togo.json",
+      "region": "global"
+    },
+    {
+      "slug": "tonga",
+      "label": "Tonga",
+      "icon": "cook",
+      "file": "world/tonga.json",
+      "region": "global"
+    },
+    {
+      "slug": "trinidad-and-tobago",
+      "label": "Trinidad and Tobago",
+      "icon": "cook",
+      "file": "world/trinidad-and-tobago.json",
+      "region": "global"
+    },
+    {
+      "slug": "tunisia",
+      "label": "Tunisia",
+      "icon": "cook",
+      "file": "world/tunisia.json",
+      "region": "global"
+    },
+    {
+      "slug": "turkey",
+      "label": "Turkey",
+      "icon": "cook",
+      "file": "world/turkey.json",
+      "region": "global"
+    },
+    {
+      "slug": "turkmenistan",
+      "label": "Turkmenistan",
+      "icon": "cook",
+      "file": "world/turkmenistan.json",
+      "region": "global"
+    },
+    {
+      "slug": "tuvalu",
+      "label": "Tuvalu",
+      "icon": "cook",
+      "file": "world/tuvalu.json",
+      "region": "global"
+    },
+    {
+      "slug": "uganda",
+      "label": "Uganda",
+      "icon": "cook",
+      "file": "world/uganda.json",
+      "region": "global"
+    },
+    {
+      "slug": "ukraine",
+      "label": "Ukraine",
+      "icon": "cook",
+      "file": "world/ukraine.json",
+      "region": "global"
+    },
+    {
+      "slug": "united-arab-emirates",
+      "label": "United Arab Emirates",
+      "icon": "cook",
+      "file": "world/united-arab-emirates.json",
+      "region": "global"
+    },
+    {
+      "slug": "united-kingdom",
+      "label": "United Kingdom",
+      "icon": "cook",
+      "file": "world/united-kingdom.json",
+      "region": "global"
+    },
+    {
+      "slug": "united-states",
+      "label": "United States",
+      "icon": "cook",
+      "file": "world/united-states.json",
+      "region": "global"
+    },
+    {
+      "slug": "uruguay",
+      "label": "Uruguay",
+      "icon": "cook",
+      "file": "world/uruguay.json",
+      "region": "global"
+    },
+    {
+      "slug": "uzbekistan",
+      "label": "Uzbekistan",
+      "icon": "cook",
+      "file": "world/uzbekistan.json",
+      "region": "global"
+    },
+    {
+      "slug": "vanuatu",
+      "label": "Vanuatu",
+      "icon": "cook",
+      "file": "world/vanuatu.json",
+      "region": "global"
+    },
+    {
+      "slug": "venezuela",
+      "label": "Venezuela",
+      "icon": "cook",
+      "file": "world/venezuela.json",
+      "region": "global"
+    },
+    {
+      "slug": "vietnam",
+      "label": "Vietnam",
+      "icon": "cook",
+      "file": "world/vietnam.json",
+      "region": "global"
+    },
+    {
+      "slug": "yemen",
+      "label": "Yemen",
+      "icon": "cook",
+      "file": "world/yemen.json",
+      "region": "global"
+    },
+    {
+      "slug": "zambia",
+      "label": "Zambia",
+      "icon": "cook",
+      "file": "world/zambia.json",
+      "region": "global"
+    },
+    {
+      "slug": "zimbabwe",
+      "label": "Zimbabwe",
+      "icon": "cook",
+      "file": "world/zimbabwe.json",
+      "region": "global"
+    },
+    {
+      "slug": "congo-democratic-republic",
+      "label": "Congo, Democratic Republic",
+      "icon": "cook",
+      "file": "world/congo-democratic-republic.json",
+      "region": "global"
+    },
+    {
+      "slug": "congo-republic",
+      "label": "Congo, Republic",
+      "icon": "cook",
+      "file": "world/congo-republic.json",
+      "region": "global"
+    },
+    {
+      "slug": "co-te-d-ivoire",
+      "label": "C\u00f4te d'Ivoire",
+      "icon": "cook",
+      "file": "world/co-te-d-ivoire.json",
+      "region": "global"
+    },
+    {
+      "slug": "vatican-city",
+      "label": "Vatican City",
+      "icon": "cook",
+      "file": "world/vatican-city.json",
+      "region": "global"
+    }
+  ]
+}

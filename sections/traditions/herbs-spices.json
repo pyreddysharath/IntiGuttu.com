@@ -1,0 +1,104 @@
+{
+  "label": "Herbs & Spices",
+  "icon": "spice",
+  "items": [
+    {
+      "heading": "Turmeric / Haldi",
+      "icon": "spice",
+      "details": [
+        "Contains curcuminoids with antioxidant and anti-inflammatory biological activity."
+      ]
+    },
+    {
+      "heading": "Neem",
+      "icon": "leaf",
+      "details": [
+        "Contains compounds with insecticidal and insect-repellent properties."
+      ]
+    },
+    {
+      "heading": "Tulsi",
+      "icon": "leaf",
+      "details": [
+        "Contains several biologically active phytochemicals used across many traditional remedies."
+      ]
+    },
+    {
+      "heading": "Ginger / Adrak",
+      "icon": "spice",
+      "details": [
+        "Contains bioactive compounds, with some evidence supporting traditional nausea-related uses."
+      ]
+    },
+    {
+      "heading": "Garlic / Lahsun",
+      "icon": "spice",
+      "details": [
+        "Contains biologically active sulfur compounds studied for a range of health effects."
+      ]
+    },
+    {
+      "heading": "Amla",
+      "icon": "spice",
+      "details": [
+        "A nutrient-rich fruit containing vitamin C and a range of protective phytochemicals."
+      ]
+    },
+    {
+      "heading": "Fenugreek / Methi",
+      "icon": "spice",
+      "details": [
+        "Contains dietary fiber and bioactive compounds used in traditional cooking and remedies."
+      ]
+    },
+    {
+      "heading": "Cumin / Jeera",
+      "icon": "spice",
+      "details": [
+        "Contains aromatic volatile compounds and phytochemicals used widely in Indian cooking."
+      ]
+    },
+    {
+      "heading": "Black pepper / Kali Mirch",
+      "icon": "spice",
+      "details": [
+        "Piperine, its key compound, can increase the body's absorption of some other compounds."
+      ]
+    },
+    {
+      "heading": "Cinnamon / Dalchini",
+      "icon": "spice",
+      "details": [
+        "Contains bioactive plant compounds studied for various metabolic effects."
+      ]
+    },
+    {
+      "heading": "Cardamom / Elaichi",
+      "icon": "spice",
+      "details": [
+        "Contains aromatic phytochemicals valued both in cooking and traditional remedies."
+      ]
+    },
+    {
+      "heading": "Clove / Laung",
+      "icon": "spice",
+      "details": [
+        "Its eugenol content has antimicrobial and local analgesic (pain-relieving) properties."
+      ]
+    },
+    {
+      "heading": "Ajwain",
+      "icon": "spice",
+      "details": [
+        "Contains thymol and other volatile compounds traditionally associated with digestive relief."
+      ]
+    },
+    {
+      "heading": "Asafoetida / Hing",
+      "icon": "spice",
+      "details": [
+        "Contains volatile compounds traditionally associated with digestive preparations."
+      ]
+    }
+  ]
+}

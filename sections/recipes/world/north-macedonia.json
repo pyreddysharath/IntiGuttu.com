@@ -1,0 +1,102 @@
+{
+  "label": "North Macedonia",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Tavce Gravce",
+      "details": [
+        "Key ingredients: beans, paprika, onion, mint",
+        "Soak and simmer beans until nearly tender.",
+        "Saute onion with paprika until fragrant.",
+        "Combine the beans and onion mixture in a clay dish.",
+        "Bake until the top forms a light crust, finishing with fresh mint."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Ajvar",
+      "details": [
+        "Key ingredients: roasted red peppers, eggplant, garlic, oil",
+        "Roast red peppers and eggplant until the skins blacken.",
+        "Peel and puree the roasted vegetables with garlic.",
+        "Cook the puree slowly in oil, stirring often.",
+        "Simmer until thick and deeply flavored, then cool and serve as a spread."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "Macedonian Kebapi",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Shopska Salad",
+      "details": [
+        "Ingredients: fresh vegetables/herbs, dressing, salt and optional grains/legumes.",
+        "Chop ingredients finely, whisk the dressing, combine just before serving and adjust acidity and salt."
+      ],
+      "type": "Other",
+      "veg": true
+    },
+    {
+      "heading": "Burek",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Musaka",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Pastrmajlija",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Sarma",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Tulumba",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mekici",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

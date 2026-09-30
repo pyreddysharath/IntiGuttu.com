@@ -1,0 +1,112 @@
+{
+  "label": "Mauritius",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Dholl Puri",
+      "details": [
+        "Key ingredients: split pea flour, flour dough, curry, pickle",
+        "Cook and grind split peas into a fine, seasoned powder.",
+        "Fill soft dough rounds with the split pea mixture.",
+        "Roll out and cook the filled flatbreads on a hot griddle.",
+        "Serve folded with curry and tangy pickled vegetables inside."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Mauritian Fish Vindaye",
+      "details": [
+        "Key ingredients: fish, mustard seeds, turmeric, vinegar, garlic",
+        "Fry fish pieces until golden and set aside.",
+        "Blend mustard seeds, turmeric and garlic into a paste.",
+        "Cook the paste with vinegar into a tangy sauce.",
+        "Coat the fried fish in the sauce and let it marinate before serving."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Rougaille",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mine Frit",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Fry"
+    },
+    {
+      "heading": "Gateaux Piments",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Biryani",
+      "details": [
+        "Ingredients: rice, oil/ghee, onion, whole spices, ginger-garlic, vegetables or meat, salt and stock/water.",
+        "Rinse and partly cook the rice.",
+        "Brown onion and spices, cook the vegetables/meat with seasoning, layer with rice and steam covered on low heat until tender."
+      ],
+      "type": "Rice",
+      "veg": false
+    },
+    {
+      "heading": "Vindaye",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Fish Curry",
+      "details": [
+        "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
+        "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
+      ],
+      "type": "Curry",
+      "veg": false
+    },
+    {
+      "heading": "Bol Renversé",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Alouda",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Napolitaine",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "label": "Plumbing",
+  "icon": "plumbing",
+  "items": [
+    {
+      "heading": "Fixing a leaking or dripping tap",
+      "precautionsFirst": [
+        "Turn off the isolation valve for that tap before starting.",
+        "Keep a cloth or bucket handy to catch residual water.",
+        "Note the order of parts as you disassemble the tap so reassembly is easy."
+      ],
+      "details": [
+        "Shut off the isolation valve under the sink, or the main supply if there is none.",
+        "Unscrew the tap handle and the retaining nut to reach the spindle.",
+        "Pull out the spindle and inspect the rubber washer at the end for wear or cracks.",
+        "Replace the washer with a new one of the same size.",
+        "Reassemble the tap, turn the water supply back on, and check for leaks."
+      ]
+    },
+    {
+      "heading": "Unclogging a slow or blocked sink drain",
+      "precautionsFirst": [
+        "Avoid mixing chemical drain cleaners with other cleaning products, which can produce harmful fumes.",
+        "Wear rubber gloves when clearing debris by hand."
+      ],
+      "details": [
+        "Remove any visible debris from the drain opening by hand or with a wire hook.",
+        "Pour half a cup of baking soda followed by half a cup of vinegar down the drain, and let it fizz for 10-15 minutes.",
+        "Flush with a kettle of hot, not boiling, water for plastic pipes.",
+        "If still blocked, use a plunger with a firm up-and-down motion to dislodge the clog.",
+        "For a persistent clog, open the U-shaped trap pipe under the sink over a bucket and clear it by hand."
+      ]
+    },
+    {
+      "heading": "Unclogging a blocked toilet",
+      "precautionsFirst": [
+        "Wear gloves and make sure the bathroom is well ventilated.",
+        "Do not use a plunger right after adding chemical cleaners, as splashing can occur."
+      ],
+      "details": [
+        "Use a toilet plunger, ensuring it fully covers the drain hole, and pump firmly several times.",
+        "If unsuccessful, feed a toilet auger (snake) gently into the drain to break up the blockage.",
+        "Pour a bucket of water from waist height into the bowl in one go - this can help dislodge a partial clog.",
+        "If it stays blocked or overflow risk is high, call a plumber rather than continuing to force it."
+      ]
+    },
+    {
+      "heading": "Fixing a running toilet cistern",
+      "precautionsFirst": [
+        "Turn off the water supply valve behind the toilet before working inside the cistern for long."
+      ],
+      "details": [
+        "Remove the cistern lid and watch the flush mechanism while it fills.",
+        "Check the float ball or cup moves freely and shuts the inlet valve once the tank is full.",
+        "Lower the float arm or float height slightly if the water level is too high and overflowing into the overflow tube.",
+        "Check the flapper or flush valve seal at the bottom is not warped or leaking into the bowl, and replace it if worn."
+      ]
+    },
+    {
+      "heading": "Low water pressure from a tap or showerhead",
+      "precautionsFirst": [
+        "Turn off the water supply before removing any fitting."
+      ],
+      "details": [
+        "Unscrew the aerator or showerhead nozzle by hand, or with pliers wrapped in cloth to avoid scratching.",
+        "Soak the aerator or nozzle in a bowl of vinegar for 30-60 minutes to dissolve mineral deposits.",
+        "Scrub gently with an old toothbrush and rinse thoroughly.",
+        "Reattach and check if flow improves - if not, the issue may be in the supply line and needs a plumber."
+      ]
+    },
+    {
+      "heading": "Temporary fix for a leaking pipe joint",
+      "precautionsFirst": [
+        "This is a temporary measure only - have the pipe properly repaired or replaced by a plumber soon after.",
+        "Turn off the main water supply before attempting any fix."
+      ],
+      "details": [
+        "Shut off the water supply to the affected pipe.",
+        "Dry the pipe surface thoroughly around the leak.",
+        "Wrap self-fusing silicone tape, or plumber's epoxy putty, tightly around the leaking joint, overlapping each layer.",
+        "Turn the water supply back on slowly and check for continued leaking.",
+        "Arrange a permanent repair with a plumber as soon as possible."
+      ]
+    },
+    {
+      "heading": "Air lock causing sputtering or no flow from a tap",
+      "precautionsFirst": [
+        "Do not connect hot and cold supply hoses together, as pressure differences can cause issues."
+      ],
+      "details": [
+        "Attach a hose between a working tap with good pressure and the affected tap, both fully open.",
+        "Let water run through for a minute or two to push the trapped air out, or open and close the affected tap rapidly a few times.",
+        "Turn off both taps and test the affected tap on its own."
+      ]
+    }
+  ]
+}

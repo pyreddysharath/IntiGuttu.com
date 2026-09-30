@@ -1,0 +1,62 @@
+{
+  "label": "Festivals & Seasonal Practices",
+  "icon": "festival",
+  "items": [
+    {
+      "heading": "Diwali pre-festival cleaning",
+      "icon": "festival",
+      "details": [
+        "Combines cultural preparation with a thorough removal of accumulated household dust and debris."
+      ]
+    },
+    {
+      "heading": "Pongal / Makar Sankranti harvest traditions",
+      "icon": "festival",
+      "details": [
+        "Reinforce awareness of agricultural cycles and where food actually comes from."
+      ]
+    },
+    {
+      "heading": "Bihu harvest traditions",
+      "icon": "festival",
+      "details": [
+        "Connect communities with the agricultural season and locally grown foods."
+      ]
+    },
+    {
+      "heading": "Onam harvest traditions",
+      "icon": "festival",
+      "details": [
+        "Preserve awareness of agricultural and seasonal heritage through shared celebration."
+      ]
+    },
+    {
+      "heading": "Seasonal festival foods",
+      "icon": "festival",
+      "details": [
+        "Festival menus often make deliberate use of locally available seasonal ingredients."
+      ]
+    },
+    {
+      "heading": "Plant / tree-related festivals",
+      "icon": "tree",
+      "details": [
+        "Cultural traditions built around specific plants and trees encourage their ongoing protection."
+      ]
+    },
+    {
+      "heading": "Community festival meals",
+      "icon": "festival",
+      "details": [
+        "Combine food sharing with social cohesion across an entire community."
+      ]
+    },
+    {
+      "heading": "Seasonal preparation of dried and preserved foods",
+      "icon": "jar",
+      "details": [
+        "Extends food availability across the changing seasons of the year."
+      ]
+    }
+  ]
+}

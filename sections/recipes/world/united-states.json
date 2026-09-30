@@ -1,0 +1,123 @@
+{
+  "label": "United States",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Classic Cheeseburger",
+      "details": [
+        "Key ingredients: ground beef, cheese slices, burger buns, lettuce, tomato, pickles",
+        "Shape ground beef into patties and season with salt and pepper.",
+        "Sear on a hot griddle, flipping once, and melt cheese on top.",
+        "Toast the buns lightly.",
+        "Assemble with lettuce, tomato, pickles and condiments of choice."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "BBQ Pulled Pork",
+      "details": [
+        "Key ingredients: pork shoulder, dry rub spices, barbecue sauce, burger buns",
+        "Rub pork shoulder generously with a spice blend.",
+        "Slow-cook or smoke until the meat is fall-apart tender.",
+        "Shred the meat with two forks and mix with barbecue sauce.",
+        "Pile onto soft buns and serve with coleslaw."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Apple Pie",
+      "details": [
+        "Key ingredients: apples, pie crust, sugar, cinnamon, butter, lemon juice",
+        "Toss sliced apples with sugar, cinnamon and a splash of lemon juice.",
+        "Line a pie dish with crust and fill with the apple mixture, dotting with butter.",
+        "Cover with a top crust, sealing and venting the edges.",
+        "Bake until the crust is golden and the filling bubbles."
+      ],
+      "veg": true,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Hamburger",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Hot Dog",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Barbecue Ribs",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Fried Chicken",
+      "details": [
+        "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
+        "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
+      ],
+      "type": "Fry",
+      "veg": false
+    },
+    {
+      "heading": "Mac and Cheese",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Clam Chowder",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry",
+      "veg": false
+    },
+    {
+      "heading": "Jambalaya",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Gumbo",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Pancakes",
+      "details": [
+        "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
+        "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
+      ],
+      "type": "Sweet"
+    }
+  ]
+}

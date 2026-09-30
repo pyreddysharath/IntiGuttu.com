@@ -1,0 +1,132 @@
+{
+  "label": "Home Repair & Furniture",
+  "icon": "repair",
+  "items": [
+    {
+      "heading": "Fixing a squeaky door hinge",
+      "precautionsFirst": [
+        "Support the door if you remove it from its hinges for a heavier fix."
+      ],
+      "details": [
+        "Apply a few drops of household oil, such as machine oil or even cooking oil in a pinch, or silicone spray, to the hinge pin.",
+        "Open and close the door a few times to work the oil in.",
+        "Wipe away any excess oil that drips out to avoid staining the floor."
+      ]
+    },
+    {
+      "heading": "Fixing a loose door handle or knob",
+      "precautionsFirst": [
+        "Support the handle assembly as you work so screws or parts do not fall and get lost."
+      ],
+      "details": [
+        "Locate the small set screw on the neck of the handle, often needing an Allen key, and tighten it.",
+        "If the handle still wobbles, remove it fully, check the internal spindle for wear, and reseat it firmly before retightening.",
+        "Tighten the screws on the latch plate on the door edge as well, since these often loosen too."
+      ]
+    },
+    {
+      "heading": "Fixing a door or window that sticks",
+      "precautionsFirst": [
+        "Test gently before sanding or planing - only a small amount of material may need removing."
+      ],
+      "details": [
+        "Identify where the door or window rubs by checking for shiny or worn marks along the frame.",
+        "Tighten any loose hinge screws first, since sagging hinges are a common cause.",
+        "If it still sticks, sand down the rubbing edge lightly with sandpaper, testing frequently.",
+        "Repaint or reseal the sanded edge to protect the wood from moisture."
+      ]
+    },
+    {
+      "heading": "Patching a small hole or crack in a wall",
+      "precautionsFirst": [
+        "Wear a dust mask when sanding filler, and ventilate the room."
+      ],
+      "details": [
+        "Clean loose debris and dust from the hole or crack.",
+        "Apply a wall filler or putty with a scraper, slightly overfilling the hole.",
+        "Let it dry fully as per the product's instructions, then sand it smooth and flush with the wall.",
+        "Prime and paint to match the surrounding wall color."
+      ]
+    },
+    {
+      "heading": "Touch-up painting a small wall area",
+      "precautionsFirst": [
+        "Ensure good ventilation, and cover the floor and nearby furniture."
+      ],
+      "details": [
+        "Clean the area to be painted and lightly sand any rough patches.",
+        "Use painter's tape to define clean edges if needed.",
+        "Apply primer if painting over a patched or stained area, and let it dry.",
+        "Apply the matching paint in thin, even coats, letting each coat dry before the next."
+      ]
+    },
+    {
+      "heading": "Fixing a wobbly chair or table leg",
+      "precautionsFirst": [
+        "Turn the furniture upside down on a padded surface to work on it safely."
+      ],
+      "details": [
+        "Tighten any visible screws or bolts at the leg joints.",
+        "If a joint is loose from worn-out glue, apply wood glue into the joint, reassemble, and clamp tightly until dry.",
+        "For an uneven leg length, add a self-adhesive felt pad, or sand the longer leg slightly to level it."
+      ]
+    },
+    {
+      "heading": "Fixing a torn window or door mosquito net",
+      "precautionsFirst": [
+        "Work on a flat, stable surface if you remove the mesh frame."
+      ],
+      "details": [
+        "For small tears, apply a mesh repair patch kit or a dab of clear or fabric glue, pressing the torn edges together.",
+        "For larger tears, cut a patch from spare mesh slightly larger than the hole, and glue or stitch it over the torn area.",
+        "For a fully worn-out net, most frames allow the old mesh to be pulled out and rerolled with new mesh sheeting from a hardware store."
+      ]
+    },
+    {
+      "heading": "Unsticking a stuck zipper",
+      "precautionsFirst": [
+        "Avoid forcing a stuck zipper, which can bend or break the teeth."
+      ],
+      "details": [
+        "Rub a small amount of soap, candle wax, graphite pencil lead, or petroleum jelly along the teeth of the zipper.",
+        "Gently work the zipper pull back and forth to distribute the lubricant.",
+        "If fabric is caught in the teeth, gently wiggle it free with tweezers or a pin rather than pulling hard."
+      ]
+    },
+    {
+      "heading": "Sharpening kitchen knives at home",
+      "precautionsFirst": [
+        "Always cut and sharpen away from your body and fingers.",
+        "Keep fingers clear of the blade edge throughout."
+      ],
+      "details": [
+        "Use a sharpening stone, or a simple pull-through sharpener suited for home use.",
+        "Hold the knife at the angle recommended by the sharpener, usually 15-20 degrees for a stone, and draw the blade across in smooth, even strokes.",
+        "Repeat evenly on both sides of the blade a few times.",
+        "Hone with a honing rod between sharpenings, and always wash the knife before use."
+      ]
+    },
+    {
+      "heading": "Fixing a squeaky bed frame",
+      "precautionsFirst": [
+        "Make sure the bed is stable and cannot collapse while you check underneath."
+      ],
+      "details": [
+        "Tighten all visible bolts and screws at the joints with the appropriate tool.",
+        "Apply a little wood glue or wax to any wooden joints where a mattress slat rubs against the frame.",
+        "Place a folded piece of cloth or a felt pad between metal parts that rub against each other."
+      ]
+    },
+    {
+      "heading": "Fixing a loose curtain rod or rail",
+      "precautionsFirst": [
+        "Use a stable ladder or stool, and have someone hold it steady if working above head height."
+      ],
+      "details": [
+        "Check if the wall bracket screws have loosened from the wall and tighten them.",
+        "If the wall anchor has come loose in the wall, remove it, fill the hole with wall filler, let it dry, and reinstall a slightly larger anchor.",
+        "Ensure the rod is level and balanced across both brackets before hanging the curtains back."
+      ]
+    }
+  ]
+}

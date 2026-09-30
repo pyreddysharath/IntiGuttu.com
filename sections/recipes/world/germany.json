@@ -1,0 +1,104 @@
+{
+  "label": "Germany",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Bratwurst with Sauerkraut",
+      "details": [
+        "Key ingredients: bratwurst sausages, sauerkraut, onion, mustard",
+        "Simmer or grill bratwurst sausages until cooked through and browned.",
+        "Warm sauerkraut with sauteed onion until heated through.",
+        "Plate the sausages alongside the sauerkraut.",
+        "Serve with mustard and crusty bread."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "Pretzel",
+      "details": [
+        "Key ingredients: flour, yeast, water, baking soda, coarse salt",
+        "Knead a simple yeasted dough and let it rise until doubled.",
+        "Shape ropes of dough into the classic pretzel twist.",
+        "Dip briefly in a baking soda solution before baking, which gives the dark crust.",
+        "Sprinkle with coarse salt and bake until deep golden brown."
+      ],
+      "veg": true,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Black Forest Cake",
+      "details": [
+        "Key ingredients: chocolate sponge, cherries, whipped cream, kirsch",
+        "Bake layers of chocolate sponge cake and let them cool.",
+        "Soak the layers lightly with kirsch and cherry syrup.",
+        "Fill and frost between layers with whipped cream and cherries.",
+        "Decorate the top with more whipped cream, cherries and chocolate shavings."
+      ],
+      "veg": false,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Bratwurst",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Sauerbraten",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Schnitzel",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Currywurst",
+      "details": [
+        "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
+        "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Rouladen",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Kartoffelpuffer",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Stollen",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "label": "Suriname",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Pom",
+      "details": [
+        "Key ingredients: pomtajer root, chicken, citrus, tomato",
+        "Grate pomtajer root and mix it with shredded cooked chicken.",
+        "Season with citrus juice, tomato and spices.",
+        "Layer the mixture in a baking dish.",
+        "Bake until the top is golden and set."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Roti Surinamese",
+      "details": [
+        "Key ingredients: flatbread, chicken curry, potato, long beans",
+        "Prepare a flaky flatbread dough and cook it on a griddle.",
+        "Simmer chicken with potato and long beans in a mild curry sauce.",
+        "Cook until the chicken and potatoes are tender.",
+        "Serve the curry wrapped in the warm flatbread."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Roti",
+      "details": [
+        "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
+        "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Saoto Soup",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Moksi Alesi",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Bakabana",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Bami",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Nasi",
+      "details": [
+        "Ingredients: rice, vegetables or protein, onion/garlic, oil, seasoning and water/stock.",
+        "Cook the rice by absorption or steaming.",
+        "Sauté the other ingredients separately, combine and season to taste."
+      ],
+      "type": "Rice"
+    },
+    {
+      "heading": "Peanut Soup",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Gado-Gado",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Bojo",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

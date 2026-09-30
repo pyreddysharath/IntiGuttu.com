@@ -1,0 +1,71 @@
+{
+  "label": "Cooking Methods & Utensils",
+  "icon": "vessel",
+  "items": [
+    {
+      "heading": "Matka / Ghada water storage",
+      "icon": "vessel",
+      "details": [
+        "The porous clay of a matka enables evaporative cooling, keeping stored water naturally cool."
+      ]
+    },
+    {
+      "heading": "Earthen-pot cooking",
+      "icon": "vessel",
+      "details": [
+        "Clay provides slow, relatively even heating and good heat retention, suited to long, gentle cooking."
+      ]
+    },
+    {
+      "heading": "Iron kadai / tawa",
+      "icon": "vessel",
+      "details": [
+        "Cooking in iron cookware can contribute some dietary iron to food, particularly moist or acidic dishes."
+      ]
+    },
+    {
+      "heading": "Copper water vessels",
+      "icon": "vessel",
+      "details": [
+        "Copper has documented antimicrobial properties that can help reduce certain bacteria in stored water.",
+        "Trace copper ions are believed in Ayurveda to support digestion and metabolism."
+      ]
+    },
+    {
+      "heading": "Banana-leaf serving",
+      "icon": "leaf",
+      "details": [
+        "Banana leaves have natural antibacterial properties and add a subtle aroma and flavor to warm food.",
+        "Serving on leaves avoided the need to wash dishes with limited water, and the leaves are fully compostable afterward."
+      ]
+    },
+    {
+      "heading": "Sal-leaf plates",
+      "icon": "leaf",
+      "details": [
+        "A traditional, fully biodegradable alternative to synthetic disposable plates."
+      ]
+    },
+    {
+      "heading": "Stone grinding (Sil-batta / Ammi)",
+      "icon": "vessel",
+      "details": [
+        "Provides controlled, gradual mechanical grinding of spices and chutneys without any industrial processing."
+      ]
+    },
+    {
+      "heading": "Hand pounding (Ural / Okhli)",
+      "icon": "hand",
+      "details": [
+        "A traditional mechanical method for processing grains, pulses, and spices by hand."
+      ]
+    },
+    {
+      "heading": "Clay tawa / chatti cooking",
+      "icon": "vessel",
+      "details": [
+        "Traditional clay vessels give distinctive, gentle heat-transfer characteristics well suited to slow cooking."
+      ]
+    }
+  ]
+}

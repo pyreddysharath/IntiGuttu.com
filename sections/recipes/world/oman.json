@@ -1,0 +1,109 @@
+{
+  "label": "Oman",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Shuwa",
+      "details": [
+        "Key ingredients: lamb, spice paste, banana leaf",
+        "Rub lamb generously with a paste of garlic, chili and spices.",
+        "Wrap the meat tightly in banana leaves.",
+        "Bury and slow-cook in an underground pit oven for a full day.",
+        "Unwrap the tender, smoky meat and serve with rice."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Omani Halwa",
+      "details": [
+        "Key ingredients: sugar, ghee, cardamom, saffron, nuts",
+        "Cook sugar syrup with cardamom and saffron until fragrant.",
+        "Gradually stir in starch to thicken the mixture.",
+        "Add ghee bit by bit, stirring constantly until glossy and elastic.",
+        "Pour into a dish, scatter with nuts and let cool before slicing."
+      ],
+      "veg": true,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Majboos",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mishkak",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Harees",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mashuai",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Halwa",
+      "details": [
+        "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
+        "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
+      ],
+      "type": "Sweet"
+    },
+    {
+      "heading": "Rukhal",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Arsia",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Maqdeed",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Omani Bread",
+      "details": [
+        "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
+        "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
+      ],
+      "type": "Tiffin/Snack"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "label": "Canada",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Poutine",
+      "details": [
+        "Key ingredients: fries, cheese curds, gravy",
+        "Fry potatoes until golden and crisp.",
+        "Scatter fresh cheese curds generously over the hot fries.",
+        "Ladle warm brown gravy over the top so the curds start to soften.",
+        "Serve immediately while everything is hot and gooey."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Tourtiere",
+      "details": [
+        "Key ingredients: pastry dough, ground pork, potato, onion, spices",
+        "Simmer ground pork with diced potato, onion and warm spices.",
+        "Cool the filling slightly, then spoon it into a pastry-lined pie dish.",
+        "Cover with a top crust and seal the edges, cutting vents.",
+        "Bake until the crust is golden and flaky."
+      ],
+      "veg": false,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Nanaimo Bars",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Butter Tarts",
+      "details": [
+        "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
+        "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
+      ],
+      "type": "Sweet"
+    },
+    {
+      "heading": "Montreal Bagel",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Montreal Smoked Meat",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Pea Soup",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Bannock",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Salmon",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Pouding Chômeur",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

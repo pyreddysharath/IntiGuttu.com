@@ -1,0 +1,45 @@
+{
+  "label": "Kitchen Hacks",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Peeling garlic quickly",
+      "details": [
+        "Smash the clove gently with the flat side of a knife - the skin comes off easily.",
+        "Shake a handful of cloves vigorously in a covered bowl, or between two bowls, to loosen the skins."
+      ]
+    },
+    {
+      "heading": "Peeling ginger without waste",
+      "details": [
+        "Scrape the skin off with the edge of a spoon - it removes the thin skin without wasting the flesh underneath."
+      ]
+    },
+    {
+      "heading": "Deseeding a pomegranate quickly",
+      "details": [
+        "Cut the fruit in half and hold it cut-side down over a bowl of water.",
+        "Tap the back firmly with a spoon or rolling pin - the arils fall out into the water while the pith floats."
+      ]
+    },
+    {
+      "heading": "Getting more juice out of a lemon",
+      "details": [
+        "Roll the lemon firmly on the counter with your palm before cutting.",
+        "Microwave for 10-15 seconds, or warm briefly in hot water, then juice it."
+      ]
+    },
+    {
+      "heading": "Testing if an egg is fresh",
+      "details": [
+        "Place the egg in a bowl of water - a fresh egg sinks and lies flat, an older one stands upright, and a spoiled one floats and should be discarded."
+      ]
+    },
+    {
+      "heading": "Separating egg yolk from white easily",
+      "details": [
+        "Crack the egg into a clean funnel, or use your cupped hand as a light funnel over a bowl, letting the white drain through while the yolk stays behind."
+      ]
+    }
+  ]
+}

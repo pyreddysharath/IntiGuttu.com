@@ -1,0 +1,111 @@
+{
+  "label": "Romania",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Sarmale",
+      "details": [
+        "Key ingredients: cabbage leaves, ground pork, rice, tomato",
+        "Mix ground pork with rice, onion and herbs.",
+        "Wrap portions of filling tightly in pickled cabbage leaves.",
+        "Layer the rolls in a pot with tomato sauce.",
+        "Simmer slowly for hours until tender and flavorful."
+      ],
+      "veg": false,
+      "type": "Rice"
+    },
+    {
+      "heading": "Mamaliga Romaneasca",
+      "details": [
+        "Key ingredients: corn meal, water, cheese, sour cream",
+        "Whisk corn meal into boiling salted water.",
+        "Stir continuously until it thickens into a smooth porridge.",
+        "Pour onto a board and let it firm up slightly.",
+        "Serve with crumbled cheese and sour cream."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Mămăligă",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Ciorbă de burtă",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mici",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Tochitură",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Papanasi",
+      "details": [
+        "Ingredients: rice, vegetables or protein, onion/garlic, oil, seasoning and water/stock.",
+        "Cook the rice by absorption or steaming.",
+        "Sauté the other ingredients separately, combine and season to taste."
+      ],
+      "type": "Rice"
+    },
+    {
+      "heading": "Cozonac",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Zacuscă",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Salată de Boeuf",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Ciorbă de fasole",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

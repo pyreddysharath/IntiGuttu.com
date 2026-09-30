@@ -1,0 +1,102 @@
+{
+  "label": "Iran",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Ghormeh Sabzi",
+      "details": [
+        "Key ingredients: lamb, herbs, dried lime, kidney beans",
+        "Fry a large mix of chopped fresh herbs until dark and fragrant.",
+        "Brown lamb pieces and combine with the fried herbs.",
+        "Add dried lime and kidney beans, then simmer for a long time.",
+        "Cook until the lamb is tender and the sauce is deep green, then serve with rice."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Tahdig",
+      "details": [
+        "Key ingredients: rice, saffron, yogurt, butter",
+        "Parboil rice until just short of tender.",
+        "Mix a portion of the rice with yogurt and saffron for the crust layer.",
+        "Layer the plain and yogurt rice in a pot with plenty of butter on the bottom.",
+        "Steam gently until a golden, crisp crust forms on the bottom, then flip to serve."
+      ],
+      "veg": true,
+      "type": "Rice"
+    },
+    {
+      "heading": "Chelo Kebab",
+      "details": [
+        "Ingredients: meat or vegetables, yogurt/oil, garlic, spices, salt and lemon.",
+        "Marinate the main ingredient, thread or shape, then grill or broil until cooked and lightly charred."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Fesenjan",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Abgoosht",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Ash Reshteh",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Zereshk Polo",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Baghali Polo",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mirza Ghasemi",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Saffron Ice Cream",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Sweet"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "label": "Israel",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Shakshuka",
+      "details": [
+        "Key ingredients: eggs, tomato, bell pepper, cumin, paprika",
+        "Saute onion and bell pepper until soft.",
+        "Add tomato, cumin and paprika, simmering into a thick sauce.",
+        "Crack eggs directly into wells in the sauce.",
+        "Cover and cook until the whites are set but yolks remain soft."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Israeli Hummus",
+      "details": [
+        "Key ingredients: chickpeas, tahini, lemon, garlic",
+        "Cook chickpeas until very soft.",
+        "Blend the chickpeas with tahini, lemon juice and garlic until smooth.",
+        "Adjust with cooking liquid until light and creamy.",
+        "Spread onto a plate, drizzle with olive oil and serve with warm pita."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Falafel",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": true
+    },
+    {
+      "heading": "Hummus",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": true
+    },
+    {
+      "heading": "Sabich",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Jachnun",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Cholent",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Israeli Salad",
+      "details": [
+        "Ingredients: fresh vegetables/herbs, dressing, salt and optional grains/legumes.",
+        "Chop ingredients finely, whisk the dressing, combine just before serving and adjust acidity and salt."
+      ],
+      "type": "Other",
+      "veg": true
+    },
+    {
+      "heading": "Kubbeh",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Malabi",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Bourekas",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "label": "Water Management",
+  "icon": "drop",
+  "items": [
+    {
+      "heading": "Rainwater harvesting",
+      "icon": "drop",
+      "details": [
+        "Captures rainfall for direct storage or to recharge groundwater for later use."
+      ]
+    },
+    {
+      "heading": "Temple tanks",
+      "icon": "drop",
+      "details": [
+        "Store rainwater and can support groundwater recharge, depending on their design and local geology."
+      ]
+    },
+    {
+      "heading": "Stepwells (Baoli / Vav)",
+      "icon": "drop",
+      "details": [
+        "Traditional multi-level structures for reliably accessing and storing water through dry seasons."
+      ]
+    },
+    {
+      "heading": "Village tanks (Cheruvu / Kere / Eri)",
+      "icon": "drop",
+      "details": [
+        "Store seasonal rainwater for both agriculture and community use through the year."
+      ]
+    },
+    {
+      "heading": "Traditional ponds",
+      "icon": "drop",
+      "details": [
+        "Provide local water storage and support the surrounding ecosystem."
+      ]
+    },
+    {
+      "heading": "Earthen water pots",
+      "icon": "vessel",
+      "details": [
+        "The porous clay provides evaporative cooling for stored drinking water."
+      ]
+    },
+    {
+      "heading": "Covered household water storage",
+      "icon": "vessel",
+      "details": [
+        "Keeping stored water covered reduces exposure to dust, insects, and other contaminants."
+      ]
+    },
+    {
+      "heading": "Traditional protection of water sources",
+      "icon": "shield",
+      "details": [
+        "Community and cultural restrictions around water bodies can reduce pollution and overuse."
+      ]
+    }
+  ]
+}

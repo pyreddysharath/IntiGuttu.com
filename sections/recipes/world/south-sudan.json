@@ -1,0 +1,120 @@
+{
+  "label": "South Sudan",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Kisra with Stew",
+      "details": [
+        "Key ingredients: sorghum flatbread, meat, tomato, onion",
+        "Ferment a thin sorghum batter, then cook it on a hot griddle into a large flatbread.",
+        "Simmer meat with tomato and onion into a rich stew.",
+        "Cook until the meat is tender and the sauce thickens.",
+        "Serve the flatbread alongside the stew for scooping."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Ful Sudani (South Sudanese Style)",
+      "details": [
+        "Key ingredients: fava beans, onion, tomato, oil",
+        "Simmer fava beans until soft.",
+        "Mash lightly, leaving some texture.",
+        "Stir in sauteed onion and tomato.",
+        "Serve warm with bread."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Ful Medames",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Kisra",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Asida",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Wal Wal",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Stewed Okra",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Peanut Stew",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Grilled Meat",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Fish Stew",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry",
+      "veg": false
+    },
+    {
+      "heading": "Sorghum Porridge",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Bean Stew",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry",
+      "veg": true
+    }
+  ]
+}

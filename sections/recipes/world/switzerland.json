@@ -1,0 +1,92 @@
+{
+  "label": "Switzerland",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Fondue",
+      "details": [
+        "Key ingredients: cheese, white wine, garlic, bread",
+        "Rub a pot with a cut garlic clove.",
+        "Melt grated cheese into simmering white wine, stirring constantly.",
+        "Continue stirring until smooth and glossy.",
+        "Keep warm over a small flame and dip cubes of bread into the cheese."
+      ],
+      "veg": true,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Rosti",
+      "details": [
+        "Key ingredients: grated potato, butter, salt",
+        "Grate potatoes and squeeze out excess moisture.",
+        "Season and pack the potato into a hot buttered pan.",
+        "Fry until a deep golden crust forms on the bottom.",
+        "Flip carefully and crisp the other side before serving."
+      ],
+      "veg": true,
+      "type": "Fry"
+    },
+    {
+      "heading": "Raclette",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Zürcher Geschnetzeltes",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Älplermagronen",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Bircher Muesli",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Basler Läckerli",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Tartiflette-style Alpine bake",
+      "details": [
+        "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
+        "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
+      ],
+      "type": "Sweet"
+    },
+    {
+      "heading": "Swiss Roll",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

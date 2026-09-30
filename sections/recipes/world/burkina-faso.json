@@ -1,0 +1,101 @@
+{
+  "label": "Burkina Faso",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Riz Gras",
+      "details": [
+        "Key ingredients: rice, tomato, meat, onion, palm oil",
+        "Brown meat pieces with onion in palm oil.",
+        "Stir in tomato paste and simmer into a rich sauce.",
+        "Add rice and enough water, cooking until the rice absorbs the sauce.",
+        "Fluff and serve the rice hot with the meat."
+      ],
+      "veg": false,
+      "type": "Rice"
+    },
+    {
+      "heading": "Babenda",
+      "details": [
+        "Key ingredients: leafy greens, peanut paste, dried fish, okra",
+        "Simmer dried fish and okra in water until softened.",
+        "Stir in ground peanut paste to thicken the base.",
+        "Add finely chopped leafy greens and cook until wilted.",
+        "Serve the thick green sauce over rice or millet balls."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Tô",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Poulet Bicyclette",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Ragout d'Igname",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Beignets",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Fry"
+    },
+    {
+      "heading": "Dégué",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Soupe de Gombo",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Haricots",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Pâte d'Arachide",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

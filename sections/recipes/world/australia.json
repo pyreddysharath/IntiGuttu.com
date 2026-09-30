@@ -1,0 +1,112 @@
+{
+  "label": "Australia",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Australian Meat Pie",
+      "details": [
+        "Key ingredients: pastry, ground beef, gravy, onion",
+        "Simmer ground beef with onion and stock into a thick gravy filling.",
+        "Line small pie tins with pastry and fill with the beef mixture.",
+        "Top with a pastry lid, sealing and venting the top.",
+        "Bake until the pastry is golden and flaky."
+      ],
+      "veg": false,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Pavlova",
+      "details": [
+        "Key ingredients: egg whites, sugar, cornstarch, whipped cream, fruit",
+        "Whisk egg whites to stiff peaks, gradually adding sugar until glossy.",
+        "Fold in a little cornstarch and vinegar for a marshmallowy center.",
+        "Shape into a disc and bake low and slow until crisp outside, soft inside.",
+        "Top the cooled meringue with whipped cream and fresh fruit."
+      ],
+      "veg": false,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Meat Pie",
+      "details": [
+        "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
+        "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
+      ],
+      "type": "Sweet",
+      "veg": false
+    },
+    {
+      "heading": "Chicken Parmigiana",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Sausage Roll",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Lamingtons",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Vegemite Toast",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Barramundi",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Damper",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Anzac Biscuits",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Fairy Bread",
+      "details": [
+        "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
+        "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
+      ],
+      "type": "Tiffin/Snack"
+    }
+  ]
+}

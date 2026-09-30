@@ -1,0 +1,119 @@
+{
+  "label": "Sao Tome and Principe",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Calulu de Peixe",
+      "details": [
+        "Key ingredients: fish, eggplant, okra, palm oil",
+        "Simmer dried and fresh fish together with palm oil.",
+        "Add eggplant and okra, cooking until soft.",
+        "Season well and simmer until the sauce thickens.",
+        "Serve hot with rice or fried banana."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Feijoada Santomense",
+      "details": [
+        "Key ingredients: beans, smoked meat, vegetables",
+        "Soak and simmer beans with smoked meat until tender.",
+        "Add root vegetables and greens.",
+        "Cook until everything is soft and well combined.",
+        "Serve the hearty stew over rice."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Calulu",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Feijoada",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Fish Stew",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry",
+      "veg": false
+    },
+    {
+      "heading": "Banana Fritters",
+      "details": [
+        "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
+        "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
+      ],
+      "type": "Fry"
+    },
+    {
+      "heading": "Matata",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Arroz de Peixe",
+      "details": [
+        "Ingredients: rice, vegetables or protein, onion/garlic, oil, seasoning and water/stock.",
+        "Cook the rice by absorption or steaming.",
+        "Sauté the other ingredients separately, combine and season to taste."
+      ],
+      "type": "Rice"
+    },
+    {
+      "heading": "Grilled Tuna",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Breadfruit",
+      "details": [
+        "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
+        "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Coconut Fish",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Coconut Cake",
+      "details": [
+        "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
+        "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
+      ],
+      "type": "Sweet"
+    }
+  ]
+}

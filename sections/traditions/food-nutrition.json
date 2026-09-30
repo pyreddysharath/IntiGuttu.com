@@ -1,0 +1,100 @@
+{
+  "label": "Food & Nutrition",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Eating with hands",
+      "icon": "hand",
+      "details": [
+        "Ayurveda links the five fingers to the five elements - space, air, fire, water, and earth - believed to be balanced before food is eaten.",
+        "Touching food stimulates digestive juices through nerve endings in the fingertips, and fingers sense temperature before the mouth does, helping avoid burns."
+      ]
+    },
+    {
+      "heading": "Sitting on the floor to eat (Sukhasana)",
+      "icon": "seated",
+      "details": [
+        "Sitting cross-legged is believed to activate the vagus nerve, signaling the brain that the stomach is filling and helping prevent overeating.",
+        "The posture improves blood circulation to the abdomen, aiding digestion."
+      ]
+    },
+    {
+      "heading": "Rice and dal together",
+      "icon": "cook",
+      "details": [
+        "Cereals and legumes provide complementary amino-acid profiles, making the combination more nutritionally complete than either alone."
+      ]
+    },
+    {
+      "heading": "Idli fermentation",
+      "icon": "cook",
+      "details": [
+        "Microbial fermentation changes the batter's texture, flavor, and digestibility before steaming."
+      ]
+    },
+    {
+      "heading": "Dosa fermentation",
+      "icon": "cook",
+      "details": [
+        "Fermentation transforms the batter through beneficial microorganisms, improving flavor and nutrient availability."
+      ]
+    },
+    {
+      "heading": "Curd / Dahi fermentation",
+      "icon": "drop",
+      "details": [
+        "Lactic-acid bacteria lower the pH of milk, which helps preserve it and adds beneficial probiotic cultures."
+      ]
+    },
+    {
+      "heading": "Buttermilk / Chaas / Majiga",
+      "icon": "drop",
+      "details": [
+        "A light, diluted after-meal drink that provides hydration, nutrients, and potentially beneficial microorganisms."
+      ]
+    },
+    {
+      "heading": "Sattu",
+      "icon": "cook",
+      "details": [
+        "A roasted and ground grain or pulse preparation that provides protein and other nutrients in a quick, convenient form."
+      ]
+    },
+    {
+      "heading": "Indian spice combinations",
+      "icon": "spice",
+      "details": [
+        "Spice blends provide a wide diversity of phytochemicals, and several individual spices have antimicrobial properties."
+      ]
+    },
+    {
+      "heading": "Turmeric in cooking",
+      "icon": "spice",
+      "details": [
+        "Provides curcuminoids and other biologically active compounds with antioxidant and anti-inflammatory properties."
+      ]
+    },
+    {
+      "heading": "Ginger in cooking",
+      "icon": "spice",
+      "details": [
+        "Contains bioactive compounds, with some evidence supporting its traditional use for nausea."
+      ]
+    },
+    {
+      "heading": "Garlic in cooking",
+      "icon": "spice",
+      "details": [
+        "Contains biologically active sulfur compounds studied for a range of health effects."
+      ]
+    },
+    {
+      "heading": "Chewing fennel seeds or paan after meals",
+      "icon": "leaf",
+      "details": [
+        "Fennel and betel leaf are traditionally believed to aid digestion right after a meal.",
+        "Chewing increases saliva production, which helps further break down food, and spices like cloves and cardamom used in paan freshen the breath."
+      ]
+    }
+  ]
+}

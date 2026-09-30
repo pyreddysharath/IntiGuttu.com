@@ -1,0 +1,105 @@
+{
+  "label": "Electrical",
+  "icon": "electrical",
+  "items": [
+    {
+      "heading": "Replacing a blown light bulb",
+      "precautionsFirst": [
+        "Switch off the light switch and let the bulb cool completely before touching it.",
+        "Do not touch a bulb, socket, or switch with wet hands.",
+        "Use a stable stool or ladder on solid ground rather than standing on furniture."
+      ],
+      "details": [
+        "Turn off the switch and, if possible, the circuit breaker for that light.",
+        "Once the old bulb has cooled, turn it counter-clockwise (screw type) or press and twist (bayonet type) to remove it.",
+        "Check that the new bulb's wattage and base type match the fitting.",
+        "Insert the new bulb and turn clockwise, or press and twist, until snug - do not overtighten.",
+        "Switch the power back on and test."
+      ]
+    },
+    {
+      "heading": "Resetting a tripped MCB or circuit breaker",
+      "precautionsFirst": [
+        "Do not reset the breaker repeatedly if it trips again immediately - that signals a fault needing an electrician.",
+        "Keep hands dry and stand on a dry surface while working at the board.",
+        "Switch off or unplug high-load appliances on that circuit before resetting."
+      ],
+      "details": [
+        "Locate the main distribution board and find the breaker that has flipped to the off or middle position.",
+        "Switch off or unplug appliances that may have overloaded that circuit.",
+        "Push the breaker firmly to the full off position first, then switch it back on.",
+        "If it trips again immediately, do not force it further - call a qualified electrician, as this can indicate a short circuit or wiring fault."
+      ]
+    },
+    {
+      "heading": "Replacing a fuse wire (older fuse boxes)",
+      "precautionsFirst": [
+        "Always switch off the main power supply before touching the fuse box.",
+        "Use the correct fuse wire rating for the circuit - never substitute thicker wire, as it removes the safety protection.",
+        "If unsure of the correct rating, call an electrician rather than guessing."
+      ],
+      "details": [
+        "Turn off the main switch at the distribution board.",
+        "Open the fuse carrier for the affected circuit and remove the old, burnt fuse wire.",
+        "Fit a new fuse wire of the correct rated capacity across the terminals and tighten the screws.",
+        "Close the carrier, restore the main switch, and test the circuit."
+      ]
+    },
+    {
+      "heading": "Fixing a loose or wobbly switch or socket",
+      "precautionsFirst": [
+        "Always switch off the circuit breaker for that point before opening it, not just the switch itself.",
+        "Never touch internal wiring while the power is still connected.",
+        "If wires look burnt or discolored, or the socket feels warm even when off, stop and call an electrician."
+      ],
+      "details": [
+        "Turn off the breaker for that circuit and confirm with a voltage tester, or by checking the switch no longer works.",
+        "Unscrew the switch or socket plate carefully and pull it out gently.",
+        "Check that the internal wire terminals are tight, and tighten any loose screws with a screwdriver.",
+        "Screw the plate back in place, restore power, and test."
+      ]
+    },
+    {
+      "heading": "Fixing a flickering light",
+      "precautionsFirst": [
+        "Turn off power at the breaker before checking the bulb or fitting.",
+        "If flickering affects several lights across the house, stop and call an electrician rather than continuing on your own."
+      ],
+      "details": [
+        "Turn off the light and check the bulb is screwed in firmly - a loose bulb often flickers.",
+        "Try a new bulb, since an old bulb nearing the end of its life is a common cause.",
+        "Check whether the fixture uses a dimmer that may be incompatible with the bulb type.",
+        "If flickering continues, the issue may be in the wiring or switch itself - call an electrician."
+      ]
+    },
+    {
+      "heading": "Replacing a plug top on a cord",
+      "precautionsFirst": [
+        "Always work with the appliance unplugged and switched off.",
+        "Match wire colors to the correct terminals carefully (in India: brown/red = live, blue/black = neutral, green or green-yellow = earth).",
+        "Use a plug rated for the appliance's power draw."
+      ],
+      "details": [
+        "Unscrew and open the plug casing.",
+        "Strip a small length of insulation from each wire if needed, without cutting the copper strands.",
+        "Connect the live, neutral, and earth wires to their correctly marked terminals, tightening each screw firmly.",
+        "Ensure the cord is gripped securely by the cord clamp inside the plug before closing the casing.",
+        "Test the plug in a socket before using it with the appliance."
+      ]
+    },
+    {
+      "heading": "Extension board or power strip not working",
+      "precautionsFirst": [
+        "Unplug the extension board before inspecting it.",
+        "Do not overload an extension board beyond its rated capacity.",
+        "If it smells burnt or looks melted, discard it rather than trying to repair it."
+      ],
+      "details": [
+        "Check the board is plugged in firmly and its switch, if it has one, is on.",
+        "Test the wall socket with another device to rule out a socket issue.",
+        "Check the fuse inside the extension board's plug, if it has one, and replace it if blown.",
+        "If it still does not work and shows no visible damage, replace the extension board rather than opening it."
+      ]
+    }
+  ]
+}

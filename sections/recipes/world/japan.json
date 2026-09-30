@@ -1,0 +1,113 @@
+{
+  "label": "Japan",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Sushi Rolls",
+      "details": [
+        "Key ingredients: sushi rice, nori sheets, rice vinegar, fillings such as cucumber and fish",
+        "Cook sushi rice and season it with rice vinegar, sugar and salt.",
+        "Spread rice over a nori sheet and add fillings in a line.",
+        "Roll tightly using a bamboo mat.",
+        "Slice into pieces with a sharp, wet knife."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Ramen",
+      "details": [
+        "Key ingredients: ramen noodles, pork or chicken broth, soy sauce or miso, soft-boiled egg, green onion",
+        "Simmer bones or aromatics for hours to build a rich broth.",
+        "Season the broth with soy sauce, miso or salt as desired.",
+        "Cook fresh ramen noodles separately until just tender.",
+        "Assemble noodles in broth topped with sliced meat, egg and green onion."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Tempura",
+      "details": [
+        "Key ingredients: shrimp or vegetables, flour, cold water, egg, oil for frying",
+        "Mix a light batter from flour, egg and ice-cold water, keeping it lumpy.",
+        "Dip shrimp or vegetable pieces lightly into the batter.",
+        "Fry in hot oil until pale golden and crisp.",
+        "Drain and serve immediately with dipping sauce."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "Sushi",
+      "details": [
+        "Ingredients: short-grain rice, rice vinegar, nori, fish/seafood or vegetables and soy sauce.",
+        "Cook and season the rice, cool slightly, shape with fillings or roll in nori, slice and serve with condiments."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Okonomiyaki",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Yakitori",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Tonkatsu",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Curry Rice",
+      "details": [
+        "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
+        "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
+      ],
+      "type": "Rice"
+    },
+    {
+      "heading": "Udon",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Soba",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mochi",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Sweet"
+    }
+  ]
+}

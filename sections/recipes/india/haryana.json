@@ -1,0 +1,314 @@
+{
+  "label": "Haryana",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Bajra Khichdi",
+      "details": [
+        "Key ingredients: pearl millet, moong dal, ghee, cumin",
+        "Soak pearl millet briefly, then pressure-cook with moong dal until soft.",
+        "Temper cumin seeds in ghee and pour over the cooked khichdi.",
+        "Mash lightly to bring the millet and dal together.",
+        "Serve hot with a generous spoon of ghee on top."
+      ],
+      "veg": true,
+      "type": "Rice"
+    },
+    {
+      "heading": "Bajra Roti",
+      "details": [
+        "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
+        "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Hara Dhania Cholia",
+      "details": [
+        "Key ingredients: green chickpeas, cilantro, garlic, cumin",
+        "Boil fresh green chickpeas until just tender.",
+        "Saute garlic and cumin seeds in ghee until fragrant.",
+        "Add the chickpeas along with plenty of chopped cilantro.",
+        "Toss on high heat briefly and serve warm."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Kadhi Pakora",
+      "details": [
+        "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
+        "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
+      ],
+      "type": "Fry"
+    },
+    {
+      "heading": "Kachri Chutney",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Bathua Raita",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Bajra Churma",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Singri ki Sabzi",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Methi Gajar",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Meethe Chawal",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Vegetable Pulao",
+      "details": [
+        "Ingredients: rice, mixed vegetables, onion, whole spices.",
+        "Rinse rice.",
+        "Fry onion and spices, add vegetables and rice, then simmer with water until fluffy."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Jeera Rice",
+      "details": [
+        "Ingredients: rice, cumin, ghee, salt.",
+        "Rinse rice.",
+        "Bloom cumin in ghee, add rice and water, then simmer until tender."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Plain Dal",
+      "details": [
+        "Ingredients: lentils, turmeric, cumin, garlic.",
+        "Boil lentils with turmeric until soft.",
+        "Fry cumin and garlic and stir into the dal."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Dal Tadka",
+      "details": [
+        "Ingredients: lentils, onion, tomato, cumin, garlic.",
+        "Cook lentils until soft.",
+        "Fry onion, tomato, cumin and garlic; combine and simmer briefly."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Gobi",
+      "details": [
+        "Ingredients: potato, cauliflower, tomato, turmeric, cumin.",
+        "Fry cumin, add potato and cauliflower with spices, cover and cook until tender."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Matar",
+      "details": [
+        "Ingredients: potato, peas, tomato, onion, ginger.",
+        "Cook onion, ginger and tomato with spices.",
+        "Add potato, peas and water; simmer until soft."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Palak Paneer",
+      "details": [
+        "Ingredients: spinach, paneer, onion, garlic, spices.",
+        "Blanch and puree spinach.",
+        "Cook onion and garlic with spices, add spinach and paneer; simmer."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Paneer Bhurji",
+      "details": [
+        "Ingredients: paneer, onion, tomato, green chilli.",
+        "Saute onion and tomato with chilli and spices; crumble in paneer and cook briefly."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Vegetable Khichdi",
+      "details": [
+        "Ingredients: rice, moong dal, vegetables, turmeric.",
+        "Wash rice and dal.",
+        "Add vegetables, turmeric and water; cook until soft."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Curd Rice",
+      "details": [
+        "Ingredients: rice, curd, mustard seeds, curry leaves.",
+        "Cool cooked rice and mix with curd.",
+        "Temper mustard and curry leaves in oil and stir in."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Chapati",
+      "details": [
+        "Ingredients: whole wheat flour, water, salt.",
+        "Knead flour with water, rest, roll thin and cook both sides on a hot griddle."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Poori",
+      "details": [
+        "Ingredients: whole wheat flour, water, oil.",
+        "Knead a firm dough, roll small discs and deep fry until puffed and golden."
+      ],
+      "type": "Fry",
+      "veg": true
+    },
+    {
+      "heading": "Paratha",
+      "details": [
+        "Ingredients: whole wheat flour, oil or ghee, water.",
+        "Knead flour and water, roll with a little fat, and cook on a griddle until browned."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Paratha",
+      "details": [
+        "Ingredients: whole wheat flour, potato, chilli, spices.",
+        "Stuff dough with spiced mashed potato; roll gently and cook with oil on a griddle."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Besan Chilla",
+      "details": [
+        "Ingredients: gram flour, onion, chilli, water.",
+        "Whisk flour with water, onion and chilli; spread on a hot pan and cook both sides."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Vegetable Upma",
+      "details": [
+        "Ingredients: semolina, onion, vegetables, mustard seeds.",
+        "Toast semolina.",
+        "Temper mustard, onion and vegetables; add water and stir in semolina until thick."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Poha",
+      "details": [
+        "Ingredients: flattened rice, onion, peanuts, turmeric.",
+        "Rinse poha.",
+        "Fry peanuts, onion and turmeric, then toss with poha until warmed through."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Vegetable Pakora",
+      "details": [
+        "Ingredients: gram flour, mixed vegetables, spices, oil.",
+        "Coat sliced vegetables in seasoned gram flour batter and fry until crisp."
+      ],
+      "type": "Fry",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Tikki",
+      "details": [
+        "Ingredients: potato, peas, cumin, chilli.",
+        "Mash cooked potatoes with peas and spices, form patties and shallow fry until crisp."
+      ],
+      "type": "Fry",
+      "veg": true
+    },
+    {
+      "heading": "Suji Halwa",
+      "details": [
+        "Ingredients: semolina, ghee, sugar, water.",
+        "Toast semolina in ghee, add hot sweetened water and stir until thick."
+      ],
+      "type": "Sweet",
+      "veg": true
+    },
+    {
+      "heading": "Sarson da Saag with Makki di Roti",
+      "details": [
+        "Key ingredients: mustard greens, spinach, maize flour, ginger, garlic, ghee",
+        "Cook mustard greens and spinach with ginger and garlic until soft.",
+        "Mash coarsely and simmer with a little maize flour to thicken.",
+        "Knead maize flour into a dough and pat into flatbreads, cooking on a hot griddle.",
+        "Serve the saag topped with a dollop of ghee alongside the makki roti."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Kachri ki Chutney",
+      "details": [
+        "Key ingredients: wild kachri melon, mustard seeds, red chili, salt",
+        "Roast or boil wild kachri melon until soft.",
+        "Grind with dried red chili, salt and a touch of cumin into a coarse chutney.",
+        "Temper mustard seeds and asafoetida in oil.",
+        "Pour the tempering over the chutney and mix well before serving."
+      ],
+      "veg": true,
+      "type": "Other"
+    }
+  ]
+}

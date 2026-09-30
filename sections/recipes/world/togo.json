@@ -1,0 +1,119 @@
+{
+  "label": "Togo",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Fufu with Groundnut Soup",
+      "details": [
+        "Key ingredients: cassava, plantain, peanut paste, meat",
+        "Boil cassava and plantain until soft.",
+        "Pound them together into a smooth, stretchy dough.",
+        "Simmer meat in a peanut sauce with tomato until tender.",
+        "Serve the pounded dough alongside the peanut soup."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Akoume with Fish Sauce",
+      "details": [
+        "Key ingredients: corn dough, tomato, fish, chili",
+        "Cook fermented corn dough with water, stirring into a smooth paste.",
+        "Continue cooking until it thickens and turns glossy.",
+        "Simmer fish in a spicy tomato sauce.",
+        "Serve the corn dough alongside the fish sauce."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Fufu",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Pâte",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Akpan",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Ablo",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Ayimolou",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Djenkoume",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Grilled Chicken",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Peanut Stew",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Bean Stew",
+      "details": [
+        "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
+        "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Fried Plantain",
+      "details": [
+        "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
+        "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
+      ],
+      "type": "Fry"
+    }
+  ]
+}

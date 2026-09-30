@@ -1,0 +1,95 @@
+{
+  "label": "Tech & Gadgets",
+  "icon": "tech",
+  "items": [
+    {
+      "heading": "Phone not charging",
+      "precautionsFirst": [
+        "Do not use a damaged cable or charger that shows fraying or exposed wires."
+      ],
+      "details": [
+        "Try a different cable and charging adapter to isolate the problem.",
+        "Gently clean the charging port with a dry, soft brush or a toothpick to remove lint and dust, with the phone off.",
+        "Check the cable for visible damage and replace it if frayed.",
+        "Restart the phone after connecting the charger, as software can sometimes misreport charging status.",
+        "If none of this works, the charging port itself may need professional repair."
+      ]
+    },
+    {
+      "heading": "Slow laptop or computer",
+      "precautionsFirst": [
+        "Save any open work before restarting or closing heavy programs."
+      ],
+      "details": [
+        "Restart the device, which clears temporary memory buildup.",
+        "Close unnecessary background programs and browser tabs.",
+        "Free up storage space by deleting unused files and clearing the downloads folder.",
+        "Check for pending software and operating system updates and install them.",
+        "Scan for malware using a trusted antivirus tool if the slowdown is sudden and unexplained."
+      ]
+    },
+    {
+      "heading": "Wi-Fi router troubleshooting",
+      "precautionsFirst": [
+        "Wait at least 30 seconds between switching the router off and on, to let it fully reset."
+      ],
+      "details": [
+        "Restart the router and modem by switching them off, waiting 30 seconds, and turning them back on.",
+        "Check all cables are firmly connected at both ends.",
+        "Move the router to a central, open location, away from thick walls and other electronics.",
+        "Check for firmware updates through the router's app or admin page.",
+        "Restart the connecting device if only that device is affected."
+      ]
+    },
+    {
+      "heading": "Printer not printing",
+      "precautionsFirst": [
+        "Do not force jammed paper out roughly - pull it gently in the direction of the paper path."
+      ],
+      "details": [
+        "Check the printer is powered on, connected, and set as the default printer on your device.",
+        "Check ink or toner levels and the paper tray for jams or an empty tray.",
+        "Clear any paper jam by gently pulling the paper in its natural feed direction after opening the access panel.",
+        "Run the printer's built-in cleaning or alignment utility from its settings menu if print quality is poor.",
+        "Restart both the printer and the connected device if it still fails."
+      ]
+    },
+    {
+      "heading": "Phone screen unresponsive or frozen",
+      "precautionsFirst": [
+        "Avoid pressing forcefully on a cracked screen, which can worsen the damage."
+      ],
+      "details": [
+        "Perform a force restart using the button combination specific to your phone model.",
+        "Remove the screen protector or case temporarily in case it is interfering with touch sensitivity.",
+        "Clean the screen gently with a dry microfiber cloth.",
+        "If the issue persists after a restart, back up your data and consult a technician, as it may be a hardware fault."
+      ]
+    },
+    {
+      "heading": "Bluetooth device not pairing",
+      "precautionsFirst": [
+        "Keep both devices within close range, under a meter apart, during initial pairing."
+      ],
+      "details": [
+        "Turn Bluetooth off and on again on both devices.",
+        "Make sure the accessory is in pairing or discoverable mode.",
+        "Remove, or forget, the device from Bluetooth settings and pair again from scratch.",
+        "Restart both devices if pairing still fails.",
+        "Check the accessory is charged, since low battery can prevent proper pairing."
+      ]
+    },
+    {
+      "heading": "Laptop overheating",
+      "precautionsFirst": [
+        "Always let a laptop cool and power it off before opening any vents to clean, and never use it on a soft surface like a bed that blocks the vents."
+      ],
+      "details": [
+        "Use a can of compressed air to clean dust out of the vents and fan area, with the laptop off and unplugged.",
+        "Use the laptop on a hard, flat surface that allows air to flow underneath, or use a cooling pad.",
+        "Close unnecessary heavy applications running in the background.",
+        "Check the fan is spinning audibly under load - if silent, it might need professional servicing."
+      ]
+    }
+  ]
+}

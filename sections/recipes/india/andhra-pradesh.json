@@ -1,0 +1,603 @@
+{
+  "label": "Andhra Pradesh",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Pulihora",
+      "details": [
+        "Key ingredients: cooked rice, tamarind, peanuts, mustard seeds, curry leaves, turmeric",
+        "Cook rice so the grains stay separate, then spread out to cool.",
+        "Simmer tamarind extract with turmeric and a little jaggery into a thick paste.",
+        "Temper mustard seeds, peanuts, curry leaves and dried red chili in oil.",
+        "Mix the tamarind paste and tempering through the rice until evenly coated."
+      ],
+      "veg": true,
+      "type": "Rice"
+    },
+    {
+      "heading": "Gongura Pachadi",
+      "details": [
+        "Key ingredients: sorrel leaves, dried red chilies, garlic, tamarind",
+        "Saute sorrel leaves until they wilt and turn tangy-soft.",
+        "Dry roast chilies and grind with garlic into a coarse paste.",
+        "Mix the cooked leaves with the ground paste.",
+        "Temper with mustard seeds and serve as a tangy side."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Andhra Chicken Curry",
+      "details": [
+        "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
+        "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
+      ],
+      "type": "Curry",
+      "veg": false
+    },
+    {
+      "heading": "Gutti Vankaya",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Pesarattu",
+      "details": [
+        "Key ingredients: whole green gram, ginger, green chili, cumin",
+        "Soak whole green gram and blend into a smooth batter with ginger and chili.",
+        "Spread the batter thinly on a hot griddle like a dosa.",
+        "Cook until golden and crisp at the edges.",
+        "Serve with ginger chutney or upma stuffed inside."
+      ],
+      "veg": true,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Garelu",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Pootharekulu",
+      "details": [
+        "Key ingredients: rice starch sheets, powdered sugar, ghee, cardamom",
+        "Prepare thin, translucent rice starch sheets by spreading batter on a hot inverted pot.",
+        "Peel off each delicate sheet carefully once dry.",
+        "Layer a sheet with melted ghee and a generous dusting of powdered sugar and cardamom.",
+        "Fold over into a neat rectangle, repeating with a second sheet for structure."
+      ],
+      "veg": true,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Bobbatlu",
+      "details": [
+        "Key ingredients: chana dal, jaggery, maida or wheat flour, cardamom, ghee",
+        "Cook chana dal until soft, then mash with jaggery and cardamom into a sweet filling.",
+        "Stuff the filling inside a soft dough ball and roll out gently into a flatbread.",
+        "Cook on a hot griddle with ghee until golden spots appear on both sides.",
+        "Serve warm with a dollop of ghee, similar to puran poli."
+      ],
+      "veg": true,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Royyala Iguru",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Kodi Pulao",
+      "details": [
+        "Ingredients: rice, oil/ghee, onion, whole spices, ginger-garlic, vegetables or meat, salt and stock/water.",
+        "Rinse and partly cook the rice.",
+        "Brown onion and spices, cook the vegetables/meat with seasoning, layer with rice and steam covered on low heat until tender."
+      ],
+      "type": "Rice",
+      "veg": false
+    },
+    {
+      "heading": "Vegetable Pulao",
+      "details": [
+        "Ingredients: rice, mixed vegetables, onion, whole spices.",
+        "Rinse rice.",
+        "Fry onion and spices, add vegetables and rice, then simmer with water until fluffy."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Jeera Rice",
+      "details": [
+        "Ingredients: rice, cumin, ghee, salt.",
+        "Rinse rice.",
+        "Bloom cumin in ghee, add rice and water, then simmer until tender."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Plain Dal",
+      "details": [
+        "Ingredients: lentils, turmeric, cumin, garlic.",
+        "Boil lentils with turmeric until soft.",
+        "Fry cumin and garlic and stir into the dal."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Dal Tadka",
+      "details": [
+        "Ingredients: lentils, onion, tomato, cumin, garlic.",
+        "Cook lentils until soft.",
+        "Fry onion, tomato, cumin and garlic; combine and simmer briefly."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Gobi",
+      "details": [
+        "Ingredients: potato, cauliflower, tomato, turmeric, cumin.",
+        "Fry cumin, add potato and cauliflower with spices, cover and cook until tender."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Matar",
+      "details": [
+        "Ingredients: potato, peas, tomato, onion, ginger.",
+        "Cook onion, ginger and tomato with spices.",
+        "Add potato, peas and water; simmer until soft."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Palak Paneer",
+      "details": [
+        "Ingredients: spinach, paneer, onion, garlic, spices.",
+        "Blanch and puree spinach.",
+        "Cook onion and garlic with spices, add spinach and paneer; simmer."
+      ],
+      "type": "Curry",
+      "veg": true
+    },
+    {
+      "heading": "Paneer Bhurji",
+      "details": [
+        "Ingredients: paneer, onion, tomato, green chilli.",
+        "Saute onion and tomato with chilli and spices; crumble in paneer and cook briefly."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Vegetable Khichdi",
+      "details": [
+        "Ingredients: rice, moong dal, vegetables, turmeric.",
+        "Wash rice and dal.",
+        "Add vegetables, turmeric and water; cook until soft."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Curd Rice",
+      "details": [
+        "Ingredients: rice, curd, mustard seeds, curry leaves.",
+        "Cool cooked rice and mix with curd.",
+        "Temper mustard and curry leaves in oil and stir in."
+      ],
+      "type": "Rice",
+      "veg": true
+    },
+    {
+      "heading": "Chapati",
+      "details": [
+        "Ingredients: whole wheat flour, water, salt.",
+        "Knead flour with water, rest, roll thin and cook both sides on a hot griddle."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Poori",
+      "details": [
+        "Ingredients: whole wheat flour, water, oil.",
+        "Knead a firm dough, roll small discs and deep fry until puffed and golden."
+      ],
+      "type": "Fry",
+      "veg": true
+    },
+    {
+      "heading": "Paratha",
+      "details": [
+        "Ingredients: whole wheat flour, oil or ghee, water.",
+        "Knead flour and water, roll with a little fat, and cook on a griddle until browned."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Paratha",
+      "details": [
+        "Ingredients: whole wheat flour, potato, chilli, spices.",
+        "Stuff dough with spiced mashed potato; roll gently and cook with oil on a griddle."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Besan Chilla",
+      "details": [
+        "Ingredients: gram flour, onion, chilli, water.",
+        "Whisk flour with water, onion and chilli; spread on a hot pan and cook both sides."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Vegetable Upma",
+      "details": [
+        "Ingredients: semolina, onion, vegetables, mustard seeds.",
+        "Toast semolina.",
+        "Temper mustard, onion and vegetables; add water and stir in semolina until thick."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Poha",
+      "details": [
+        "Ingredients: flattened rice, onion, peanuts, turmeric.",
+        "Rinse poha.",
+        "Fry peanuts, onion and turmeric, then toss with poha until warmed through."
+      ],
+      "type": "Tiffin/Snack",
+      "veg": true
+    },
+    {
+      "heading": "Vegetable Pakora",
+      "details": [
+        "Ingredients: gram flour, mixed vegetables, spices, oil.",
+        "Coat sliced vegetables in seasoned gram flour batter and fry until crisp."
+      ],
+      "type": "Fry",
+      "veg": true
+    },
+    {
+      "heading": "Aloo Tikki",
+      "details": [
+        "Ingredients: potato, peas, cumin, chilli.",
+        "Mash cooked potatoes with peas and spices, form patties and shallow fry until crisp."
+      ],
+      "type": "Fry",
+      "veg": true
+    },
+    {
+      "heading": "Suji Halwa",
+      "details": [
+        "Ingredients: semolina, ghee, sugar, water.",
+        "Toast semolina in ghee, add hot sweetened water and stir until thick."
+      ],
+      "type": "Sweet",
+      "veg": true
+    },
+    {
+      "heading": "Tomato Pappu",
+      "details": [
+        "Key ingredients: toor dal, tomato, garlic, turmeric, green chili, mustard seeds",
+        "Pressure-cook toor dal with turmeric until soft and mushy.",
+        "Saute garlic and green chili, then add chopped tomato and cook until pulpy.",
+        "Mix the mashed dal into the tomato base and simmer until well combined.",
+        "Finish with a mustard seed and cumin tempering in ghee."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Palakura Pappu",
+      "details": [
+        "Key ingredients: toor dal, spinach, garlic, green chili, cumin",
+        "Pressure-cook toor dal with chopped spinach and turmeric until soft.",
+        "Mash the dal and greens together to a coarse consistency.",
+        "Saute garlic and cumin in ghee until fragrant.",
+        "Pour the tempering over the dal and simmer briefly before serving."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Gongura Pappu",
+      "details": [
+        "Key ingredients: toor dal, gongura (sorrel) leaves, garlic, dried red chili",
+        "Pressure-cook toor dal with roughly chopped gongura leaves until soft.",
+        "Mash together so the tangy leaves blend through the dal.",
+        "Temper garlic, dried red chili and cumin seeds in oil.",
+        "Pour the tempering over the dal and simmer for a few minutes."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Dosakaya Pappu",
+      "details": [
+        "Key ingredients: toor dal, dosakaya (yellow cucumber), turmeric, mustard seeds",
+        "Pressure-cook toor dal with diced dosakaya and turmeric until tender.",
+        "Lightly mash, keeping some texture from the cucumber.",
+        "Temper mustard seeds, cumin, dried red chili and curry leaves in oil.",
+        "Pour the tempering over the dal and simmer briefly before serving."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Chepala Pulusu",
+      "details": [
+        "Key ingredients: fish, tamarind, onion, dried red chili, fenugreek seeds",
+        "Saute onion and dried red chili in oil until softened.",
+        "Add tamarind extract and a little jaggery for a sweet-sour balance.",
+        "Bring the tangy gravy to a simmer and slide in fish pieces.",
+        "Cook gently without stirring too much, until the fish is done and the gravy thickens."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Royyala Vepudu",
+      "details": [
+        "Key ingredients: prawns, turmeric, red chili powder, curry leaves, onion",
+        "Marinate cleaned prawns briefly with turmeric and chili powder.",
+        "Saute onion and curry leaves in oil until golden.",
+        "Add the prawns and cook on high heat, tossing often.",
+        "Fry until the prawns are dry-roasted and lightly charred at the edges."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "Egg Bhurji",
+      "details": [
+        "Key ingredients: eggs, onion, tomato, green chili, turmeric",
+        "Saute chopped onion and green chili until softened.",
+        "Add tomato and turmeric, cooking until it breaks down slightly.",
+        "Crack in eggs and scramble everything together over medium heat.",
+        "Cook until just set and serve hot with bread or roti."
+      ],
+      "veg": false,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Andhra Aloo Fry",
+      "details": [
+        "Key ingredients: potatoes, mustard seeds, curry leaves, red chili powder, turmeric",
+        "Boil or par-cook diced potatoes until just tender.",
+        "Temper mustard seeds, curry leaves and dried red chili in oil.",
+        "Add the potatoes along with turmeric and chili powder.",
+        "Fry on medium-high heat, tossing often, until crisp and golden at the edges."
+      ],
+      "veg": true,
+      "type": "Fry"
+    },
+    {
+      "heading": "Bendakaya Vepudu",
+      "details": [
+        "Key ingredients: okra, onion, red chili powder, tamarind, mustard seeds",
+        "Slice okra and pat dry thoroughly to reduce stickiness.",
+        "Temper mustard seeds and add sliced onion, cooking until soft.",
+        "Add the okra with red chili powder and a touch of tamarind.",
+        "Fry uncovered on medium heat, stirring occasionally, until crisp."
+      ],
+      "veg": true,
+      "type": "Fry"
+    },
+    {
+      "heading": "Vankaya Fry",
+      "details": [
+        "Key ingredients: brinjal (eggplant), red chili powder, turmeric, mustard seeds, peanuts",
+        "Cut brinjal into batons and soak briefly in water to prevent browning.",
+        "Temper mustard seeds and crushed peanuts in oil.",
+        "Add the brinjal with turmeric and red chili powder.",
+        "Fry on medium heat until the brinjal is tender and lightly crisp at the edges."
+      ],
+      "veg": true,
+      "type": "Fry"
+    },
+    {
+      "heading": "Gutti Vankaya Kura",
+      "details": [
+        "Key ingredients: small brinjals, peanuts, sesame seeds, coconut, tamarind",
+        "Dry roast peanuts, sesame seeds and coconut, then grind into a coarse masala paste.",
+        "Slit small brinjals into quarters and stuff generously with the ground masala.",
+        "Shallow fry the stuffed brinjals briefly in oil until lightly seared.",
+        "Simmer with a little tamarind water and remaining masala until the brinjals are soft."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Mamsam Kura",
+      "details": [
+        "Key ingredients: mutton, onion, tomato, red chili powder, garam masala, curry leaves",
+        "Marinate mutton pieces with turmeric and a little yogurt for at least an hour.",
+        "Saute onion until deep golden, then add ginger-garlic paste and cook through.",
+        "Add tomato, chili powder and garam masala, cooking until the oil separates.",
+        "Add the mutton and pressure-cook or simmer slowly until fully tender."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Natu Kodi Pulusu",
+      "details": [
+        "Key ingredients: country chicken, tamarind, onion, roasted peanuts, red chili",
+        "Saute onion and dried red chili in oil until softened and fragrant.",
+        "Add a coarse paste of roasted peanuts and grated coconut, cooking briefly.",
+        "Add country chicken pieces and cook on low heat, letting them release flavor slowly.",
+        "Stir in tamarind extract and simmer gently until the chicken is tender and the gravy is thick."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Chepa Vepudu",
+      "details": [
+        "Key ingredients: fish fillets, turmeric, red chili powder, semolina or rice flour",
+        "Marinate fish fillets with turmeric, red chili powder and a little lemon juice.",
+        "Coat lightly in semolina or rice flour for a crisp crust.",
+        "Shallow fry in hot oil over medium heat until golden on one side.",
+        "Flip carefully and fry the other side until crisp and cooked through."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "Cauliflower Vepudu",
+      "details": [
+        "Key ingredients: cauliflower florets, mustard seeds, curry leaves, red chili powder, turmeric",
+        "Blanch cauliflower florets briefly in hot water and drain well.",
+        "Temper mustard seeds, curry leaves and dried red chili in oil.",
+        "Add the florets along with turmeric and red chili powder.",
+        "Fry on medium-high heat, tossing often, until crisp and golden at the edges."
+      ],
+      "veg": true,
+      "type": "Fry"
+    },
+    {
+      "heading": "Chicken 65",
+      "details": [
+        "Key ingredients: boneless chicken, red chili powder, curd, curry leaves, garlic",
+        "Marinate boneless chicken pieces in curd, red chili powder, garlic and ginger paste.",
+        "Coat lightly in cornflour and deep fry until golden and crisp.",
+        "Temper garlic, green chili and curry leaves in a little oil in a separate pan.",
+        "Toss the fried chicken through the tempering until well coated and serve hot."
+      ],
+      "veg": false,
+      "type": "Fry"
+    },
+    {
+      "heading": "Gongura Rice",
+      "details": [
+        "Key ingredients: cooked rice, gongura (sorrel) leaves, dried red chili, garlic",
+        "Saute gongura leaves until wilted and reduced, then cool slightly.",
+        "Grind with dried red chilies and garlic into a coarse, tangy paste.",
+        "Temper mustard seeds and curry leaves in oil, then add the gongura paste.",
+        "Mix thoroughly through cooked rice until evenly distributed."
+      ],
+      "veg": true,
+      "type": "Rice"
+    },
+    {
+      "heading": "Perugu Annam",
+      "details": [
+        "Key ingredients: cooked rice, yogurt, milk, mustard seeds, curry leaves, pomegranate",
+        "Mash cooked rice lightly while still warm, then let it cool.",
+        "Stir in yogurt and a splash of milk until smooth and creamy.",
+        "Temper mustard seeds, curry leaves, ginger and green chili in oil.",
+        "Pour the tempering over the curd rice and garnish with pomegranate before serving chilled."
+      ],
+      "veg": true,
+      "type": "Rice"
+    },
+    {
+      "heading": "Ariselu",
+      "details": [
+        "Key ingredients: rice flour, jaggery, sesame seeds, ghee",
+        "Soak rice and sun-dry before grinding into a fine flour.",
+        "Melt jaggery with a little water into a thick syrup and mix into the rice flour to form a soft dough.",
+        "Shape into small flattened discs and press sesame seeds onto both sides.",
+        "Deep fry on low heat until golden brown and glossy."
+      ],
+      "veg": true,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Sunnundalu",
+      "details": [
+        "Key ingredients: urad dal, jaggery or sugar, ghee, cardamom",
+        "Dry roast urad dal until fragrant and lightly golden, then cool completely.",
+        "Grind into a fine powder along with cardamom.",
+        "Mix in powdered jaggery or sugar and warm ghee until the mixture holds together.",
+        "Shape into small round balls while still slightly warm."
+      ],
+      "veg": true,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Upma",
+      "details": [
+        "Key ingredients: semolina (rava), onion, green chili, mustard seeds, curry leaves",
+        "Dry roast semolina until lightly fragrant and set aside.",
+        "Temper mustard seeds, curry leaves, onion and green chili in oil until softened.",
+        "Add water and bring to a boil, then lower the heat.",
+        "Slowly stir in the roasted semolina, whisking to avoid lumps, until it thickens and cooks through."
+      ],
+      "veg": true,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Punugulu",
+      "details": [
+        "Key ingredients: leftover idli or dosa batter, onion, green chili, curry leaves",
+        "Mix leftover fermented batter with chopped onion, green chili and curry leaves.",
+        "Adjust consistency with a little rice flour if the batter is too thin.",
+        "Drop spoonfuls into hot oil and deep fry until golden and puffed.",
+        "Drain well and serve hot with coconut or ginger chutney."
+      ],
+      "veg": true,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Mirchi Bajji",
+      "details": [
+        "Key ingredients: large green chilies, gram flour (besan), rice flour, ajwain",
+        "Slit large mild green chilies and remove the seeds if a milder bajji is preferred.",
+        "Whisk gram flour, rice flour, ajwain and a little water into a thick batter.",
+        "Dip each chili into the batter, coating evenly.",
+        "Deep fry until the coating is crisp and golden, then drain and serve hot."
+      ],
+      "veg": true,
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Avakaya",
+      "details": [
+        "Key ingredients: raw mango, red chili powder, mustard powder, fenugreek, sesame oil",
+        "Cut raw mango into pieces with the seed intact and pat completely dry.",
+        "Mix red chili powder, mustard powder, fenugreek and salt into a coarse masala.",
+        "Toss the mango pieces thoroughly with the masala until well coated.",
+        "Pour sesame oil over the mixture to cover, then let it mature in a jar for several days before serving."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Perugu Pachadi",
+      "details": [
+        "Key ingredients: yogurt, cucumber or onion, green chili, mustard seeds, curry leaves",
+        "Whisk yogurt until smooth and season lightly with salt.",
+        "Fold in finely chopped cucumber or onion and green chili.",
+        "Temper mustard seeds and curry leaves in a little oil.",
+        "Pour the tempering over the yogurt mixture and stir gently before serving chilled."
+      ],
+      "veg": true,
+      "type": "Other"
+    }
+  ]
+}

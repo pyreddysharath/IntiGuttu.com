@@ -1,0 +1,106 @@
+{
+  "label": "France",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Coq au Vin",
+      "details": [
+        "Key ingredients: chicken, red wine, bacon lardons, mushrooms, pearl onions, garlic",
+        "Brown chicken pieces and bacon lardons in a heavy pot.",
+        "Add pearl onions, mushrooms and garlic, then pour in red wine to cover.",
+        "Simmer gently for about an hour until the chicken is tender.",
+        "Reduce the sauce until glossy and serve with crusty bread or potatoes."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Ratatouille",
+      "details": [
+        "Key ingredients: eggplant, zucchini, bell peppers, tomatoes, onion, garlic, herbes de Provence",
+        "Saute onion and garlic, then add chopped peppers and eggplant.",
+        "Add zucchini and tomatoes, seasoning with herbes de Provence.",
+        "Simmer uncovered until the vegetables soften and flavors meld.",
+        "Serve warm or at room temperature as a side or light main."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Creme Brulee",
+      "details": [
+        "Key ingredients: egg yolks, cream, sugar, vanilla",
+        "Warm cream with vanilla, then slowly whisk into egg yolks and sugar.",
+        "Pour into ramekins and bake in a water bath until just set.",
+        "Chill completely, then sprinkle sugar on top.",
+        "Caramelize the sugar with a torch or under a broiler just before serving."
+      ],
+      "veg": false,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Beef Bourguignon",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Bouillabaisse",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Quiche Lorraine",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Crêpes",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Cassoulet",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Escargots",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Croissants",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

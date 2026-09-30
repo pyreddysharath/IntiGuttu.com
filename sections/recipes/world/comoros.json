@@ -1,0 +1,101 @@
+{
+  "label": "Comoros",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Langouste a la Vanille",
+      "details": [
+        "Key ingredients: lobster, vanilla, coconut milk, tomato",
+        "Saute lobster pieces briefly until they turn pink.",
+        "Simmer coconut milk with tomato and a split vanilla pod.",
+        "Return the lobster to the fragrant sauce.",
+        "Cook gently until the sauce thickens and serve with rice."
+      ],
+      "veg": true,
+      "type": "Other"
+    },
+    {
+      "heading": "Pilao",
+      "details": [
+        "Key ingredients: rice, meat, cloves, cinnamon, onion",
+        "Brown meat with onion and whole spices until fragrant.",
+        "Add rice and stir to coat in the spiced fat.",
+        "Pour in stock and bring to a boil.",
+        "Cover and simmer until the rice is tender and fluffy."
+      ],
+      "veg": false,
+      "type": "Rice"
+    },
+    {
+      "heading": "Mataba",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mkatra Foutra",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Poutou",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Coconut Fish Curry",
+      "details": [
+        "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
+        "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
+      ],
+      "type": "Curry",
+      "veg": false
+    },
+    {
+      "heading": "Cassava Fritters",
+      "details": [
+        "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
+        "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
+      ],
+      "type": "Fry"
+    },
+    {
+      "heading": "Banana Fritters",
+      "details": [
+        "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
+        "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
+      ],
+      "type": "Fry"
+    },
+    {
+      "heading": "Grilled Octopus",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Coconut Rice",
+      "details": [
+        "Ingredients: rice, vegetables or protein, onion/garlic, oil, seasoning and water/stock.",
+        "Cook the rice by absorption or steaming.",
+        "Sauté the other ingredients separately, combine and season to taste."
+      ],
+      "type": "Rice"
+    }
+  ]
+}

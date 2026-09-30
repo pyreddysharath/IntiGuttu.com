@@ -1,0 +1,123 @@
+{
+  "label": "Morocco",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Chicken Tagine",
+      "details": [
+        "Key ingredients: chicken, preserved lemon, olives, ginger, saffron, onion",
+        "Brown chicken pieces with onion, ginger and saffron in a tagine or heavy pot.",
+        "Add a little water or stock and simmer gently, covered, until tender.",
+        "Stir in preserved lemon and olives near the end of cooking.",
+        "Serve with couscous or crusty bread."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Couscous",
+      "details": [
+        "Key ingredients: couscous, mixed vegetables, chickpeas, lamb or chicken, ras el hanout",
+        "Steam couscous over a pot of simmering stew until light and fluffy.",
+        "Simmer meat, vegetables and chickpeas with ras el hanout until tender.",
+        "Fluff the couscous with a little butter or oil.",
+        "Mound the couscous on a platter and top with the stew."
+      ],
+      "veg": false,
+      "type": "Rice"
+    },
+    {
+      "heading": "Harira Soup",
+      "details": [
+        "Key ingredients: lentils, chickpeas, tomato, celery, lamb, fresh herbs",
+        "Brown small pieces of lamb with onion and celery.",
+        "Add tomato, lentils, chickpeas and water, then simmer until tender.",
+        "Stir in fresh cilantro and parsley near the end.",
+        "Serve hot with a squeeze of lemon, traditionally to break the Ramadan fast."
+      ],
+      "veg": false,
+      "type": "Curry"
+    },
+    {
+      "heading": "Tagine",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Pastilla",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Harira",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Curry"
+    },
+    {
+      "heading": "Rfissa",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Tanjia",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Briouat",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Zaalouk",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Msemen",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Chebakia",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}

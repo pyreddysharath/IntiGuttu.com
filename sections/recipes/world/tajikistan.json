@@ -1,0 +1,110 @@
+{
+  "label": "Tajikistan",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Osh Plov Tajik",
+      "details": [
+        "Key ingredients: rice, lamb, carrot, chickpeas",
+        "Brown lamb with onion until golden.",
+        "Add julienned carrot and cook until softened.",
+        "Layer rice and soaked chickpeas over the meat and carrots.",
+        "Add water and simmer covered until the rice is tender."
+      ],
+      "veg": false,
+      "type": "Rice"
+    },
+    {
+      "heading": "Qurutob",
+      "details": [
+        "Key ingredients: flatbread, dried yogurt sauce, tomato, onion",
+        "Tear crisp flatbread into small pieces in a large bowl.",
+        "Whisk dried yogurt (qurut) with water into a tangy sauce.",
+        "Pour the sauce over the bread pieces and toss to soften slightly.",
+        "Top with sliced tomato and onion before serving."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Plov",
+      "details": [
+        "Ingredients: rice, oil/ghee, onion, whole spices, ginger-garlic, vegetables or meat, salt and stock/water.",
+        "Rinse and partly cook the rice.",
+        "Brown onion and spices, cook the vegetables/meat with seasoning, layer with rice and steam covered on low heat until tender."
+      ],
+      "type": "Rice"
+    },
+    {
+      "heading": "Oshi Palov",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mantu",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Sambusa",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Lagman",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Shurbo",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Non",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Oshi Burida",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Halwa",
+      "details": [
+        "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
+        "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
+      ],
+      "type": "Sweet"
+    }
+  ]
+}

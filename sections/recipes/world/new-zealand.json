@@ -1,0 +1,111 @@
+{
+  "label": "New Zealand",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Hangi",
+      "details": [
+        "Key ingredients: pork or lamb, vegetables, hot stones",
+        "Layer meat and vegetables in baskets over heated stones in an earth pit.",
+        "Cover everything with wet cloth and soil to trap the steam.",
+        "Cook slowly underground for several hours.",
+        "Uncover and serve the smoky, tender meat and vegetables."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Pavlova Kiwi Style",
+      "details": [
+        "Key ingredients: egg whites, sugar, kiwifruit, whipped cream",
+        "Whisk egg whites with sugar to stiff, glossy peaks.",
+        "Shape and bake low and slow until crisp outside and soft inside.",
+        "Top the cooled meringue with whipped cream.",
+        "Finish with sliced kiwifruit and other fresh fruit."
+      ],
+      "veg": false,
+      "type": "Sweet"
+    },
+    {
+      "heading": "Pavlova",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Sweet"
+    },
+    {
+      "heading": "Meat Pie",
+      "details": [
+        "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
+        "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
+      ],
+      "type": "Sweet",
+      "veg": false
+    },
+    {
+      "heading": "Whitebait Fritters",
+      "details": [
+        "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
+        "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
+      ],
+      "type": "Fry"
+    },
+    {
+      "heading": "Lamb Roast",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other",
+      "veg": false
+    },
+    {
+      "heading": "Fish and Chips",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Fry",
+      "veg": false
+    },
+    {
+      "heading": "Pikelets",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Anzac Biscuits",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Hokey Pokey",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Rewena Bread",
+      "details": [
+        "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
+        "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
+      ],
+      "type": "Tiffin/Snack"
+    }
+  ]
+}

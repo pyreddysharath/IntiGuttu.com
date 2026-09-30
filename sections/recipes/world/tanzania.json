@@ -1,0 +1,117 @@
+{
+  "label": "Tanzania",
+  "icon": "cook",
+  "items": [
+    {
+      "heading": "Ugali with Nyama Choma",
+      "details": [
+        "Key ingredients: corn flour, water, goat or beef, salt",
+        "Whisk corn flour into boiling water, stirring until stiff and smooth (ugali).",
+        "Season meat simply with salt.",
+        "Grill the meat over charcoal until charred and tender.",
+        "Serve the ugali alongside the grilled meat and a tomato relish."
+      ],
+      "veg": false,
+      "type": "Other"
+    },
+    {
+      "heading": "Zanzibar Mix (Urojo)",
+      "details": [
+        "Key ingredients: cassava, potato, mango sauce, bhajia",
+        "Boil cassava and potato until tender.",
+        "Prepare a tangy mango and turmeric sauce.",
+        "Fry crisp potato bhajia fritters.",
+        "Combine everything in a bowl with the tangy sauce poured over."
+      ],
+      "veg": true,
+      "type": "Curry"
+    },
+    {
+      "heading": "Ugali",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Pilau",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Rice"
+    },
+    {
+      "heading": "Chipsi Mayai",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Fry"
+    },
+    {
+      "heading": "Nyama Choma",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Zanzibar Pizza",
+      "details": [
+        "Ingredients: flour, yeast, water, salt, olive oil, tomato sauce, cheese and toppings.",
+        "Make a yeast dough, rest until doubled, stretch thin, add sauce and toppings, then bake in a very hot oven until browned."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Wali wa Nazi",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Mchicha",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    },
+    {
+      "heading": "Chapati",
+      "details": [
+        "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
+        "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Samaki wa Kupaka",
+      "details": [
+        "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
+        "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
+      ],
+      "type": "Tiffin/Snack"
+    },
+    {
+      "heading": "Mandazi",
+      "details": [
+        "Ingredients: main ingredient, onion/garlic or other aromatics, oil or fat, salt, spices/herbs and water/stock as needed.",
+        "Prepare and cut the main ingredients.",
+        "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
+      ],
+      "type": "Other"
+    }
+  ]
+}
