@@ -1,4 +1,4 @@
-/* Inti Guttu — final shared styles and section palette. */
+/* Inti Guttu - final shared styles and section palette. */
 :root:root {
   --paper: #FAF8F3;
   --paper-2: #F4F1E9;
@@ -1510,11 +1510,17 @@
 }
 
 :root .tabs {
-  grid-template-columns: repeat(2,minmax(0,1fr));
+  display: flex;
+  grid-template-columns: none;
+  flex-wrap: nowrap;
   gap: 8px;
+  overflow-x: auto;
+  overflow-y: visible;
 }
 
 :root .tabs button {
+  flex: 0 0 auto;
+  min-width: 132px;
   font-size: 13px;
   min-height: 48px;
 }
