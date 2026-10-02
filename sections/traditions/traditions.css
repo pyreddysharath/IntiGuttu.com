@@ -2,9 +2,6 @@
    overrides, and the per-item relevance icon shown in card titles. */
 
 :root{
-    --tradition:#D9B23C;
-    --tradition-deep:#8A6A10;
-    --tradition-soft:#FBF0D2;
     --tradition-alt:color-mix(in srgb, var(--tradition) 52%, white);
   }
 
