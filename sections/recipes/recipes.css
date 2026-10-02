@@ -2,9 +2,6 @@
    and the veg/non-veg + dish-type filter controls. */
 
 :root{
-    --recipe:#6FA05A;
-    --recipe-deep:#35592A;
-    --recipe-soft:#E3EFDD;
     --recipe-alt:color-mix(in srgb, var(--recipe) 52%, white);
   }
 
