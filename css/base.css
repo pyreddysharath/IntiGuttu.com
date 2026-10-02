@@ -23,8 +23,8 @@
   --shadow: rgba(41,45,41,.07);
   --focus: #246B73;
   --font-display: 'Fraunces','Noto Serif Telugu',Georgia,serif;
-  --font-body: system-ui,-apple-system,'Segoe UI','Noto Sans Telugu',sans-serif;
-  --font-mono: system-ui,-apple-system,'Segoe UI','Noto Sans Telugu',sans-serif;
+  --font-body: 'Newsreader','Noto Sans Telugu',Georgia,serif;
+  --font-mono: 'IBM Plex Mono','Noto Sans Telugu',monospace;
   --brown: #246B73;
   --brown-deep: #246B73;
   --brown-soft: #EAF4F5;
