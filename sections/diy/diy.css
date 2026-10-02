@@ -2,9 +2,6 @@
    and the "Precautions first" callout box. */
 
 :root{
-    --brown:#C9A06B;
-    --brown-deep:#7A5423;
-    --brown-soft:#F5E9D6;
     --brown-alt:color-mix(in srgb, var(--brown) 52%, white);
   }
 
