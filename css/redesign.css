@@ -4,7 +4,7 @@
  --ink:#292D29;--ink-soft:#62685F;--green-light:#356B48;--green-dark:#356B48;
  --green-dark-2:#284D38;--green-light-hover:#284D38;--green-light-soft:#EDF5EE;--green-dark-soft:#EDF5EE;
  --brown:#246B73;--brown-deep:#246B73;--brown-soft:#EAF4F5;
- --recipe:#A9482D;--recipe-deep:#A9482D;--recipe-soft:#FCF0E9;
+ --recipe:#89670B;--recipe-deep:#89670B;--recipe-soft:#FBF3D6;
  --tradition:#75466F;--tradition-deep:#75466F;--tradition-soft:#F5EDF4;
  --shadow:rgba(41,45,41,.07);--focus:#246B73;
  --font-body:system-ui,-apple-system,'Segoe UI','Noto Sans Telugu',sans-serif;
@@ -13,12 +13,12 @@
 body{font-size:15px;line-height:1.65;}
 header.top{background:#FAF8F3;border-bottom:1px solid var(--paper-line);padding-block:28px 22px;}
 header.top .wrap{gap:14px;}
-#mastheadTitle,.masthead-logo,.brand-te,.brand-te .te-w1,.brand-te .te-w2,.brand-en,.brand-en .en-w1,.brand-en .en-w2{color:#284D38!important;}
+#mastheadTitle,.masthead-logo,.brand-te,.brand-te .te-w1,.brand-te .te-w2,.brand-en,.brand-en .en-w1,.brand-en .en-w2{color:var(--tab-tone,var(--green-dark))!important;}
 .brand-en{opacity:.82;}
 .tabs{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));max-width:none;gap:10px;overflow:visible;padding:0;}
 .tabs button{--tone:#356B48;--soft:#EDF5EE;background:var(--soft)!important;color:var(--tone);opacity:1;font-size:14px;letter-spacing:0;text-transform:none;min-width:0;min-height:50px;padding:12px;border:1px solid color-mix(in srgb,var(--tone) 18%,white);border-radius:13px;transition:background .15s,box-shadow .15s;}
 .tabs button[data-tab="diy"]{--tone:#246B73;--soft:#EAF4F5;}
-.tabs button[data-tab="recipes"]{--tone:#A9482D;--soft:#FCF0E9;}
+.tabs button[data-tab="recipes"]{--tone:#89670B;--soft:#FBF3D6;}
 .tabs button[data-tab="traditions"]{--tone:#75466F;--soft:#F5EDF4;}
 .tabs button.active{background:var(--tone)!important;color:white;border-color:var(--tone)!important;box-shadow:0 3px 9px var(--shadow)!important;}
 .tabs button:hover:not(.active){box-shadow:inset 0 0 0 1px var(--tone);}
@@ -28,7 +28,7 @@ header.top .wrap{gap:14px;}
 .resultcount{font-size:12px;letter-spacing:0;}
 main{--section-tone:#356B48;--section-soft:#EDF5EE;padding-block:24px 48px;}
 main[data-tab-theme="diy"]{--section-tone:#246B73;--section-soft:#EAF4F5;}
-main[data-tab-theme="recipes"]{--section-tone:#A9482D;--section-soft:#FCF0E9;}
+main[data-tab-theme="recipes"]{--section-tone:#89670B;--section-soft:#FBF3D6;}
 main[data-tab-theme="traditions"]{--section-tone:#75466F;--section-soft:#F5EDF4;}
 details.category{border:0;margin-bottom:20px;}
 .cathead,.cathead.subcat-head{background:var(--section-soft);border:1px solid color-mix(in srgb,var(--section-tone) 14%,white)!important;border-radius:14px;padding:14px 16px;gap:10px;}
@@ -50,3 +50,9 @@ footer{border-top:1px solid var(--paper-line);font-style:normal;}.footer-icon{ba
 button:focus-visible,summary:focus-visible,a:focus-visible{outline:3px solid var(--focus);outline-offset:3px;}
 @media(max-width:600px){.wrap{padding-inline:16px;}.tabs{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;}.tabs button{font-size:13px;min-height:48px;}.cathead{padding:12px;}.cathead h2{font-size:15px;}.cathead .count{font-size:11px;}.grid{grid-template-columns:1fr;}details.card summary{padding:14px 12px;}.resultcount:empty{display:none;}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{transition:none!important;scroll-behavior:auto!important;}}
+
+/* Shared brand and contribution controls follow the active section. */
+.contribute-title,.contribute-note{color:var(--tab-tone,var(--green-dark));}
+.contribute-title::before{border-color:var(--tab-tone,var(--green-dark));}
+.contribute-btn{background:var(--tab-tone,var(--green-dark));color:#FFFFFF;}
+.contribute-btn:hover{background:color-mix(in srgb,var(--tab-tone,var(--green-dark)) 85%,black);}
