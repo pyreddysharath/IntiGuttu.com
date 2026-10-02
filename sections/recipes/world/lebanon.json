@@ -12,7 +12,7 @@
         "Spread onto a plate, swirl with olive oil and serve with pita."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Pickle/Chutney"
     },
     {
       "heading": "Tabbouleh",
@@ -24,7 +24,7 @@
         "Chill briefly before serving as a refreshing salad."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Salad"
     },
     {
       "heading": "Chicken Shawarma",
@@ -45,7 +45,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Fry",
+      "veg": false
     },
     {
       "heading": "Manakish",
@@ -54,7 +55,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Bread/Flatbread",
+      "veg": true
     },
     {
       "heading": "Fattoush",
@@ -63,7 +65,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Salad",
+      "veg": true
     },
     {
       "heading": "Shawarma",
@@ -72,7 +75,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Grill/Roast",
+      "veg": false
     },
     {
       "heading": "Falafel",
@@ -81,7 +85,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Tiffin/Snack",
       "veg": true
     },
     {
@@ -91,7 +95,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Dal/Lentil",
+      "veg": true
     },
     {
       "heading": "Kafta",
@@ -100,7 +105,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Grill/Roast",
+      "veg": false
     },
     {
       "heading": "Baklava",
@@ -108,7 +114,8 @@
         "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
         "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
       ],
-      "type": "Sweet"
+      "type": "Sweet",
+      "veg": true
     }
   ]
 }

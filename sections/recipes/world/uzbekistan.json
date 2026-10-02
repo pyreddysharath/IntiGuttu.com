@@ -24,7 +24,7 @@
         "Bake until the pastry is deeply golden and crisp."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Baked/Pastry"
     },
     {
       "heading": "Plov",
@@ -33,7 +33,8 @@
         "Rinse and partly cook the rice.",
         "Brown onion and spices, cook the vegetables/meat with seasoning, layer with rice and steam covered on low heat until tender."
       ],
-      "type": "Rice"
+      "type": "Rice",
+      "veg": false
     },
     {
       "heading": "Lagman",
@@ -42,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Noodles/Pasta",
+      "veg": false
     },
     {
       "heading": "Manti",
@@ -51,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Dumpling",
+      "veg": false
     },
     {
       "heading": "Shurpa",
@@ -60,7 +63,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": false
     },
     {
       "heading": "Dimlama",
@@ -69,7 +73,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Kazan Kabob",
@@ -78,7 +83,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Fry",
+      "veg": false
     },
     {
       "heading": "Naryn",
@@ -87,7 +93,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Noodles/Pasta",
+      "veg": false
     },
     {
       "heading": "Non",
@@ -96,7 +103,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Bread/Flatbread",
+      "veg": true
     },
     {
       "heading": "Halva",
@@ -105,7 +113,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     }
   ]
 }

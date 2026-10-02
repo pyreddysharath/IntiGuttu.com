@@ -24,7 +24,7 @@
         "Finish with fresh mint and a squeeze of lemon."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Soup/Stew"
     },
     {
       "heading": "Cuscus",
@@ -33,7 +33,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": false
     },
     {
       "heading": "Bazeen",
@@ -42,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": false
     },
     {
       "heading": "Shakshouka",
@@ -51,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Asida",
@@ -60,7 +63,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Mbatan",
@@ -69,7 +73,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Baked/Pastry",
+      "veg": false
     },
     {
       "heading": "Sharba",
@@ -78,7 +83,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": false
     },
     {
       "heading": "Couscous with Lamb",
@@ -87,7 +93,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Porridge/Grain",
       "veg": false
     },
     {
@@ -97,7 +103,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Mbasbas",
@@ -106,7 +113,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Pickle/Chutney",
+      "veg": false
     },
     {
       "heading": "Makroudh",
@@ -115,7 +123,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     }
   ]
 }

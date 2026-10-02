@@ -24,7 +24,7 @@
         "Temper with mustard seeds and serve as a tangy side."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Pickle/Chutney"
     },
     {
       "heading": "Andhra Chicken Curry",
@@ -42,7 +42,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": true
     },
     {
       "heading": "Pesarattu",
@@ -63,7 +64,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Pootharekulu",
@@ -96,7 +98,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -585,7 +587,7 @@
         "Pour sesame oil over the mixture to cover, then let it mature in a jar for several days before serving."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Pickle/Chutney"
     },
     {
       "heading": "Perugu Pachadi",
@@ -597,7 +599,7 @@
         "Pour the tempering over the yogurt mixture and stir gently before serving chilled."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Pickle/Chutney"
     }
   ]
 }

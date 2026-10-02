@@ -33,7 +33,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Tiffin/Snack",
+      "veg": false
     },
     {
       "heading": "Baursaki",
@@ -42,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Kuyrdak",
@@ -51,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Fry",
+      "veg": false
     },
     {
       "heading": "Plov",
@@ -60,7 +63,8 @@
         "Rinse and partly cook the rice.",
         "Brown onion and spices, cook the vegetables/meat with seasoning, layer with rice and steam covered on low heat until tender."
       ],
-      "type": "Rice"
+      "type": "Rice",
+      "veg": false
     },
     {
       "heading": "Manty",
@@ -69,7 +73,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Dumpling",
+      "veg": false
     },
     {
       "heading": "Lagman",
@@ -78,7 +83,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Noodles/Pasta",
+      "veg": false
     },
     {
       "heading": "Shelpek",
@@ -87,7 +93,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Bread/Flatbread",
+      "veg": true
     },
     {
       "heading": "Kurt",
@@ -96,7 +103,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Nauryz Kozhe",
@@ -105,7 +113,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": false
     }
   ]
 }

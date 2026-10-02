@@ -9,7 +9,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": false
     },
     {
       "heading": "Momos",
@@ -18,7 +19,8 @@
         "Make a pliable dough, roll thin, fill and seal.",
         "Steam or boil until cooked; serve with a seasoned sauce."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": false
     },
     {
       "heading": "Skyu",
@@ -27,7 +29,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": true
     },
     {
       "heading": "Chutagi",
@@ -36,7 +39,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": true
     },
     {
       "heading": "Tingmo",
@@ -45,7 +49,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Bread/Flatbread",
+      "veg": true
     },
     {
       "heading": "Khambir",
@@ -54,7 +59,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Bread/Flatbread",
       "veg": false
     },
     {
@@ -64,7 +69,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Beverage",
+      "veg": true
     },
     {
       "heading": "Paba",
@@ -73,7 +79,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Apricot Jam",
@@ -82,7 +89,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Ladakhi Chutagi",
@@ -91,7 +99,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": true
     },
     {
       "heading": "Vegetable Pulao",

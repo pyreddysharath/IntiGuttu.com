@@ -12,7 +12,7 @@
         "Serve with a fresh tomato and onion kachumbari salad."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Grill/Roast"
     },
     {
       "heading": "Ugali with Sukuma Wiki",
@@ -24,7 +24,7 @@
         "Serve the ugali alongside the sauteed greens."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Porridge/Grain"
     },
     {
       "heading": "Ugali",
@@ -33,7 +33,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Sukuma Wiki",
@@ -42,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Fry",
+      "veg": true
     },
     {
       "heading": "Pilau",
@@ -51,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Rice"
+      "type": "Rice",
+      "veg": false
     },
     {
       "heading": "Chapati",
@@ -59,7 +62,8 @@
         "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
         "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Githeri",
@@ -68,7 +72,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Dal/Lentil",
+      "veg": true
     },
     {
       "heading": "Samaki wa Kupaka",
@@ -76,7 +81,8 @@
         "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
         "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": false
     },
     {
       "heading": "Mutura",
@@ -85,7 +91,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Grill/Roast",
+      "veg": false
     },
     {
       "heading": "Mandazi",
@@ -94,7 +101,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Irio",
@@ -103,7 +111,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     }
   ]
 }

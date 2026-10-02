@@ -33,7 +33,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Rice",
+      "veg": false
     },
     {
       "heading": "Muttabaq Zubaidi",
@@ -42,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Fry",
+      "veg": false
     },
     {
       "heading": "Gabout",
@@ -51,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": false
     },
     {
       "heading": "Margoog",
@@ -60,7 +63,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": false
     },
     {
       "heading": "Balaleet",
@@ -69,7 +73,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": false
     },
     {
       "heading": "Samboosa",
@@ -78,7 +83,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": false
     },
     {
       "heading": "Daqoos",
@@ -87,7 +93,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Pickle/Chutney",
+      "veg": true
     },
     {
       "heading": "Khobz",
@@ -96,7 +103,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Bread/Flatbread",
+      "veg": true
     },
     {
       "heading": "Luqaimat",
@@ -105,7 +113,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     }
   ]
 }

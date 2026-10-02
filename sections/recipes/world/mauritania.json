@@ -24,7 +24,7 @@
         "Carve and serve with flatbread."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Grill/Roast"
     },
     {
       "heading": "Thieboudienne",
@@ -33,7 +33,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Rice",
+      "veg": false
     },
     {
       "heading": "Couscous",
@@ -42,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": false
     },
     {
       "heading": "Maru We-llham",
@@ -51,7 +53,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -61,7 +63,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -71,7 +73,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Mafe",
@@ -80,7 +83,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Harira",
@@ -89,7 +93,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Curry"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Dates and Milk",
@@ -98,7 +103,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Lakh",
@@ -107,7 +113,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     }
   ]
 }

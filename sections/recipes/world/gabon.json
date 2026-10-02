@@ -12,7 +12,7 @@
         "Serve the stew over rice or plantains."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Curry"
     },
     {
       "heading": "Odika Stew",
@@ -33,7 +33,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -43,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Brochettes",
@@ -52,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Grill/Roast",
+      "veg": false
     },
     {
       "heading": "Plantain",
@@ -61,7 +63,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Fry",
+      "veg": true
     },
     {
       "heading": "Cassava Leaves",
@@ -70,7 +73,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Peanut Stew",
@@ -78,7 +82,8 @@
         "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
         "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
       ],
-      "type": "Curry"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Fish in Sauce",
@@ -87,7 +92,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -97,7 +102,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Saka Saka",
@@ -106,7 +112,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": false
     },
     {
       "heading": "Beignets",
@@ -115,7 +122,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Fry"
+      "type": "Fry",
+      "veg": true
     }
   ]
 }

@@ -12,7 +12,7 @@
         "Bake or steam until the leaves are tender and the cream has thickened."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Soup/Stew"
     },
     {
       "heading": "Coconut Fish",
@@ -24,7 +24,7 @@
         "Serve cold as a refreshing island dish."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Curry"
     },
     {
       "heading": "Coconut Crab",
@@ -33,7 +33,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -43,7 +43,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Salad",
       "veg": false
     },
     {
@@ -53,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Fish Curry",
@@ -70,7 +71,8 @@
         "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
         "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Taro",
@@ -79,7 +81,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Banana Poke",
@@ -88,7 +91,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Rice and Tuna",

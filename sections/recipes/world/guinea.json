@@ -33,7 +33,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Mafé",
@@ -42,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Fouti",
@@ -51,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Jollof Rice",
@@ -60,7 +63,8 @@
         "Cook the rice by absorption or steaming.",
         "Sauté the other ingredients separately, combine and season to taste."
       ],
-      "type": "Rice"
+      "type": "Rice",
+      "veg": true
     },
     {
       "heading": "Fried Plantain",
@@ -68,7 +72,8 @@
         "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
         "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
       ],
-      "type": "Fry"
+      "type": "Fry",
+      "veg": true
     },
     {
       "heading": "Leaf Stew",
@@ -76,7 +81,8 @@
         "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
         "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
       ],
-      "type": "Curry"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Grilled Fish",
@@ -85,7 +91,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Grill/Roast",
       "veg": false
     },
     {
@@ -95,7 +101,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Beignets",
@@ -104,7 +111,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Fry"
+      "type": "Fry",
+      "veg": true
     },
     {
       "heading": "Rice with Peanut Sauce",
@@ -113,7 +121,8 @@
         "Cook the rice by absorption or steaming.",
         "Sauté the other ingredients separately, combine and season to taste."
       ],
-      "type": "Rice"
+      "type": "Rice",
+      "veg": false
     }
   ]
 }

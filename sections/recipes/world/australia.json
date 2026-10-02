@@ -42,7 +42,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Baked/Pastry",
       "veg": false
     },
     {
@@ -52,7 +52,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Baked/Pastry",
       "veg": false
     },
     {
@@ -62,7 +62,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": false
     },
     {
       "heading": "Vegemite Toast",
@@ -71,7 +72,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Barramundi",
@@ -80,7 +82,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Grill/Roast",
+      "veg": false
     },
     {
       "heading": "Damper",
@@ -89,7 +92,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Bread/Flatbread",
+      "veg": true
     },
     {
       "heading": "Anzac Biscuits",
@@ -98,7 +102,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Fairy Bread",
@@ -106,7 +111,8 @@
         "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
         "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     }
   ]
 }

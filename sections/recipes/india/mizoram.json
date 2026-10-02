@@ -21,7 +21,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Grill/Roast",
       "veg": false
     },
     {
@@ -43,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Grill/Roast",
+      "veg": false
     },
     {
       "heading": "Koat Pitha",
@@ -52,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Chhum Han",
@@ -61,7 +63,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Salad",
+      "veg": true
     },
     {
       "heading": "Bamboo Shoot Fry",
@@ -69,7 +72,8 @@
         "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
         "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
       ],
-      "type": "Fry"
+      "type": "Fry",
+      "veg": true
     },
     {
       "heading": "Arsa Buhchiar",
@@ -78,7 +82,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": false
     },
     {
       "heading": "Mizo Dal",
@@ -97,7 +102,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {

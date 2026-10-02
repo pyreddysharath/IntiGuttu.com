@@ -12,7 +12,7 @@
         "Serve hot with steamed rice."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Curry"
     },
     {
       "heading": "Beef Bhuna",
@@ -24,7 +24,7 @@
         "Finish with a sprinkle of garam masala and serve with rice."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Curry"
     },
     {
       "heading": "Kacchi Biryani",
@@ -43,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Hilsa Curry",
@@ -51,7 +52,8 @@
         "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
         "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
       ],
-      "type": "Curry"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Shorshe Ilish",
@@ -60,7 +62,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -70,7 +72,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -80,7 +82,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -89,7 +91,8 @@
         "Ingredients: main vegetable/protein, onion, garlic, ginger, spices, tomato or coconut, oil and salt.",
         "Sauté aromatics and spices, add the main ingredient and sauce base, simmer covered until cooked and the sauce thickens."
       ],
-      "type": "Curry"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Panta Bhat",
@@ -98,7 +101,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Rice",
+      "veg": true
     },
     {
       "heading": "Fuchka",
@@ -107,7 +111,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Rasgulla",
@@ -116,7 +121,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Sweet"
+      "type": "Sweet",
+      "veg": true
     }
   ]
 }

@@ -12,7 +12,7 @@
         "Serve warm alongside baked taro or breadfruit."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Curry"
     },
     {
       "heading": "Oka i'a",
@@ -24,7 +24,7 @@
         "Chill briefly and serve cold."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Salad"
     },
     {
       "heading": "Palusami",
@@ -33,7 +33,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Oka",
@@ -42,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Salad",
+      "veg": false
     },
     {
       "heading": "Faiai Eleni",
@@ -51,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Sapasui",
@@ -60,7 +63,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Noodles/Pasta",
+      "veg": false
     },
     {
       "heading": "Lu'au",
@@ -69,7 +73,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": true
     },
     {
       "heading": "Pani Popo",
@@ -78,7 +83,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Taros",
@@ -87,7 +93,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Coconut Bread",
@@ -95,7 +102,8 @@
         "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
         "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Pork Roast",
@@ -104,7 +112,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Grill/Roast",
       "veg": false
     },
     {
@@ -113,7 +121,8 @@
         "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
         "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
       ],
-      "type": "Sweet"
+      "type": "Sweet",
+      "veg": true
     }
   ]
 }

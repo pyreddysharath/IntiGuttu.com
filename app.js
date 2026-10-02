@@ -242,6 +242,45 @@
   var ARROW_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"><polyline points="4 8 12 16 20 8"></polyline></svg>';
   var CAT_ARROW_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter"><polyline points="8 4 16 12 8 20"></polyline></svg>';
 
+  // Dish-type -> icon key, for the small type badge shown next to the
+  // veg/non-veg dot on each recipe item (see buildCard()). Reuses a few
+  // existing icons (cook/flame/leaf/jar) where they already fit.
+  var TYPE_ICON = {
+    "Curry": "cook",
+    "Fry": "type-fry",
+    "Rice": "type-rice",
+    "Sweet": "type-sweet",
+    "Tiffin/Snack": "type-snack",
+    "Soup/Stew": "type-soup",
+    "Bread/Flatbread": "type-bread",
+    "Salad": "leaf",
+    "Beverage": "type-beverage",
+    "Pickle/Chutney": "jar",
+    "Dal/Lentil": "type-dal",
+    "Dumpling": "type-dumpling",
+    "Noodles/Pasta": "type-noodles",
+    "Grill/Roast": "flame",
+    "Baked/Pastry": "type-pastry",
+    "Porridge/Grain": "type-porridge",
+    "Other": "type-other"
+  };
+
+  // Adds the matching dish-type icon to each filter chip (so the filter
+  // row shows the same glyph used on item rows), once icons are loaded.
+  // The "All" chip (empty data-type) is left as plain text.
+  function populateTypeChipIcons() {
+    if (!typeChips) return;
+    Array.prototype.forEach.call(typeChips.querySelectorAll(".chip[data-type]"), function (chip) {
+      var type = chip.dataset.type;
+      if (!type || !TYPE_ICON[type] || chip.querySelector("svg")) return;
+      var iconSpan = document.createElement("span");
+      iconSpan.className = "chip-icon";
+      iconSpan.innerHTML = icon(TYPE_ICON[type]);
+      iconSpan.setAttribute("aria-hidden", "true");
+      chip.insertBefore(iconSpan, chip.firstChild);
+    });
+  }
+
   function buildCard(tabKey, cat, item, idx, labelPath) {
     var det = document.createElement("details");
     det.className = "card";
@@ -264,6 +303,13 @@
       vegDot.className = "veg-dot " + (item.veg ? "veg" : "nonveg");
       vegWrap.appendChild(vegDot);
       summary.appendChild(vegWrap);
+    }
+    if (item.type && TYPE_ICON[item.type]) {
+      var typeWrap = document.createElement("span");
+      typeWrap.className = "item-type";
+      typeWrap.title = item.type;
+      typeWrap.innerHTML = icon(TYPE_ICON[item.type]);
+      summary.appendChild(typeWrap);
     }
     if (item.icon) {
       var itemIconWrap = document.createElement("span");
@@ -1079,6 +1125,7 @@
     DATA.icons = results[1];
     DATA.diagrams = results[2];
     DATA.maps = results[3];
+    populateTypeChipIcons();
     DATA.tabs = metas.map(placeholderTab);
     DATA.tabs.forEach(function (tab) {
       tabByKey[tab.key] = tab;

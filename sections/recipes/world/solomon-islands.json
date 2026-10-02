@@ -12,7 +12,7 @@
         "Serve as a filling side dish."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Porridge/Grain"
     },
     {
       "heading": "Motu (Fish and Coconut Bundle)",
@@ -24,7 +24,7 @@
         "Unwrap and serve with rice or taro."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Grill/Roast"
     },
     {
       "heading": "Poi",
@@ -33,7 +33,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Taro",
@@ -42,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Cassava",
@@ -51,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Coconut Fish",
@@ -60,7 +63,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -70,7 +73,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Grill/Roast",
       "veg": false
     },
     {
@@ -80,7 +83,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Breadfruit",
@@ -88,7 +92,8 @@
         "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
         "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Lobster",
@@ -97,7 +102,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Grill/Roast",
       "veg": false
     },
     {
@@ -107,7 +112,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Grill/Roast",
       "veg": false
     },
     {
@@ -116,7 +121,8 @@
         "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
         "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
       ],
-      "type": "Sweet"
+      "type": "Sweet",
+      "veg": true
     }
   ]
 }

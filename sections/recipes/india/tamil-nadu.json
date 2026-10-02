@@ -9,7 +9,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Dosa",
@@ -18,7 +19,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Sambar Rice",
@@ -27,7 +29,8 @@
         "Cook the rice by absorption or steaming.",
         "Sauté the other ingredients separately, combine and season to taste."
       ],
-      "type": "Rice"
+      "type": "Rice",
+      "veg": true
     },
     {
       "heading": "Pongal",
@@ -48,7 +51,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -58,7 +61,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Fry",
+      "veg": false
     },
     {
       "heading": "Parotta",
@@ -67,7 +71,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Bread/Flatbread",
+      "veg": true
     },
     {
       "heading": "Rasam",
@@ -76,7 +81,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Curry"
+      "type": "Curry",
+      "veg": true
     },
     {
       "heading": "Murukku",
@@ -85,7 +91,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Pongal Sweet",
@@ -93,7 +100,8 @@
         "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
         "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
       ],
-      "type": "Sweet"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Vegetable Pulao",

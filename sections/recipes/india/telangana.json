@@ -21,7 +21,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Soup/Stew",
       "veg": false
     },
     {
@@ -31,7 +31,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Curry",
+      "veg": true
     },
     {
       "heading": "Bagara Rice",
@@ -40,7 +41,8 @@
         "Cook the rice by absorption or steaming.",
         "Sauté the other ingredients separately, combine and season to taste."
       ],
-      "type": "Rice"
+      "type": "Rice",
+      "veg": true
     },
     {
       "heading": "Sarva Pindi",
@@ -49,7 +51,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Sakinalu",
@@ -82,7 +85,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -92,7 +95,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Double Ka Meetha",
@@ -101,7 +105,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Vegetable Pulao",
@@ -579,7 +584,7 @@
         "Pour sesame oil over the mixture to cover, then let it mature in a jar for several days before serving."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Pickle/Chutney"
     },
     {
       "heading": "Perugu Pachadi",
@@ -591,7 +596,7 @@
         "Pour the tempering over the yogurt mixture and stir gently before serving chilled."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Pickle/Chutney"
     }
   ]
 }

@@ -12,7 +12,7 @@
         "Serve the saucy fish over the sliced green bananas."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Curry"
     },
     {
       "heading": "Bouyon",
@@ -33,7 +33,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -43,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Tiffin/Snack",
+      "veg": false
     },
     {
       "heading": "Breadfruit",
@@ -51,7 +52,8 @@
         "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
         "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Callaloo Soup",
@@ -59,7 +61,8 @@
         "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
         "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
       ],
-      "type": "Curry"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Creole Fish",
@@ -68,7 +71,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Curry",
       "veg": false
     },
     {
@@ -77,7 +80,8 @@
         "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
         "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
       ],
-      "type": "Sweet"
+      "type": "Sweet",
+      "veg": false
     },
     {
       "heading": "Cassava Bread",
@@ -85,7 +89,8 @@
         "Ingredients: flour, water, salt and fat; yeast or leavening when required.",
         "Mix into a soft dough, rest, shape or roll, then cook on a hot griddle or bake until cooked and lightly browned."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Plantain",
@@ -94,7 +99,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Fry",
+      "veg": true
     }
   ]
 }

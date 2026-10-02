@@ -18,7 +18,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Tiffin/Snack",
       "veg": false
     },
     {
@@ -37,7 +37,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Grill/Roast",
       "veg": false
     },
     {
@@ -56,7 +56,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Grill/Roast",
       "veg": false
     },
     {
@@ -66,7 +66,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Grill/Roast",
       "veg": false
     },
     {
@@ -75,7 +75,8 @@
         "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
         "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
       ],
-      "type": "Fry"
+      "type": "Fry",
+      "veg": true
     },
     {
       "heading": "Coconut Rice",
@@ -84,7 +85,8 @@
         "Cook the rice by absorption or steaming.",
         "Sauté the other ingredients separately, combine and season to taste."
       ],
-      "type": "Rice"
+      "type": "Rice",
+      "veg": true
     },
     {
       "heading": "Fish Cutlet",

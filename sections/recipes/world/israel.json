@@ -12,7 +12,7 @@
         "Cover and cook until the whites are set but yolks remain soft."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Curry"
     },
     {
       "heading": "Israeli Hummus",
@@ -24,7 +24,7 @@
         "Spread onto a plate, drizzle with olive oil and serve with warm pita."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Pickle/Chutney"
     },
     {
       "heading": "Falafel",
@@ -33,7 +33,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Tiffin/Snack",
       "veg": true
     },
     {
@@ -43,7 +43,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Pickle/Chutney",
       "veg": true
     },
     {
@@ -53,7 +53,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Tiffin/Snack",
+      "veg": false
     },
     {
       "heading": "Jachnun",
@@ -62,7 +63,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Baked/Pastry",
+      "veg": false
     },
     {
       "heading": "Cholent",
@@ -71,7 +73,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": false
     },
     {
       "heading": "Israeli Salad",
@@ -79,7 +82,7 @@
         "Ingredients: fresh vegetables/herbs, dressing, salt and optional grains/legumes.",
         "Chop ingredients finely, whisk the dressing, combine just before serving and adjust acidity and salt."
       ],
-      "type": "Other",
+      "type": "Salad",
       "veg": true
     },
     {
@@ -89,7 +92,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": false
     },
     {
       "heading": "Malabi",
@@ -98,7 +102,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Bourekas",
@@ -107,7 +112,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Baked/Pastry",
+      "veg": true
     }
   ]
 }

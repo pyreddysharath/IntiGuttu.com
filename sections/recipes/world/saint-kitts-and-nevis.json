@@ -33,7 +33,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Pickle/Chutney",
       "veg": false
     },
     {
@@ -43,7 +43,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Rice",
+      "veg": false
     },
     {
       "heading": "Conch Fritters",
@@ -51,7 +52,8 @@
         "Ingredients: main ingredient, flour or starch, aromatics/spices, salt and frying oil.",
         "Mix and shape into portions, heat oil to medium-hot, fry until crisp and golden, then drain."
       ],
-      "type": "Fry"
+      "type": "Fry",
+      "veg": false
     },
     {
       "heading": "Johnny Cakes",
@@ -59,7 +61,8 @@
         "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
         "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
       ],
-      "type": "Sweet"
+      "type": "Sweet",
+      "veg": true
     },
     {
       "heading": "Cook-up Rice",
@@ -68,7 +71,8 @@
         "Cook the rice by absorption or steaming.",
         "Sauté the other ingredients separately, combine and season to taste."
       ],
-      "type": "Rice"
+      "type": "Rice",
+      "veg": false
     },
     {
       "heading": "Stewed Oxtail",
@@ -76,7 +80,8 @@
         "Ingredients: vegetables, protein or legumes, onion, garlic, stock, herbs/spices and salt.",
         "Sauté aromatics, add the remaining ingredients and stock, simmer gently until tender, then adjust seasoning."
       ],
-      "type": "Curry"
+      "type": "Curry",
+      "veg": false
     },
     {
       "heading": "Fish Cakes",
@@ -93,7 +98,8 @@
         "Ingredients: flour or starch, sweetener, fat, milk or nuts/fruits as appropriate.",
         "Combine the ingredients, cook or bake using the dish's traditional technique, cool or set, and serve."
       ],
-      "type": "Sweet"
+      "type": "Sweet",
+      "veg": false
     },
     {
       "heading": "Guava Cheese",
@@ -102,7 +108,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": true
     }
   ]
 }

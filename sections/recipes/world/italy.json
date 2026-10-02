@@ -12,7 +12,7 @@
         "Finish with fresh basil leaves before serving."
       ],
       "veg": true,
-      "type": "Other"
+      "type": "Baked/Pastry"
     },
     {
       "heading": "Spaghetti Carbonara",
@@ -24,7 +24,7 @@
         "Off the heat, toss hot pasta with guanciale and the egg mixture, adding pasta water until creamy."
       ],
       "veg": false,
-      "type": "Other"
+      "type": "Noodles/Pasta"
     },
     {
       "heading": "Tiramisu",
@@ -44,7 +44,8 @@
         "Ingredients: flour, yeast, water, salt, olive oil, tomato sauce, cheese and toppings.",
         "Make a yeast dough, rest until doubled, stretch thin, add sauce and toppings, then bake in a very hot oven until browned."
       ],
-      "type": "Tiffin/Snack"
+      "type": "Tiffin/Snack",
+      "veg": true
     },
     {
       "heading": "Pasta Carbonara",
@@ -53,7 +54,8 @@
         "Boil noodles until just tender.",
         "Stir-fry or simmer the sauce ingredients, add noodles and toss until evenly coated."
       ],
-      "type": "Other"
+      "type": "Noodles/Pasta",
+      "veg": false
     },
     {
       "heading": "Lasagna",
@@ -62,7 +64,7 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other",
+      "type": "Noodles/Pasta",
       "veg": true
     },
     {
@@ -72,7 +74,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Rice"
+      "type": "Rice",
+      "veg": true
     },
     {
       "heading": "Osso Buco",
@@ -81,7 +84,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Soup/Stew",
+      "veg": false
     },
     {
       "heading": "Polenta",
@@ -90,7 +94,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Porridge/Grain",
+      "veg": true
     },
     {
       "heading": "Gnocchi",
@@ -99,7 +104,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Noodles/Pasta",
+      "veg": false
     },
     {
       "heading": "Arancini",
@@ -108,7 +114,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Tiffin/Snack",
+      "veg": false
     },
     {
       "heading": "Panna Cotta",
@@ -117,7 +124,8 @@
         "Prepare and cut the main ingredients.",
         "Sauté or toast the aromatics and spices, add the main ingredients and cook using the traditional simmering, steaming, baking or grilling method until done."
       ],
-      "type": "Other"
+      "type": "Sweet",
+      "veg": false
     }
   ]
 }
