@@ -1028,7 +1028,9 @@
     configReady.then(function () {
       if (!footerPanel.querySelector('[data-panel="othersites"]')) return;
       var intro = CONFIG.otherSitesIntro || "";
-      var sites = CONFIG.otherSites || [];
+      var sites = (CONFIG.otherSites || []).slice().sort(function (a, b) {   // A to Z
+        return String(a.name).localeCompare(String(b.name), undefined, { sensitivity: "base" });
+      });
       var html =
         '<div class="footer-panel" data-panel="othersites">' +
         "<h3>Our Other Sites</h3>" +
