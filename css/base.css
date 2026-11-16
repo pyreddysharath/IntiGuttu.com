@@ -1156,7 +1156,7 @@
   cursor: pointer;
   padding: 2px;
   transition: transform .15s ease, color .15s ease;
-  background: white;
+  background: none;
 }
 
 :root .footer-icon svg {
@@ -1576,6 +1576,23 @@
 
 :root .resultcount:empty {
   display: none;
+}
+
+:root .footer-row {
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 10px;
+}
+
+:root .footer-copyright {
+  width: 100%;
+  text-align: center;
+}
+
+:root .footer-icons-row {
+  width: 100%;
+  justify-content: center;
+  gap: 18px;
 }
 
 }
