@@ -1649,3 +1649,9 @@
 :root .footer-panel[data-panel="about"] h3{color:var(--tab-tone,var(--green-dark));}
 :root .footer-panel[data-panel="about"] p{font-style:normal;}
 :root .footer-panel[data-panel="about"] ul{margin:0 0 6px;padding-left:18px;font-size:12.5px;color:var(--ink-soft);line-height:1.5;}
+
+/* Legal panel tabs (Disclaimer / Privacy Policy) share the About tab styling */
+:root .footer-panel[data-panel="legal"] .about-tabs{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px;}
+:root .footer-panel[data-panel="legal"] .about-tab{font-family:var(--font-mono);font-size:11px;font-weight:700;padding:5px 11px;border-radius:16px;border:1.5px solid var(--tab-tone,var(--green-dark));background:#fff;color:var(--tab-tone,var(--green-dark));cursor:pointer;}
+:root .footer-panel[data-panel="legal"] .about-tab.active{background:var(--tab-tone,var(--green-dark));color:#fff;}
+:root .footer-panel[data-panel="legal"] h3{color:var(--tab-tone,var(--green-dark));}
