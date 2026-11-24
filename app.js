@@ -872,36 +872,33 @@
     return (paragraphs || []).map(function (p) { return "<p>" + p + "</p>"; }).join("");
   }
 
-  function openDisclaimerPanel() {
-    if (footerPanel.querySelector('[data-panel="disclaimer"]')) { closeFooterPanel(); return; }
-    setActiveFooterIcon("disclaimerLink");
-    footerPanel.innerHTML = '<div class="footer-panel" data-panel="disclaimer"><h3>Disclaimer</h3></div>';
-    scrollPanelIntoView();
+  function renderLegalPanel(which) {
+    footerPanel.innerHTML = '<div class="footer-panel" data-panel="legal"><h3>Disclaimer &amp; Privacy Policy</h3></div>';
     configReady.then(function () {
-      if (!footerPanel.querySelector('[data-panel="disclaimer"]')) return;
+      if (!footerPanel.querySelector('[data-panel="legal"]')) return;
       var d = CONFIG.disclaimer || {};
+      var p = CONFIG.privacyPolicy || {};
+      var doc = which === "privacy" ? p : d;
       footerPanel.innerHTML =
-        '<div class="footer-panel" data-panel="disclaimer">' +
-        "<h3>" + (d.title || "Disclaimer") + "</h3>" +
-        paragraphsHtml(d.paragraphs) +
+        '<div class="footer-panel" data-panel="legal">' +
+        '<div class="about-tabs">' +
+        '<button type="button" class="about-tab' + (which !== "privacy" ? " active" : "") + '" data-legal-tab="disclaimer">' + (d.title || "Disclaimer") + "</button>" +
+        '<button type="button" class="about-tab' + (which === "privacy" ? " active" : "") + '" data-legal-tab="privacy">' + (p.title || "Privacy Policy") + "</button>" +
+        "</div>" +
+        "<h3>" + (doc.title || (which === "privacy" ? "Privacy Policy" : "Disclaimer")) + "</h3>" +
+        paragraphsHtml(doc.paragraphs) +
         "</div>";
+      footerPanel.querySelectorAll("[data-legal-tab]").forEach(function (btn) {
+        btn.addEventListener("click", function () { renderLegalPanel(btn.getAttribute("data-legal-tab")); });
+      });
     });
   }
 
-  function openPrivacyPolicyPanel() {
-    if (footerPanel.querySelector('[data-panel="privacy"]')) { closeFooterPanel(); return; }
-    setActiveFooterIcon("privacyLink");
-    footerPanel.innerHTML = '<div class="footer-panel" data-panel="privacy"><h3>Privacy Policy</h3></div>';
+  function openLegalPanel() {
+    if (footerPanel.querySelector('[data-panel="legal"]')) { closeFooterPanel(); return; }
+    setActiveFooterIcon("legalLink");
+    renderLegalPanel("disclaimer");
     scrollPanelIntoView();
-    configReady.then(function () {
-      if (!footerPanel.querySelector('[data-panel="privacy"]')) return;
-      var p = CONFIG.privacyPolicy || {};
-      footerPanel.innerHTML =
-        '<div class="footer-panel" data-panel="privacy">' +
-        "<h3>" + (p.title || "Privacy Policy") + "</h3>" +
-        paragraphsHtml(p.paragraphs) +
-        "</div>";
-    });
   }
 
   function showFeedbackConfirmation() {
@@ -1127,17 +1124,10 @@
     openAboutPanel();
   });
 
-  document.getElementById("disclaimerLink").addEventListener("click", function (e) {
+  document.getElementById("legalLink").addEventListener("click", function (e) {
     e.preventDefault();
-    openDisclaimerPanel();
+    openLegalPanel();
   });
-  var privacyLinkEl = document.getElementById("privacyLink");
-  if (privacyLinkEl) {
-    privacyLinkEl.addEventListener("click", function (e) {
-      e.preventDefault();
-      openPrivacyPolicyPanel();
-    });
-  }
   document.getElementById("feedbackLink").addEventListener("click", function (e) {
     e.preventDefault();
     openFeedbackForm();
