@@ -6,12 +6,12 @@
   --paper-line: #E4E0D7;
   --ink: #292D29;
   --ink-soft: #62685F;
-  --green-light: #356B48;
+  --green-light: #15803D;
   --green-light-hover: #284D38;
-  --green-light-soft: #EDF5EE;
-  --green-dark: #356B48;
+  --green-light-soft: #D9F0E1;
+  --green-dark: #15803D;
   --green-dark-2: #284D38;
-  --green-dark-soft: #EDF5EE;
+  --green-dark-soft: #D9F0E1;
   --cream: #FBF8EF;
   --gold: #D9A62B;
   --gold-deep: #8A6A15;
@@ -21,32 +21,32 @@
   --green-light-alt: color-mix(in srgb, var(--green-light) 52%, white);
   --gold-alt: color-mix(in srgb, var(--gold) 52%, white);
   --shadow: rgba(41,45,41,.07);
-  --focus: #246B73;
+  --focus: #0B6E85;
   --font-display: 'Fraunces','Noto Serif Telugu',Georgia,serif;
   --font-body: 'Newsreader','Noto Sans Telugu',Georgia,serif;
   --font-mono: 'IBM Plex Mono','Noto Sans Telugu',monospace;
-  --brown: #246B73;
-  --brown-deep: #246B73;
-  --brown-soft: #EAF4F5;
-  --recipe: #89670B;
-  --recipe-deep: #89670B;
-  --recipe-soft: #FBF3D6;
-  --tradition: #75466F;
-  --tradition-deep: #75466F;
-  --tradition-soft: #F5EDF4;
-  --logo-bg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 12L12 4l9 8' fill='none' stroke='%23356B48' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M5 11v9h14v-9' fill='none' stroke='%23356B48' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='12' cy='15' r='1.3' fill='%23356B48' fill-opacity='0.22'/%3E%3C/svg%3E");
+  --brown: #0B6E85;
+  --brown-deep: #0B6E85;
+  --brown-soft: #D3EDF4;
+  --recipe: #C2570C;
+  --recipe-deep: #C2570C;
+  --recipe-soft: #FFE6C4;
+  --tradition: #A21F6B;
+  --tradition-deep: #A21F6B;
+  --tradition-soft: #F7D9EA;
+  --logo-bg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 12L12 4l9 8' fill='none' stroke='%2315803D' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M5 11v9h14v-9' fill='none' stroke='%2315803D' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='12' cy='15' r='1.3' fill='%2315803D' fill-opacity='0.22'/%3E%3C/svg%3E");
 }
 
 :root main[data-tab-theme="diy"] {
-  --logo-bg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 12L12 4l9 8' fill='none' stroke='%23246B73' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M5 11v9h14v-9' fill='none' stroke='%23246B73' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='12' cy='15' r='1.3' fill='%23246B73' fill-opacity='0.22'/%3E%3C/svg%3E");
+  --logo-bg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 12L12 4l9 8' fill='none' stroke='%230B6E85' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M5 11v9h14v-9' fill='none' stroke='%230B6E85' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='12' cy='15' r='1.3' fill='%230B6E85' fill-opacity='0.22'/%3E%3C/svg%3E");
 }
 
 :root main[data-tab-theme="recipes"] {
-  --logo-bg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 12L12 4l9 8' fill='none' stroke='%2389670B' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M5 11v9h14v-9' fill='none' stroke='%2389670B' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='12' cy='15' r='1.3' fill='%2389670B' fill-opacity='0.22'/%3E%3C/svg%3E");
+  --logo-bg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 12L12 4l9 8' fill='none' stroke='%23C2570C' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M5 11v9h14v-9' fill='none' stroke='%23C2570C' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='12' cy='15' r='1.3' fill='%23C2570C' fill-opacity='0.22'/%3E%3C/svg%3E");
 }
 
 :root main[data-tab-theme="traditions"] {
-  --logo-bg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 12L12 4l9 8' fill='none' stroke='%2375466F' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M5 11v9h14v-9' fill='none' stroke='%2375466F' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='12' cy='15' r='1.3' fill='%2375466F' fill-opacity='0.22'/%3E%3C/svg%3E");
+  --logo-bg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 12L12 4l9 8' fill='none' stroke='%23A21F6B' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M5 11v9h14v-9' fill='none' stroke='%23A21F6B' stroke-opacity='0.22' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='12' cy='15' r='1.3' fill='%23A21F6B' fill-opacity='0.22'/%3E%3C/svg%3E");
 }
 
 :root * {
@@ -254,8 +254,8 @@
   opacity: 1;
   transition: background .15s,box-shadow .15s;
   color: var(--tone);
-  --tone: #356B48;
-  --soft: #EDF5EE;
+  --tone: #15803D;
+  --soft: #D9F0E1;
   background: var(--soft)!important;
   min-height: 50px;
 }
@@ -494,8 +494,8 @@
 
 :root main {
   padding-block: 24px 48px;
-  --section-tone: #356B48;
-  --section-soft: #EDF5EE;
+  --section-tone: #15803D;
+  --section-soft: #D9F0E1;
   position: relative;
   background-image: var(--logo-bg);
   background-repeat: no-repeat;
@@ -1401,18 +1401,18 @@
 }
 
 :root .tabs button[data-tab="diy"] {
-  --tone: #246B73;
-  --soft: #EAF4F5;
+  --tone: #0B6E85;
+  --soft: #D3EDF4;
 }
 
 :root .tabs button[data-tab="recipes"] {
-  --tone: #89670B;
-  --soft: #FBF3D6;
+  --tone: #C2570C;
+  --soft: #FFE6C4;
 }
 
 :root .tabs button[data-tab="traditions"] {
-  --tone: #75466F;
-  --soft: #F5EDF4;
+  --tone: #A21F6B;
+  --soft: #F7D9EA;
 }
 
 :root .tabs button:hover:not(.active) {
@@ -1420,18 +1420,18 @@
 }
 
 :root main[data-tab-theme="diy"] {
-  --section-tone: #246B73;
-  --section-soft: #EAF4F5;
+  --section-tone: #0B6E85;
+  --section-soft: #D3EDF4;
 }
 
 :root main[data-tab-theme="recipes"] {
-  --section-tone: #89670B;
-  --section-soft: #FBF3D6;
+  --section-tone: #C2570C;
+  --section-soft: #FFE6C4;
 }
 
 :root main[data-tab-theme="traditions"] {
-  --section-tone: #75466F;
-  --section-soft: #F5EDF4;
+  --section-tone: #A21F6B;
+  --section-soft: #F7D9EA;
 }
 
 :root details.card summary:hover {
@@ -1613,3 +1613,39 @@
 }
 
 }
+
+/* wash background */
+:root html{background:#fffdf8;}
+:root header.top{background:transparent!important;border-bottom-color:transparent;}
+:root body{background:
+  radial-gradient(900px 380px at 50% -140px,color-mix(in srgb,var(--tab-tone,#15803D) 24%,transparent),transparent 72%),
+  linear-gradient(180deg,color-mix(in srgb,var(--tab-tone,#15803D) 6%,#fff),#fffdf9 60%,color-mix(in srgb,var(--tab-tone,#15803D) 9%,#fff));background-attachment:fixed;min-height:100vh;}
+:root main{--section-tone:#15803D;}
+/* icons coloured per section */
+:root main .cathead .icon-badge,:root main .cathead .icon-badge svg{color:var(--section-tone)!important;}
+:root main .cathead .icon-badge{box-shadow:0 0 0 1.5px color-mix(in srgb,var(--section-tone) 40%,white) inset;}
+:root main .cathead .icon-badge svg{width:17px;height:17px;}
+:root main .item-icon,:root main .row-icon-fall,:root main .item-type,:root main .chip-icon{color:var(--section-tone)!important;opacity:1!important;}
+:root details.card{border-left-width:4px;}
+
+/* filled icons */
+:root main .cathead .icon-badge{background:var(--section-tone)!important;box-shadow:none;border-radius:10px;width:30px;height:30px;}
+:root main .cathead .icon-badge,:root main .cathead .icon-badge svg{color:#fff!important;}
+:root main .cathead .icon-badge svg{fill:rgba(255,255,255,.28);}
+:root main .item-icon svg,:root main .item-type svg,:root main .chip-icon svg{fill:color-mix(in srgb,var(--section-tone) 30%,white);}
+:root main .chip.active .chip-icon svg{fill:rgba(255,255,255,.3);}
+
+/* Contribute box: height fits its text when collapsed */
+:root .contribute-section{padding:9px 14px;margin-bottom:12px;}
+:root .contribute-title{line-height:1.3;}
+:root details.contribute-section[open]{padding:12px 14px 14px;}
+:root details.contribute-section[open] .contribute-title::before{margin-bottom:-2px;}
+
+/* About panel */
+:root .footer-panel[data-panel="about"] .about-tabs{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0 10px;}
+:root .footer-panel[data-panel="about"] .about-tab{font-family:var(--font-mono);font-size:11px;font-weight:700;padding:5px 11px;border-radius:16px;border:1.5px solid var(--tab-tone,var(--green-dark));background:#fff;color:var(--tab-tone,var(--green-dark));cursor:pointer;}
+:root .footer-panel[data-panel="about"] .about-tab.active{background:var(--tab-tone,var(--green-dark));color:#fff;}
+:root .footer-panel[data-panel="about"] h4{font-family:var(--font-mono);font-size:12px;margin:10px 0 3px;color:var(--tab-tone,var(--green-dark));text-transform:uppercase;letter-spacing:.03em;}
+:root .footer-panel[data-panel="about"] h3{color:var(--tab-tone,var(--green-dark));}
+:root .footer-panel[data-panel="about"] p{font-style:normal;}
+:root .footer-panel[data-panel="about"] ul{margin:0 0 6px;padding-left:18px;font-size:12.5px;color:var(--ink-soft);line-height:1.5;}
