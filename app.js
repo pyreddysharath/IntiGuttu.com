@@ -584,6 +584,7 @@
     var tab = tabByKey[tabKey];
     if (!tab) return;
     state.tabKey = tabKey;
+    if (typeof renderAboutPanel === "function" && footerPanel && footerPanel.querySelector('[data-panel="about"]')) renderAboutPanel(tabKey);
     mainEl.dataset.tabTheme = tabKey;
 
     Array.prototype.forEach.call(tabsEl.querySelectorAll("button"), function (btn) {
@@ -1028,9 +1029,7 @@
     configReady.then(function () {
       if (!footerPanel.querySelector('[data-panel="othersites"]')) return;
       var intro = CONFIG.otherSitesIntro || "";
-      var sites = (CONFIG.otherSites || []).slice().sort(function (a, b) {   // A to Z
-        return String(a.name).localeCompare(String(b.name), undefined, { sensitivity: "base" });
-      });
+      var sites = CONFIG.otherSites || [];
       var html =
         '<div class="footer-panel" data-panel="othersites">' +
         "<h3>Our Other Sites</h3>" +
@@ -1063,6 +1062,70 @@
       });
     });
   }
+
+
+  // ABOUT: per-tab "about this site" details panel (first footer icon).
+  var ABOUT_SITE = "Inti Guttu (ఇంటి గుట్టు, \"Home Secrets\") is a free, ad-free household reference written for Indian homes. Every entry is a short, practical how-to that you can read in under a minute: what the problem is, what to do, in what order, and what to watch out for. Entries are written and reviewed by the site owner from everyday household experience and standard, widely published practice; they are general guidance, not professional advice.";
+  var ABOUT_TABS = {
+    tips: {
+      title: "Tips & Remedies",
+      what: "Quick kitchen fixes, storage know-how, first-aid basics and traditional home remedies, grouped by category (Cooking Fixes, Kitchen Storage, Kitchen Hacks, First Aid, Home Remedies).",
+      how: ["Each tip states the problem, the step-by-step fix and a caution where something can go wrong.", "Kitchen fixes are practical corrections for common cooking mistakes such as too salty, too sour or curdled dishes.", "Home remedies and first-aid items describe widely used household practice and are not a substitute for a doctor. Seek medical help for anything serious."],
+      who: "Anyone cooking and running a home who wants a fast, trustworthy answer without scrolling through long articles."
+    },
+    diy: {
+      title: "DIY Fixes",
+      what: "Safe, small repairs and maintenance jobs around the house: electrical basics, plumbing, appliances, cleaning, furniture and vehicle basics.",
+      how: ["Each fix opens with the precautions to take first, then the tools needed and numbered steps.", "Jobs are limited to what a careful non-professional can do. Mains electrical, gas and structural work should always go to a qualified technician.", "Diagrams are included where a picture explains the step better than words."],
+      who: "Home owners and tenants who want to handle minor repairs themselves, and to know when to call someone instead."
+    },
+    recipes: {
+      title: "Recipes",
+      what: "Home-style recipes organised state by state across India, plus a Global section, with veg / non-veg and dish-type filters (curry, tiffin / snack, sweet and more).",
+      how: ["Each recipe lists ingredients with quantities and clear numbered steps.", "Filter by Veg or Non-Veg and by dish type, or search by ingredient or dish name.", "Regional recipes follow traditional home preparation, so quantities and methods may vary from family to family."],
+      who: "Home cooks looking for authentic regional dishes and everyday meals, from beginners to experienced cooks."
+    },
+    traditions: {
+      title: "Traditions",
+      what: "Customs and household practices passed down in Indian homes: entrances and thresholds, plants and nature, food and nutrition, preservation, utensils, hygiene, yoga and daily routine.",
+      how: ["Each entry explains the practice, how it is traditionally done and the practical reason usually given for it.", "Traditions vary by region and family. These entries record common practice and do not claim scientific proof or religious authority.", "Health-related practices are for general interest only, not medical advice."],
+      who: "Anyone curious about why things are done the way they are in Indian homes, and who wants to pass the practices on."
+    }
+  };
+
+  function renderAboutPanel(tabKey) {
+    var t = ABOUT_TABS[tabKey] || ABOUT_TABS.tips;
+    var tabsHtml = Object.keys(ABOUT_TABS).map(function (k) {
+      return '<button type="button" class="about-tab' + (k === tabKey ? " active" : "") + '" data-about-tab="' + k + '">' + ABOUT_TABS[k].title + "</button>";
+    }).join("");
+    footerPanel.innerHTML =
+      '<div class="footer-panel" data-panel="about">' +
+      "<h3>About this site</h3>" +
+      "<p>" + ABOUT_SITE + "</p>" +
+      '<div class="about-tabs">' + tabsHtml + "</div>" +
+      "<h4>" + t.title + "</h4>" +
+      "<p>" + t.what + "</p>" +
+      "<h4>How the content works</h4>" +
+      "<ul>" + t.how.map(function (x) { return "<li>" + x + "</li>"; }).join("") + "</ul>" +
+      "<h4>Who it is for</h4>" +
+      "<p>" + t.who + "</p>" +
+      "</div>";
+    footerPanel.querySelectorAll("[data-about-tab]").forEach(function (b) {
+      b.addEventListener("click", function () { renderAboutPanel(b.getAttribute("data-about-tab")); });
+    });
+  }
+
+  function openAboutPanel() {
+    if (footerPanel.querySelector('[data-panel="about"]')) { closeFooterPanel(); return; }
+    setActiveFooterIcon("aboutLink");
+    renderAboutPanel(state.tabKey);
+    scrollPanelIntoView();
+  }
+
+  document.getElementById("aboutLink").addEventListener("click", function (e) {
+    e.preventDefault();
+    openAboutPanel();
+  });
 
   document.getElementById("disclaimerLink").addEventListener("click", function (e) {
     e.preventDefault();
